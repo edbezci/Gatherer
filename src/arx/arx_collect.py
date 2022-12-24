@@ -6,7 +6,7 @@ from arx.arx_taxanomy import taxanomy
 
 class arxivGather:
     def __init__(self):
-        self.arx_storage = []
+        self.arx_storage: list[dict] = []
 
     def collect(self):
 
@@ -40,7 +40,7 @@ class arxivGather:
                 }
             )
 
-    def clean_dataset(self):
+    def clean_dataset(self) -> list:
         for d in self.arx_storage:
             d["authors"] = "; ".join([str(author) for author in d["authors"]])
         for d in self.arx_storage:
@@ -48,7 +48,7 @@ class arxivGather:
 
         return self.arx_storage
 
-    def main(self):
+    def main(self) -> pd.DataFrame:
         self.collect()
         if len(self.arx_storage) >= 1:
             print(
