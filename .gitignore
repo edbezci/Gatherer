@@ -1,29 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@edbezci
-github /
-gitignore
-Public
-
-Code
-Pull requests 359
-Actions
-Security
-
-    Insights
-
-gitignore/Python.gitignore
-@astrojuanlu
-astrojuanlu Update Python.gitignore
-Latest commit 8e67b94 Feb 20, 2022
-History
-90 contributors
-160 lines (131 sloc) 3.01 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
