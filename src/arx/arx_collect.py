@@ -4,7 +4,7 @@ import pandas as pd
 from arx.arx_taxanomy import taxanomy
 
 
-class arxivGather:
+class arxiv_gather:
     def __init__(self):
         self.arx_storage: list[dict] = []
 
@@ -62,5 +62,5 @@ class arxivGather:
 
 
 if __name__ == "__main__":
-    gth = arxivGather()
+    gth = arxiv_gather()
     gth.main()

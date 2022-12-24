@@ -1,3 +1,5 @@
 arxiv == 1.4.2
 pandas==1.5.2
 pymed==0.8.9
+pytest==7.2.0
+pre-commit==2.20.0
