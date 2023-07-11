@@ -1,11 +1,14 @@
 import arxiv
 import pandas as pd
+import uuid
+import os
 
 from arx.arx_taxanomy import taxanomy
 
 
 class arxiv_gather:
     def __init__(self):
+        self.OUTPUT_FILE = "."+os.sep+"data"+os.sep+str(uuid.uuid1()).replace("-", "_") + ".csv"
         self.arx_storage: list[dict] = []
 
     def collect(self):
@@ -57,7 +60,9 @@ class arxiv_gather:
         else:
             print("There are not any articles in the dataset")
         cln_data = self.clean_dataset()
+        df = pd.DataFrame(cln_data)
 
+        df.to_csv(self.OUTPUT_FILE)
         return pd.DataFrame(cln_data)
 
 
