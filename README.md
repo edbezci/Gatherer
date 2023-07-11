@@ -25,6 +25,6 @@ To install Gatherer, make sure you have `poetry` installed on your machine. If n
     Activate poetry: poetry shell
 
 ## Usage
-Place the input data CSV files in the data folder.
-Navigate into 'src': cd src
-Run the code: python gatherer.py
+
+	Navigate into 'src': cd src
+	Run the code: python gatherer.py
