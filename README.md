@@ -30,6 +30,6 @@ To install Gatherer, make sure you have `poetry` installed on your machine. If n
 
 ## Usage
 
-![Searching Arxiv](media\step_1.png)
+![Searching Arxiv](media/step_1.png)
 
-![Critical Evaluation](media\step_2.png)
+![Critical Evaluation](media/step_2.png)
