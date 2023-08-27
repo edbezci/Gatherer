@@ -1,0 +1,744 @@
+,title,category,authors,date,summary
+0,A new framework for global data regulation,Computers and Society,Ellie Graeden; David Rosado; Tess Stevens; Mallory Knodel; Rachele Hendricks-Sturrup; Andrew Reiskind; Ashley Bennett; John Leitner; Paul Lekas; Michelle DeMooy,24-August-2023,"Under the current regulatory framework for data protections, the protection
+of human rights writ large and the corresponding outcomes are regulated largely
+independently from the data and tools that both threaten those rights and are
+needed to protect them. This separation between tools and the outcomes they
+generate risks overregulation of the data and tools themselves when not linked
+to sensitive use cases. In parallel, separation risks under-regulation if the
+data can be collected and processed under a less-restrictive framework, but
+used to drive an outcome that requires additional sensitivity and restrictions.
+A new approach is needed to support differential protections based on the
+genuinely high-risk use cases within each sector. Here, we propose a regulatory
+framework designed to apply not to specific data or tools themselves, but to
+the outcomes and rights that are linked to the use of these data and tools in
+context. This framework is designed to recognize, address, and protect a broad
+range of human rights, including privacy, and suggests a more flexible approach
+to policy making that is aligned with current engineering tools and practices.
+We test this framework in the context of open banking and describe how current
+privacy-enhancing technologies and other engineering strategies can be applied
+in this context and that of contract tracing applications. This approach for
+data protection regulations more effectively builds on existing engineering
+tools and protects the wide range of human rights defined by legislation and
+constitutions around the globe."
+1,The motility-matrix production switch in Bacillus subtilis -- a modeling perspective,Biological Physics,Simon Dannenberg; Jonas Penning; Alexander Simm; Stefan Klumpp,24-August-2023,"Phenotype switching can be triggered by external stimuli and by intrinsic
+stochasticity. Here, we focus on the motility-matrix production switch in
+Bacillus subtilis. We use modeling to describe the SinR-SlrR bistable switch
+its regulation by SinI, and to distinguish different sources of stochasticity.
+Our simulations indicate that intrinsic fluctuations in the synthesis of SinI
+are insufficient to drive spontaneous switching and suggest that switching is
+triggered by upstream noise from the Spo0A phosphorelay."
+2,FastSurfer-HypVINN: Automated sub-segmentation of the hypothalamus and adjacent structures on high-resolutional brain MRI,Computer Vision and Pattern Recognition,Santiago Estrada; David Kügler; Emad Bahrami; Peng Xu; Dilshad Mousa; Monique M. B. Breteler; N. Ahmad Aziz; Martin Reuter,24-August-2023,"The hypothalamus plays a crucial role in the regulation of a broad range of
+physiological, behavioural, and cognitive functions. However, despite its
+importance, only a few small-scale neuroimaging studies have investigated its
+substructures, likely due to the lack of fully automated segmentation tools to
+address scalability and reproducibility issues of manual segmentation. While
+the only previous attempt to automatically sub-segment the hypothalamus with a
+neural network showed promise for 1.0 mm isotropic T1-weighted (T1w) MRI, there
+is a need for an automated tool to sub-segment also high-resolutional (HiRes)
+MR scans, as they are becoming widely available, and include structural detail
+also from multi-modal MRI. We, therefore, introduce a novel, fast, and fully
+automated deep learning method named HypVINN for sub-segmentation of the
+hypothalamus and adjacent structures on 0.8 mm isotropic T1w and T2w brain MR
+images that is robust to missing modalities. We extensively validate our model
+with respect to segmentation accuracy, generalizability, in-session test-retest
+reliability, and sensitivity to replicate hypothalamic volume effects (e.g.
+sex-differences). The proposed method exhibits high segmentation performance
+both for standalone T1w images as well as for T1w/T2w image pairs. Even with
+the additional capability to accept flexible inputs, our model matches or
+exceeds the performance of state-of-the-art methods with fixed inputs. We,
+further, demonstrate the generalizability of our method in experiments with 1.0
+mm MR scans from both the Rhineland Study and the UK Biobank. Finally, HypVINN
+can perform the segmentation in less than a minute (GPU) and will be available
+in the open source FastSurfer neuroimaging software suite, offering a
+validated, efficient, and scalable solution for evaluating imaging-derived
+phenotypes of the hypothalamus."
+3,Loss Measurement of Low RDS Devices Through Thermal Modelling -- The Advantage of Not Turning it Fully On,Systems and Control,José Miguel Sanz-Alcaine; Francisco Jose Perez-Cebolla; Carlos Bernal-Ruiz; Asier Arruti; Iosu Aizpuru; Juan Sanchez,24-August-2023,"This paper presents and evaluates a novel method for generating power losses
+on transistors avoiding high currents. These could heat up the circuit tracks,
+affecting the accurate thermal modeling of the system. The proposed procedure
+is based on the transistor current regulation with low gate voltages and the
+linearity between power and temperature, being useful for all transistor
+technologies (Si, SiC and GaN). Through this method, low DC currents are enough
+to bring transistors to their thermal limits. Thermal stability issues and
+their differences between technologies are discussed and an experimental
+validation of the method is carried out."
+4,"Optimal and Robust Fault Tolerant Control of Wind Turbines Working under Sensor, Actuator, and System Faults",Systems and Control,Yashar Mousavi,24-August-2023,"Motivated by the increasing concerns over environmental challenges such as
+global warming and the exhaustion of fossil-fuel reserves, the renewable energy
+industry has become the most demanded electrical energy production source
+worldwide. In this context, wind energy conversion systems (WECSs) are the most
+dominant and fastest-growing alternative energy production technologies,
+playing an increasingly vital role in renewable power generation. To tackle the
+pitch control problem of WECSs, this thesis proposes an optimal fault-tolerant
+fractional-order pitch control strategy for pitch angle regulation of WT blades
+subjected to sensor, actuator, and system faults. To showcast the effects of
+faults, changes in the system parameters are considered as a result of sensor,
+actuator and system faults with various levels of severity.} Furthermore,
+taking advantage of the favourable merits of higher-order SMCs and fractional
+calculus, this thesis develops a fault-tolerant fractional-calculus-based
+higher-order sliding mode controller for optimum rotor speed tracking and power
+production maximization of WECSs. \textcolor{black}{The partial loss of the
+generator output torque is considered as an actuator failure, leading to loss
+of partial actuation power. Moreover, active fault-tolerant fractional-order
+higher-order SMC strategies are developed for rotor current regulation and
+speed trajectory tracking of doubly-fed induction generator (DFIG) -driven
+WECSs subjected to model uncertainties and rotor current sensor faults. The
+developed controllers are augmented with two state observers, an algebraic
+state estimator and a sliding mode observer, to estimate the rotor current
+dynamics during sensors' faults."
+5,Financial Inclusion and Monetary Policy: A Study on the Relationship between Financial Inclusion and Effectiveness of Monetary Policy in Developing Countries,General Economics,Gautam Kumar Biswas; Faruque Ahamed,24-August-2023,"The study analyzed the impact of financial inclusion on the effectiveness of
+monetary policy in developing countries. By using a panel data set of 10
+developing countries during 2004-2020, the study revealed that the financial
+inclusion measured by the number of ATM per 100,000 adults had a significant
+negative effect on monetary policy, whereas the other measure of financial
+inclusion i.e. the number of bank accounts per 100,000 adults had a positive
+impact on monetary policy, which is not statistically significant. The study
+also revealed that foreign direct investment (FDI), lending rate and exchange
+rate had a positive impact on inflation, but only the effect of lending rate is
+statistically significant. Therefore, the governments of these countries should
+make necessary drives to increase the level of financial inclusion as it
+stabilizes the price level by reducing the inflation in the economy."
+6,"False Information, Bots and Malicious Campaigns: Demystifying Elements of Social Media Manipulations",Social and Information Networks,Mohammad Majid Akhtar; Rahat Masood; Muhammad Ikram; Salil S. Kanhere,24-August-2023,"The rapid spread of false information and persistent manipulation attacks on
+online social networks (OSNs), often for political, ideological, or financial
+gain, has affected the openness of OSNs. While researchers from various
+disciplines have investigated different manipulation-triggering elements of
+OSNs (such as understanding information diffusion on OSNs or detecting
+automated behavior of accounts), these works have not been consolidated to
+present a comprehensive overview of the interconnections among these elements.
+Notably, user psychology, the prevalence of bots, and their tactics in relation
+to false information detection have been overlooked in previous research. To
+address this research gap, this paper synthesizes insights from various
+disciplines to provide a comprehensive analysis of the manipulation landscape.
+By integrating the primary elements of social media manipulation (SMM),
+including false information, bots, and malicious campaigns, we extensively
+examine each SMM element. Through a systematic investigation of prior research,
+we identify commonalities, highlight existing gaps, and extract valuable
+insights in the field. Our findings underscore the urgent need for
+interdisciplinary research to effectively combat social media manipulations,
+and our systematization can guide future research efforts and assist OSN
+providers in ensuring the safety and integrity of their platforms."
+7,Nonlinearity tunes crack dynamics in soft materials,Soft Condensed Matter,Fucheng Tian; Jian Ping Gong,24-August-2023,"Cracks in soft materials exhibit diverse dynamic patterns, involving
+straight, oscillation, branching, and supershear fracture. Here, we
+successfully reproduce these crack morphologies in a two-dimensional
+pre-strained fracture scenario and establish crack stability phase diagrams for
+three distinct nonlinear materials using a fracture phase field model. The
+contrasting phase diagrams highlight the crucial role of nonlinearity in
+regulating crack dynamics. In strain-softening materials, crack branching
+prevails, limiting the cracks to sub-Rayleigh states. Yet strain-stiffening
+stabilizes crack propagation, allowing for the presence of supershear fracture.
+Of particular interest is the large-strain linear elastic materials, where
+crack oscillation is readily triggered. The onset speed of such instability
+scales linearly with the characteristic wave speed near the crack tip,
+supporting the notion that such crack oscillations are a universal instability
+closely tied to the wave speed. The oscillation wavelength is shown to be a
+bilinear function of the nonlinear scale and crack driving force, with a
+minimum length scale associated with the dissipative zone. Moreover, our
+findings suggest that the increase in characteristic wave speed due to
+strain-stiffening can account for the observed transition of cracks from
+sub-Rayleigh to supershear regimes."
+8,Procurement in welfare programs: Evidence and implications from WIC infant formula contracts,General Economics,Yonghong An; David Davis; Yizao Liu; Ruli Xiao,24-August-2023,"This paper examines the impact of government procurement in social welfare
+programs on consumers, manufacturers, and the government. We analyze the U.S.
+infant formula market, where over half of the total sales are purchased by the
+Women, Infants, and Children (WIC) program. The WIC program utilizes
+first-price auctions to solicit rebates from the three main formula
+manufacturers, with the winner exclusively serving all WIC consumers in the
+winning state. The manufacturers compete aggressively in providing rebates
+which account for around 85% of the wholesale price. To rationalize and
+disentangle the factors contributing to this phenomenon, we model
+manufacturers' retail pricing competition by incorporating two unique features:
+price inelastic WIC consumers and government regulation on WIC brand prices.
+Our findings confirm three sizable benefits from winning the auction: a notable
+spill-over effect on non-WIC demand, a significant marginal cost reduction, and
+a higher retail price for the WIC brand due to the price inelasticity of WIC
+consumers. Our counterfactual analysis shows that procurement auctions affect
+manufacturers asymmetrically, with the smallest manufacturer harmed the most.
+More importantly, by switching from the current mechanism to a predetermined
+rebate procurement, the government can still contain the cost successfully,
+consumers' surplus is greatly improved, and the smallest manufacturer benefits
+from the switch, promoting market competition."
+9,Trend and Emerging Types of 419 Scams,Cryptography and Security,Polra Victor Falade,23-August-2023,"Technological advancements have revolutionized various aspects of human life,
+facilitating communication, business operations, healthcare, education, and
+environmental monitoring. However, this increased reliance on technology has
+also led to a surge in cybercrime, including cyber scams. The ""419 scam"" or
+Nigerian scam has been a persistent problem for decades, encompassing frauds
+like advance fee scams, fake lotteries, and black money scams. Initially
+prevalent through postal mail and later via fax, the scam has now transitioned
+to email. This study aims to identify recent types of 419 scam emails,
+particularly after the covid 19 pandemic, and explore commonly used email
+subjects. Analysis of the sample 419 scam emails revealed trending scams like
+lucky winner, threat of exposure, business/partnership proposals, investment,
+cancer/long-term illness, fund, and compensation scams. Emerging scams included
+COVID-related, cryptocurrency, marketing contact, and software development
+scams. Irrespective of the scam type, scammers commonly employed email subjects
+such as 'Re', 'Good day', 'Greetings', 'Dear friend', 'Confirm', 'Attention',
+and 'Hello dear'. The severity of cybercrime, especially the 419 scams, cannot
+be overstated, as it erodes trust, causes financial losses, and hampers
+Nigeria's reputation and economic progress. Combatting cyber scams and
+enhancing cybersecurity measures are crucial to protect individuals and
+organizations from falling victim to these fraudulent schemes."
+10,SafeAR: Towards Safer Algorithmic Recourse by Risk-Aware Policies,Machine Learning,Haochen Wu; Shubham Sharma; Sunandita Patra; Sriram Gopalakrishnan,23-August-2023,"With the growing use of machine learning (ML) models in critical domains such
+as finance and healthcare, the need to offer recourse for those adversely
+affected by the decisions of ML models has become more important; individuals
+ought to be provided with recommendations on actions to take for improving
+their situation and thus receive a favorable decision. Prior work on sequential
+algorithmic recourse -- which recommends a series of changes -- focuses on
+action feasibility and uses the proximity of feature changes to determine
+action costs. However, the uncertainties of feature changes and the risk of
+higher than average costs in recourse have not been considered. It is
+undesirable if a recourse could (with some probability) result in a worse
+situation from which recovery requires an extremely high cost. It is essential
+to incorporate risks when computing and evaluating recourse. We call the
+recourse computed with such risk considerations as Safer Algorithmic Recourse
+(SafeAR). The objective is to empower people to choose a recourse based on
+their risk tolerance. In this work, we discuss and show how existing recourse
+desiderata can fail to capture the risk of higher costs. We present a method to
+compute recourse policies that consider variability in cost and connect
+algorithmic recourse literature with risk-sensitive reinforcement learning. We
+also adopt measures ``Value at Risk'' and ``Conditional Value at Risk'' from
+the financial literature to summarize risk concisely. We apply our method to
+two real-world datasets and compare policies with different levels of
+risk-aversion using risk measures and recourse desiderata (sparsity and
+proximity)."
+11,Particle-in-cell Simulations of the Magnetorotational Instability in Stratified Shearing Boxes,High Energy Astrophysical Phenomena,Astor Sandoval; Mario Riquelme; Anatoly Spitkovsky; Fabio Bacchini,23-August-2023,"The magnetorotational instability (MRI) plays a crucial role in regulating
+the accretion efficiency in astrophysical accretion disks. In low-luminosity
+disks around black holes, such as Sgr A* and M87, Coulomb collisions are
+infrequent, making the MRI physics effectively collisionless. The collisionless
+MRI gives rise to kinetic plasma effects that can potentially affect its
+dynamic and thermodynamic properties. We present 2D and 3D particle-in-cell
+(PIC) plasma simulations of the collisionless MRI in stratified disks using
+shearing boxes with net vertical field. We use pair plasmas, with initial
+$\beta=100$ and concentrate on sub-relativistic plasma temperatures ($k_BT
+\lesssim mc^2$). Our 2D and 3D runs show disk expansion, particle and magnetic
+field outflows, and a dynamo-like process. They also produce magnetic pressure
+dominated disks with (Maxwell stress dominated) viscosity parameter $\alpha
+\sim 0.5-1$. By the end of the simulations, the dynamo-like magnetic field
+tends to dominate the magnetic energy and the viscosity in the disks. Our 2D
+and 3D runs produce fairly similar results, and are also consistent with
+previous 3D MHD simulations. Our simulations also show nonthermal particle
+acceleration, approximately characterized by power-law tails with temperature
+dependent spectral indices $-p$. For temperatures $k_BT \sim 0.05-0.3\, mc^2$,
+we find $p\approx 2.2-1.9$. The maximum accelerated particle energy depends on
+the scale separation between MHD and Larmor-scale plasma phenomena in a way
+consistent with previous PIC results of magnetic reconnection-driven
+acceleration. Our study constitutes a first step towards modeling from first
+principles potentially observable stratified MRI effects in low-luminosity
+accretion disks around black holes."
+12,Learning to Learn Financial Networks for Optimising Momentum Strategies,Portfolio Management,Xingyue Pu; Stefan Zohren; Stephen Roberts; Xiaowen Dong,23-August-2023,"Network momentum provides a novel type of risk premium, which exploits the
+interconnections among assets in a financial network to predict future returns.
+However, the current process of constructing financial networks relies heavily
+on expensive databases and financial expertise, limiting accessibility for
+small-sized and academic institutions. Furthermore, the traditional approach
+treats network construction and portfolio optimisation as separate tasks,
+potentially hindering optimal portfolio performance. To address these
+challenges, we propose L2GMOM, an end-to-end machine learning framework that
+simultaneously learns financial networks and optimises trading signals for
+network momentum strategies. The model of L2GMOM is a neural network with a
+highly interpretable forward propagation architecture, which is derived from
+algorithm unrolling. The L2GMOM is flexible and can be trained with diverse
+loss functions for portfolio performance, e.g. the negative Sharpe ratio.
+Backtesting on 64 continuous future contracts demonstrates a significant
+improvement in portfolio profitability and risk control, with a Sharpe ratio of
+1.74 across a 20-year period."
+13,Rationally Correcting Impurity Levels Positions Based on Electrostatic Potential Strategy for Photocatalytic Overall Water Splitting,Materials Science,Dazhong Sun; Wentao Li; Anqi Shi; Wenxia Zhang; Huabing Shu; Fengfeng Chi; Bing Wang; Xiuyun Zhang; Xianghong Niu,23-August-2023,"Doping to induce suitable impurity levels is an effective strategy to achieve
+highly efficient photocatalytic overall water splitting (POWS). However, to
+predict the position of impurity levels, it is not enough to only depend on the
+projected density of states of the substituted atom in the traditional method.
+Herein, taking in phosphorus-doped g-C3N5 as a sample, we find that the
+impurity atom can change electrostatic potential gradient and polarity, then
+significantly affect the spatial electron density around the substituted atom,
+which further adjusts the impurity level position. Based on the redox potential
+requirement of POWS, we not only obtain suitable impurity levels, but also
+expand the visible light absorption range. Simultaneously, the strengthened
+polarity induced by doping further improve the redox ability of photogenerated
+carriers. Moreover, the enhanced surface dipoles obviously promote the
+adsorption and subsequent splitting of water molecules. Our study provides a
+more comprehensive view to realize accurate regulation of impurity levels in
+doping engineering and gives reasonable strategies for designing an excellent
+catalyst of POWS."
+14,Quantum-Noise-driven Generative Diffusion Models,Quantum Physics,Marco Parigi; Stefano Martina; Filippo Caruso,23-August-2023,"Generative models realized with machine learning techniques are powerful
+tools to infer complex and unknown data distributions from a finite number of
+training samples in order to produce new synthetic data. Diffusion models are
+an emerging framework that have recently overcome the performance of the
+generative adversarial networks in creating synthetic text and high-quality
+images. Here, we propose and discuss the quantum generalization of diffusion
+models, i.e., three quantum-noise-driven generative diffusion models that could
+be experimentally tested on real quantum systems. The idea is to harness unique
+quantum features, in particular the non-trivial interplay among coherence,
+entanglement and noise that the currently available noisy quantum processors do
+unavoidably suffer from, in order to overcome the main computational burdens of
+classical diffusion models during inference. Hence, we suggest to exploit
+quantum noise not as an issue to be detected and solved but instead as a very
+remarkably beneficial key ingredient to generate much more complex probability
+distributions that would be difficult or even impossible to express
+classically, and from which a quantum processor might sample more efficiently
+than a classical one. Therefore, our results are expected to pave the way for
+new quantum-inspired or quantum-based generative diffusion algorithms
+addressing more powerfully classical tasks as data generation/prediction with
+widespread real-world applications ranging from climate forecasting to
+neuroscience, from traffic flow analysis to financial forecasting."
+15,Advances in the nested soft-collinear subtraction scheme,High Energy Physics - Phenomenology,Chiara Signorile-Signorile; Davide Maria Tagliabue,23-August-2023,"We discuss a path toward the generalisation of the nested soft-collinear
+subtraction scheme to arbitrary $2\rightarrow n$ processes. The scheme is
+designed to provide an efficient and process-independent procedure to extract
+and regulate infrared (IR) singularities arising from unresolved real radiation
+and combine them with explicit singularities in virtual corrections. The new
+approach is based on a reorganisation of the relevant subtraction terms into
+simple combinations of a relatively small number of recurring structures. This
+strategy leads to a drastic reduction in the computational effort required to
+derive integrated subtraction terms, while preserving the full generality of
+the scheme. We believe that this approach will allow for tackling the issue of
+regularising IR divergences at next-to-next-to-leading order in the strong
+coupling constant for arbitrary, multi-parton processes."
+16,Open Questions about the Visualization of Sociodemographic Data,Human-Computer Interaction,Florent Cabric; Margrét Vilborg Bjarnadóttir; Anne-Flore Cabouat; Petra Isenberg,23-August-2023,"This paper collects a set of open research questions on how to visualize
+sociodemographic data. Sociodemographic data is a common part of datasets
+related to people, including institutional censuses, health data systems, and
+human-resources fles. This data is sensitive, and its collection, sharing, and
+analysis require careful consideration. For instance, the European Union,
+through the General Data Protection Regulation (GDPR), protects the collection
+and processing of any personal data, including sexual orientation, ethnicity,
+and religion. Data visualization of sociodemographic data can reinforce
+stereotypes, marginalize groups, and lead to biased decision-making. It is,
+therefore, critical that these visualizations are created based on good,
+equitable design principles. In this paper, we discuss and provide a set of
+open research questions around the visualization of sociodemographic data. Our
+work contributes to an ongoing refection on representing data about people and
+highlights some important future research directions for the VIS community. A
+version of this paper and its fgures are available online at osf.io/a2u9c."
+17,Retail Demand Forecasting: A Comparative Study for Multivariate Time Series,Machine Learning,Md Sabbirul Haque; Md Shahedul Amin; Jonayet Miah,23-August-2023,"Accurate demand forecasting in the retail industry is a critical determinant
+of financial performance and supply chain efficiency. As global markets become
+increasingly interconnected, businesses are turning towards advanced prediction
+models to gain a competitive edge. However, existing literature mostly focuses
+on historical sales data and ignores the vital influence of macroeconomic
+conditions on consumer spending behavior. In this study, we bridge this gap by
+enriching time series data of customer demand with macroeconomic variables,
+such as the Consumer Price Index (CPI), Index of Consumer Sentiment (ICS), and
+unemployment rates. Leveraging this comprehensive dataset, we develop and
+compare various regression and machine learning models to predict retail demand
+accurately."
+18,Model-free Learning with Heterogeneous Dynamical Systems: A Federated LQR Approach,Optimization and Control,Han Wang; Leonardo F. Toso; Aritra Mitra; James Anderson,22-August-2023,"We study a model-free federated linear quadratic regulator (LQR) problem
+where M agents with unknown, distinct yet similar dynamics collaboratively
+learn an optimal policy to minimize an average quadratic cost while keeping
+their data private. To exploit the similarity of the agents' dynamics, we
+propose to use federated learning (FL) to allow the agents to periodically
+communicate with a central server to train policies by leveraging a larger
+dataset from all the agents. With this setup, we seek to understand the
+following questions: (i) Is the learned common policy stabilizing for all
+agents? (ii) How close is the learned common policy to each agent's own optimal
+policy? (iii) Can each agent learn its own optimal policy faster by leveraging
+data from all agents? To answer these questions, we propose a federated and
+model-free algorithm named FedLQR. Our analysis overcomes numerous technical
+challenges, such as heterogeneity in the agents' dynamics, multiple local
+updates, and stability concerns. We show that FedLQR produces a common policy
+that, at each iteration, is stabilizing for all agents. We provide bounds on
+the distance between the common policy and each agent's local optimal policy.
+Furthermore, we prove that when learning each agent's optimal policy, FedLQR
+achieves a sample complexity reduction proportional to the number of agents M
+in a low-heterogeneity regime, compared to the single-agent setting."
+19,Knowledge Graph Prompting for Multi-Document Question Answering,Computation and Language,Yu Wang; Nedim Lipka; Ryan A. Rossi; Alexa Siu; Ruiyi Zhang; Tyler Derr,22-August-2023,"The 'pre-train, prompt, predict' paradigm of large language models (LLMs) has
+achieved remarkable success in open-domain question answering (OD-QA). However,
+few works explore this paradigm in the scenario of multi-document question
+answering (MD-QA), a task demanding a thorough understanding of the logical
+associations among the contents and structures of different documents. To fill
+this crucial gap, we propose a Knowledge Graph Prompting (KGP) method to
+formulate the right context in prompting LLMs for MD-QA, which consists of a
+graph construction module and a graph traversal module. For graph construction,
+we create a knowledge graph (KG) over multiple documents with nodes symbolizing
+passages or document structures (e.g., pages/tables), and edges denoting the
+semantic/lexical similarity between passages or intra-document structural
+relations. For graph traversal, we design an LM-guided graph traverser that
+navigates across nodes and gathers supporting passages assisting LLMs in MD-QA.
+The constructed graph serves as the global ruler that regulates the
+transitional space among passages and reduces retrieval latency. Concurrently,
+the LM-guided traverser acts as a local navigator that gathers pertinent
+context to progressively approach the question and guarantee retrieval quality.
+Extensive experiments underscore the efficacy of KGP for MD-QA, signifying the
+potential of leveraging graphs in enhancing the prompt design for LLMs. Our
+code is at https://github.com/YuWVandy/KG-LLM-MDQA."
+20,Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs,Optimization and Control,Cassidy K. Buhler; Hande Y. Benson,22-August-2023,"Protected areas (PAs) are designated spaces where human activities are
+restricted to preserve critical habitats. Decision-makers are challenged with
+balancing a trade-off of financial feasibility with ecological benefit when
+establishing PAs. Given the long-term ramifications of these decisions and the
+constantly shifting environment, it is crucial that PAs are carefully selected
+with long-term viability in mind.
+  Using AI tools like simulation and optimization is common for designating
+PAs, but current decision models are primarily linear. In this paper, we
+propose a derivative-free optimization framework paired with a nonlinear
+component, population viability analysis (PVA). Formulated as a mixed integer
+nonlinear programming (MINLP) problem, our model allows for linear and
+nonlinear inputs. Connectivity, competition, crowding, and other similar
+concerns are handled by the PVA software, rather than expressed as constraints
+of the optimization model. In addition, we present numerical results that serve
+as a proof of concept, showing our models yield PAs with similar expected risk
+to that of preserving every parcel in a habitat, but at a significantly lower
+cost.
+  The overall goal is to promote interdisciplinary work by providing a new
+mathematical programming tool for conservationists that allows for nonlinear
+inputs and can be paired with existing ecological software."
+21,Designing an attack-defense game: how to increase robustness of financial transaction models via a competition,Machine Learning,Alexey Zaytsev; Alex Natekin; Evgeni Vorsin; Valerii Smirnov; Georgii Smirnov; Oleg Sidorshin; Alexander Senin; Alexander Dudin; Dmitry Berestnev,22-August-2023,"Given the escalating risks of malicious attacks in the finance sector and the
+consequential severe damage, a thorough understanding of adversarial strategies
+and robust defense mechanisms for machine learning models is critical. The
+threat becomes even more severe with the increased adoption in banks more
+accurate, but potentially fragile neural networks. We aim to investigate the
+current state and dynamics of adversarial attacks and defenses for neural
+network models that use sequential financial data as the input.
+  To achieve this goal, we have designed a competition that allows realistic
+and detailed investigation of problems in modern financial transaction data.
+The participants compete directly against each other, so possible attacks and
+defenses are examined in close-to-real-life conditions. Our main contributions
+are the analysis of the competition dynamics that answers the questions on how
+important it is to conceal a model from malicious users, how long does it take
+to break it, and what techniques one should use to make it more robust, and
+introduction additional way to attack models or increase their robustness.
+  Our analysis continues with a meta-study on the used approaches with their
+power, numerical experiments, and accompanied ablations studies. We show that
+the developed attacks and defenses outperform existing alternatives from the
+literature while being practical in terms of execution, proving the validity of
+the competition as a tool for uncovering vulnerabilities of machine learning
+models and mitigating them in various domains."
+22,ROSGPT_Vision: Commanding Robots Using Only Language Models' Prompts,Robotics,Bilel Benjdira; Anis Koubaa; Anas M. Ali,22-August-2023,"In this paper, we argue that the next generation of robots can be commanded
+using only Language Models' prompts. Every prompt interrogates separately a
+specific Robotic Modality via its Modality Language Model (MLM). A central Task
+Modality mediates the whole communication to execute the robotic mission via a
+Large Language Model (LLM). This paper gives this new robotic design pattern
+the name of: Prompting Robotic Modalities (PRM). Moreover, this paper applies
+this PRM design pattern in building a new robotic framework named
+ROSGPT_Vision. ROSGPT_Vision allows the execution of a robotic task using only
+two prompts: a Visual and an LLM prompt. The Visual Prompt extracts, in natural
+language, the visual semantic features related to the task under consideration
+(Visual Robotic Modality). Meanwhile, the LLM Prompt regulates the robotic
+reaction to the visual description (Task Modality). The framework automates all
+the mechanisms behind these two prompts. The framework enables the robot to
+address complex real-world scenarios by processing visual data, making informed
+decisions, and carrying out actions automatically. The framework comprises one
+generic vision module and two independent ROS nodes. As a test application, we
+used ROSGPT_Vision to develop CarMate, which monitors the driver's distraction
+on the roads and makes real-time vocal notifications to the driver. We showed
+how ROSGPT_Vision significantly reduced the development cost compared to
+traditional methods. We demonstrated how to improve the quality of the
+application by optimizing the prompting strategies, without delving into
+technical details. ROSGPT_Vision is shared with the community (link:
+https://github.com/bilel-bj/ROSGPT_Vision) to advance robotic research in this
+direction and to build more robotic frameworks that implement the PRM design
+pattern and enables controlling robots using only prompts."
+23,NLP-based detection of systematic anomalies among the narratives of consumer complaints,Statistics Methodology,Peiheng Gao; Ning Sun; Xuefeng Wang; Chen Yang; Ričardas Zitikis,22-August-2023,"We develop an NLP-based procedure for detecting systematic nonmeritorious
+consumer complaints, simply called systematic anomalies, among complaint
+narratives. While classification algorithms are used to detect pronounced
+anomalies, in the case of smaller and frequent systematic anomalies, the
+algorithms may falter due to a variety of reasons, including technical ones as
+well as natural limitations of human analysts. Therefore, as the next step
+after classification, we convert the complaint narratives into quantitative
+data, which are then analyzed using an algorithm for detecting systematic
+anomalies. We illustrate the entire procedure using complaint narratives from
+the Consumer Complaint Database of the Consumer Financial Protection Bureau."
+24,PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities,Software Engineering,Majd Soud; Grischa Liebel; Mohammad Hamdaqa,21-August-2023,"Smart contract vulnerabilities and bugs have become a key concern for
+software engineers, as they can lead to significant financial losses,
+reputational damage, and legal issues. Therefore, prioritizing bug fixing for
+smart contracts is critical to maintaining trust. Due to the lack of tracking
+tools, prioritizing smart contract-reported bugs is done manually, which is a
+tedious task, limits bug triaging, and needs specialized knowledge. Towards
+this end, we propose PrAIoritize; an automated approach for predicting smart
+contract bug priorities that assist software engineers in prioritizing highly
+urgent bug reports. PrAIoritize consists of two main phases: 1) automatic
+labeling, which involves the automatic construction of a smart contract keyword
+lexicon and the automatic assignment of priority levels to unlabeled bug
+reports; 2) model construction, which involves feature engineering and designs
+layers of feed-forward neural networks (FFNNs) and bidirectional long
+short-term memory (BiLSTM) with multi-class classification to better capture
+the features of the textual descriptions of bugs and predict their priority
+levels. The model then is trained using smart contract bug reports collected
+from two data sources: open-source software (OSS) projects available on GitHub
+and NVD vulnerability database. Our evaluation demonstrates significant
+improvement over state-of-the-art baselines and commonly used pre-trained
+models (e.g. BERT) for similar classification tasks, with 5.75%-35.29% increase
+in F-measure, precision, and recall."
+25,FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning,Machine Learning,Haokun Chen; Yao Zhang; Denis Krompass; Jindong Gu; Volker Tresp,21-August-2023,"Recently, foundation models have exhibited remarkable advancements in
+multi-modal learning. These models, equipped with millions (or billions) of
+parameters, typically require a substantial amount of data for finetuning.
+However, collecting and centralizing training data from diverse sectors becomes
+challenging due to distinct privacy regulations. Federated Learning (FL)
+emerges as a promising solution, enabling multiple clients to collaboratively
+train neural networks without centralizing their local data. To alleviate
+client computation burdens and communication overheads, previous works have
+adapted Parameter-efficient Finetuning (PEFT) methods for FL. Hereby, only a
+small fraction of the model parameters are optimized and communicated during
+federated communications. Nevertheless, most previous works have focused on a
+single modality and neglected one common phenomenon, i.e., the presence of data
+heterogeneity across the clients. Therefore, in this work, we propose a
+finetuning framework tailored to heterogeneous multi-modal FL, called Federated
+Dual-Aadapter Teacher (FedDAT). Specifically, our approach leverages a
+Dual-Adapter Teacher (DAT) to address data heterogeneity by regularizing the
+client local updates and applying Mutual Knowledge Distillation (MKD) for an
+efficient knowledge transfer. FedDAT is the first approach that enables an
+efficient distributed finetuning of foundation models for a variety of
+heterogeneous Vision-Language tasks. To demonstrate its effectiveness, we
+conduct extensive experiments on four multi-modality FL benchmarks with
+different types of data heterogeneity, where FedDAT substantially outperforms
+the existing centralized PEFT methods adapted for FL."
+26,Note on scattering in asymptotically nonlocal theories,High Energy Physics - Theory,Christopher D. Carone; Mikkie R. Musser,21-August-2023,"It is possible to formulate theories with many Lee-Wick particles such that a
+limit exists where the low-energy theory approaches the form of a ghost-free
+nonlocal theory. Such asymptotically nonlocal quantum field theories have a
+derived regulator scale that is hierarchically smaller than the lightest
+Lee-Wick resonance; this has been studied previously in the case of
+asymptotically nonlocal scalar theories, Abelian and non-Abelian gauge
+theories, and linearized gravity. Here we consider the dependence on
+center-of-mass energy of scattering cross sections in these theories. While
+Lee-Wick resonances can be decoupled from the low-energy theory, scattering
+amplitudes nonetheless reflect the emergent nonlocality at the scale where the
+quadratic divergences are regulated. This implies observable consequences in
+theories designed to address the hierarchy problem, even when the Lee-Wick
+resonances are not directly accessible."
+27,VERTICO VII: Environmental quenching caused by suppression of molecular gas content and star formation efficiency in Virgo Cluster galaxies,Astrophysics of Galaxies,Toby Brown; Ian D. Roberts; Mallory Thorp; Sara L. Ellison; Nikki Zabel; Christine D. Wilson; Yannick M. Bahé; Dhruv Bisaria; Alberto D. Bolatto; Alessandro Boselli; Aeree Chung; Luca Cortese; Barbara Catinella; Timothy A. Davis; María J. Jiménez-Donaire; Claudia D. P. Lagos; Bumhyun Lee; Laura C. Parker; Rory Smith; Kristine Spekkens; Adam R. H. Stevens; Vicente Villanueva; Adam B. Watts,21-August-2023,"We study how environment regulates the star formation cycle of 33 Virgo
+Cluster satellite galaxies on 720 parsec scales. We present the first resolved
+star-forming main sequence for cluster galaxies, dividing the sample based on
+their global HI properties and comparing to a control sample of field galaxies.
+HI-poor cluster galaxies have reduced star formation rate (SFR) surface
+densities with respect to both HI-normal cluster and field galaxies (0.5 dex),
+suggesting that mechanisms regulating the global HI content are responsible for
+quenching local star formation. We demonstrate that the observed quenching in
+HI-poor galaxies is caused by environmental processes such as ram pressure
+stripping (RPS) simultaneously reducing molecular gas surface density and star
+formation efficiency (SFE), compared to regions in HI-normal systems (by 0.38
+and 0.22 dex, respectively). We observe systematically elevated SFRs that are
+driven by increased molecular gas surface densities at fixed stellar mass
+surface density in the outskirts of early-stage RPS galaxies, while SFE remains
+unchanged with respect to the field sample. We quantify how RPS and starvation
+affect the star formation cycle of inner and outer galaxy discs as they are
+processed by the cluster. We show both are effective quenching mechanisms with
+the key difference being that RPS acts upon the galaxy outskirts while
+starvation regulates the star formation cycle throughout disc, including within
+the truncation radius. For both processes, the quenching is caused by a
+simultaneous reduction in molecular gas surface densities and SFE at fixed
+stellar mass surface density."
+28,Real World Time Series Benchmark Datasets with Distribution Shifts: Global Crude Oil Price and Volatility,Machine Learning,Pranay Pasula,21-August-2023,"The scarcity of task-labeled time-series benchmarks in the financial domain
+hinders progress in continual learning. Addressing this deficit would foster
+innovation in this area. Therefore, we present COB, Crude Oil Benchmark
+datasets. COB includes 30 years of asset prices that exhibit significant
+distribution shifts and optimally generates corresponding task (i.e., regime)
+labels based on these distribution shifts for the three most important crude
+oils in the world. Our contributions include creating real-world benchmark
+datasets by transforming asset price data into volatility proxies, fitting
+models using expectation-maximization (EM), generating contextual task labels
+that align with real-world events, and providing these labels as well as the
+general algorithm to the public. We show that the inclusion of these task
+labels universally improves performance on four continual learning algorithms,
+some state-of-the-art, over multiple forecasting horizons. We hope these
+benchmarks accelerate research in handling distribution shifts in real-world
+data, especially due to the global importance of the assets considered. We've
+made the (1) raw price data, (2) task labels generated by our approach, (3) and
+code for our algorithm available at https://oilpricebenchmarks.github.io."
+29,Spear and Shield: Adversarial Attacks and Defense Methods for Model-Based Link Prediction on Continuous-Time Dynamic Graphs,Machine Learning,Dongjin Lee; Juho Lee; Kijung Shin,21-August-2023,"Real-world graphs are dynamic, constantly evolving with new interactions,
+such as financial transactions in financial networks. Temporal Graph Neural
+Networks (TGNNs) have been developed to effectively capture the evolving
+patterns in dynamic graphs. While these models have demonstrated their
+superiority, being widely adopted in various important fields, their
+vulnerabilities against adversarial attacks remain largely unexplored. In this
+paper, we propose T-SPEAR, a simple and effective adversarial attack method for
+link prediction on continuous-time dynamic graphs, focusing on investigating
+the vulnerabilities of TGNNs. Specifically, before the training procedure of a
+victim model, which is a TGNN for link prediction, we inject edge perturbations
+to the data that are unnoticeable in terms of the four constraints we propose,
+and yet effective enough to cause malfunction of the victim model. Moreover, we
+propose a robust training approach T-SHIELD to mitigate the impact of
+adversarial attacks. By using edge filtering and enforcing temporal smoothness
+to node embeddings, we enhance the robustness of the victim model. Our
+experimental study shows that T-SPEAR significantly degrades the victim model's
+performance on link prediction tasks, and even more, our attacks are
+transferable to other TGNNs, which differ from the victim model assumed by the
+attacker. Moreover, we demonstrate that T-SHIELD effectively filters out
+adversarial edges and exhibits robustness against adversarial attacks,
+surpassing the link prediction performance of the naive TGNN by up to 11.2%
+under T-SPEAR."
+30,Backdooring Textual Inversion for Concept Censorship,Cryptography and Security,Yutong Wu; Jie Zhang; Florian Kerschbaum; Tianwei Zhang,21-August-2023,"Recent years have witnessed success in AIGC (AI Generated Content). People
+can make use of a pre-trained diffusion model to generate images of high
+quality or freely modify existing pictures with only prompts in nature
+language. More excitingly, the emerging personalization techniques make it
+feasible to create specific-desired images with only a few images as
+references. However, this induces severe threats if such advanced techniques
+are misused by malicious users, such as spreading fake news or defaming
+individual reputations. Thus, it is necessary to regulate personalization
+models (i.e., concept censorship) for their development and advancement.
+  In this paper, we focus on the personalization technique dubbed Textual
+Inversion (TI), which is becoming prevailing for its lightweight nature and
+excellent performance. TI crafts the word embedding that contains detailed
+information about a specific object. Users can easily download the word
+embedding from public websites like Civitai and add it to their own stable
+diffusion model without fine-tuning for personalization. To achieve the concept
+censorship of a TI model, we propose leveraging the backdoor technique for good
+by injecting backdoors into the Textual Inversion embeddings. Briefly, we
+select some sensitive words as triggers during the training of TI, which will
+be censored for normal use. In the subsequent generation stage, if the triggers
+are combined with personalized embeddings as final prompts, the model will
+output a pre-defined target image rather than images including the desired
+malicious concept.
+  To demonstrate the effectiveness of our approach, we conduct extensive
+experiments on Stable Diffusion, a prevailing open-sourced text-to-image model.
+Our code, data, and results are available at
+https://concept-censorship.github.io."
+31,"Ultrafast Radiographic Imaging and Tracking: An overview of instruments, methods, data, and applications",Instrumentation and Detectors,Zhehui Wang; Andrew F. T. Leong; Angelo Dragone; Arianna E. Gleason; Rafael Ballabriga; Christopher Campbell; Michael Campbell; Cinzia Da Vià; Dana M. Dattelbaum; Marcel Demarteau; Lorenzo Fabris; Eric R. Fossum; Sol M. Gruner; Todd Hufnagel; Xiaolu Ju; Ke Li; Xavier Llopart; Bratislav Lukić; Alexander Rack; Joseph Strehlow; Audrey C. Therrien; Julia Thom-Levy; Feixiang Wang; Tiqiao Xiao; Mingwei Xu; Xin Yue,21-August-2023,"Ultrafast radiographic imaging and tracking (U-RadIT) use state-of-the-art
+ionizing particle and light sources to experimentally study sub-nanosecond
+dynamic processes in physics, chemistry, biology, geology, materials science
+and other fields. These processes, fundamental to nuclear fusion energy,
+advanced manufacturing, green transportation and others, often involve one mole
+or more atoms, and thus are challenging to compute by using the first
+principles of quantum physics or other forward models. One of the central
+problems in U-RadIT is to optimize information yield through, e.g.
+high-luminosity X-ray and particle sources, efficient imaging and tracking
+detectors, novel methods to collect data, and large-bandwidth online and
+offline data processing, regulated by the underlying physics, statistics, and
+computing power. We review and highlight recent progress in: a.) Detectors; b.)
+U-RadIT modalities; c.) Data and algorithms; and d.) Applications.
+Hardware-centric approaches to U-RadIT optimization are constrained by detector
+material properties, low signal-to-noise ratio, high cost and long development
+cycles of critical hardware components such as ASICs. Interpretation of
+experimental data, including comparisons with forward models, is frequently
+hindered by sparse measurements, model and measurement uncertainties, and
+noise. Alternatively, U-RadIT makes increasing use of data science and machine
+learning algorithms, including experimental implementations of compressed
+sensing. Machine learning and artificial intelligence approaches, refined by
+physics and materials information, may also contribute significantly to data
+interpretation, uncertainty quantification and U-RadIT optimization."
+32,Who should pay for frequency-containment ancillary services? Providing incentives to shape investment during the energy transition,Systems and Control,Luis Badesa,21-August-2023,"While the operating cost of electricity grids based on thermal generation was
+largely driven by the cost of fuel, as renewable penetration increases,
+ancillary services represent an increasingly large proportion of the running
+costs. Electric frequency is an important magnitude in highly renewable grids,
+as it becomes more volatile and therefore the cost related to maintaining it
+within safe bounds has significantly increased. All generators and consumers
+have so far been equally responsible for covering frequency-containment
+ancillary services costs, but it has become relevant to rethink this regulatory
+arrangement. In this paper, we discuss the issue of cost allocation for these
+services, highlighting the need to evolve towards a causation-based regulatory
+framework. We argue that parties responsible for creating the need for
+ancillary services should bear these costs. However, this would imply an
+important change in electricity market policy, therefore it is necessary to
+understand the impact on current and future investments on generation, as well
+as on electricity tariffs. Here we provide a qualitative analysis of this
+issue, hoping to open up a focused discussion among academics, regulators and
+industry."
+33,Ultrafast and Ultralight Network-Based Intelligent System for Real-time Diagnosis of Ear diseases in Any Devices,Computer Vision and Pattern Recognition,Yubiao Yue; Xinyu Zeng; Xiaoqiang Shi; Meiping Zhang; Haihua Liang; Fan Zhang; Yanmei Chen; Zefeng Xie; Wenrui Wu; Zhenzhang Li,21-August-2023,"Traditional ear disease diagnosis heavily depends on experienced specialists
+and specialized equipment, frequently resulting in misdiagnoses, treatment
+delays, and financial burdens for some patients. Utilizing deep learning models
+for efficient ear disease diagnosis has proven effective and affordable.
+However, existing research overlooked model inference speed and parameter size
+required for deployment. To tackle these challenges, we constructed a
+large-scale dataset comprising eight ear disease categories and normal ear
+canal samples from two hospitals. Inspired by ShuffleNetV2, we developed
+Best-EarNet, an ultrafast and ultralight network enabling real-time ear disease
+diagnosis. Best-EarNet incorporates the novel Local-Global Spatial Feature
+Fusion Module which can capture global and local spatial information
+simultaneously and guide the network to focus on crucial regions within feature
+maps at various levels, mitigating low accuracy issues. Moreover, our network
+uses multiple auxiliary classification heads for efficient parameter
+optimization. With 0.77M parameters, Best-EarNet achieves an average frames per
+second of 80 on CPU. Employing transfer learning and five-fold cross-validation
+with 22,581 images from Hospital-1, the model achieves an impressive 95.23%
+accuracy. External testing on 1,652 images from Hospital-2 validates its
+performance, yielding 92.14% accuracy. Compared to state-of-the-art networks,
+Best-EarNet establishes a new state-of-the-art (SOTA) in practical
+applications. Most importantly, we developed an intelligent diagnosis system
+called Ear Keeper, which can be deployed on common electronic devices. By
+manipulating a compact electronic otoscope, users can perform comprehensive
+scanning and diagnosis of the ear canal using real-time video. This study
+provides a novel paradigm for ear endoscopy and other medical endoscopic image
+recognition applications."
+34,Unveiling the Interplay between Central Bank Digital Currency and Bank Deposits,Theoretical Economics,Hanfeng Chen; Maria Elena Filippin,20-August-2023,"We extend the Real Business Cycle model in Niepelt (2022) to analyze the risk
+to financial stability following the introduction of a central bank digital
+currency (CBDC). CBDC competes with commercial bank deposits as households'
+source of liquidity. We consider different degrees of substitutability between
+payment instruments and review the equivalence result in Niepelt (2022) by
+introducing a collateral constraint banks must respect when borrowing from the
+central bank. When CBDC and deposits are perfect substitutes, the central bank
+can offer loans to banks that render the introduction of CBDC neutral to the
+real economy. We show that the optimal level of the central bank's lending rate
+depends on the restrictiveness of the collateral constraint: the tighter it is,
+the lower the loan rate the central bank needs to post. However, when CBDC and
+deposits are imperfect substitutes, the central bank cannot make banks
+indifferent to the competition from CBDC. It follows that the introduction of
+CBDC has real effects on the economy."
+35,Digital Real Estate in the Metaverse: An Empirical Analysis of Retail Investor Motivations,General Finance,Lennart Ante; Friedrich-Philipp Wazinski; Aman Saggu,20-August-2023,"This paper investigates retail investor motivations for digital real estate
+ownership in the crypto-metaverse. Utilizing a detailed financial behavior
+survey of metaverse landowners' intrinsic and extrinsic motivations, we apply
+principal components analysis to uncover four distinct motivational groups: (1)
+Aesthetics and Identity, (2) Social and Community, (3) Speculation and
+Investment, and (4) Innovation and Technology. Our findings reveal that age,
+education, investment knowledge, risk-taking, and impulsivity significantly
+influence investor group membership. This research provides valuable insights
+to investors and developers, underscoring the potential of a platform to
+attract retail investors with speculative intentions, engagement longevity, and
+passive or active trading characteristics, contingent on unique
+crypto-metaverse attributes."
+36,Economic Policy Uncertainty: A Review on Applications and Measurement Methods with Focus on Text Mining Methods,Computers and Society,Fatemeh Kaveh-Yazdy; Sajjad Zarifzadeh,20-August-2023,"Economic Policy Uncertainty (EPU) represents the uncertainty realized by the
+investors during economic policy alterations. EPU is a critical indicator in
+economic studies to predict future investments, the unemployment rate, and
+recessions. EPU values can be estimated based on financial parameters directly
+or implied uncertainty indirectly using the text mining methods. Although EPU
+is a well-studied topic within the economy, the methods utilized to measure it
+are understudied. In this article, we define the EPU briefly and review the
+methods used to measure the EPU, and survey the areas influenced by the changes
+in EPU level. We divide the EPU measurement methods into three major groups
+with respect to their input data. Examples of each group of methods are
+enlisted, and the pros and cons of the groups are discussed. Among the EPU
+measures, text mining-based ones are dominantly studied. These methods measure
+the realized uncertainty by taking into account the uncertainty represented in
+the news and publicly available sources of financial information. Finally, we
+survey the research areas that rely on measuring the EPU index with the hope
+that studying the impacts of uncertainty would attract further attention of
+researchers from various research fields. In addition, we propose a list of
+future research approaches focusing on measuring EPU using textual material."
+37,A review of SolarWinds attack on Orion platform using persistent threat agents anf techniques for gaining unauthorized access,"Computational Engineering, Finance, and Science",Antigoni Kruti; Usman Butt; Rejwan Sulaiman,20-August-2023,"This paper of work examines the SolarWinds attack, designed on Orion Platform
+security incident. It analyses the persistent threats agents and potential
+technical attack techniques to gain unauthorized access. In 2020 SolarWinds
+attack indicates an initial breach disclosure on Orion Platform software by
+malware distribution on IT and government organizations such as Homeland
+Security, Microsoft and Intel associated with supply chains leaks consequences
+from small loopholes in security systems. Hackers increased the number of
+infected company and businesses networks during the supply-chain attack,
+hackers were capable to propagate the attack by using a VMware exploit. On the
+special way they started to target command injections, privilege escalations,
+and use after free platforms of VMware. In this way, they gained access to
+Virtual Machines and in the east way pivot other servers. This literature
+review aim to analyze the security gap regarding to SolarWinds incident on
+Orion Platform, the impact on industry and financial sectors involving the
+elements of incident response plan. Therefore, this research paper ensures
+specifications of proper solutions for possible defense security systems by
+analyzing a SolarWinds attack case study via system evaluation and monitoring.
+It concludes with necessary remediation actions on cyber hygiene
+countermeasures, common vulnerabilities and exposure analysis and solutions."
+38,To Healthier Ethereum: A Comprehensive and Iterative Smart Contract Weakness Enumeration,Software Engineering,Jiachi Chen; Mingyuan Huang; Zewei Lin; Peilin Zheng; Zibin Zheng,20-August-2023,"With the increasing popularity of cryptocurrencies and blockchain technology,
+smart contracts have become a prominent feature in developing decentralized
+applications. However, these smart contracts are susceptible to vulnerabilities
+that hackers can exploit, resulting in significant financial losses. In
+response to this growing concern, various initiatives have emerged. Notably,
+the SWC vulnerability list played an important role in raising awareness and
+understanding of smart contract weaknesses. However, the SWC list lacks
+maintenance and has not been updated with new vulnerabilities since 2020. To
+address this gap, this paper introduces the Smart Contract Weakness Enumeration
+(SWE), a comprehensive and practical vulnerability list up until 2023. We
+collect 273 vulnerability descriptions from 86 top conference papers and
+journal papers, employing open card sorting techniques to deduplicate and
+categorize these descriptions. This process results in the identification of 40
+common contract weaknesses, which are further classified into 20 sub-research
+fields through thorough discussion and analysis. SWE provides a systematic and
+comprehensive list of smart contract vulnerabilities, covering existing and
+emerging vulnerabilities in the last few years. Moreover, SWE is a scalable,
+continuously iterative program. We propose two update mechanisms for the
+maintenance of SWE. Regular updates involve the inclusion of new
+vulnerabilities from future top papers, while irregular updates enable
+individuals to report new weaknesses for review and potential addition to SWE."
+39,Hiding Backdoors within Event Sequence Data via Poisoning Attacks,Machine Learning,Elizaveta Kovtun; Alina Ermilova; Dmitry Berestnev; Alexey Zaytsev,20-August-2023,"The financial industry relies on deep learning models for making important
+decisions. This adoption brings new danger, as deep black-box models are known
+to be vulnerable to adversarial attacks. In computer vision, one can shape the
+output during inference by performing an adversarial attack called poisoning
+via introducing a backdoor into the model during training. For sequences of
+financial transactions of a customer, insertion of a backdoor is harder to
+perform, as models operate over a more complex discrete space of sequences, and
+systematic checks for insecurities occur. We provide a method to introduce
+concealed backdoors, creating vulnerabilities without altering their
+functionality for uncontaminated data. To achieve this, we replace a clean
+model with a poisoned one that is aware of the availability of a backdoor and
+utilize this knowledge. Our most difficult for uncovering attacks include
+either additional supervised detection step of poisoned data activated during
+the test or well-hidden model weight modifications. The experimental study
+provides insights into how these effects vary across different datasets,
+architectures, and model components. Alternative methods and baselines, such as
+distillation-type regularization, are also explored but found to be less
+efficient. Conducted on three open transaction datasets and architectures,
+including LSTM, CNN, and Transformer, our findings not only illuminate the
+vulnerabilities in contemporary models but also can drive the construction of
+more robust systems."

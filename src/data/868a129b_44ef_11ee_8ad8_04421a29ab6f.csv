@@ -1,0 +1,334 @@
+,title,category,authors,date,summary
+0,Electron trapping in graphene quantum dots with magnetic flux,Mesoscale and Nanoscale Physics,Mohammed El Azar; Ahmed Bouhlal; Abdulaziz D. Alhaidari; Ahmed Jellal,24-August-2023,"It is known that the appearance of Klein tunneling in graphene makes it hard
+to keep or localize electrons in a graphene-based quantum dot (GQD). However, a
+magnetic field can be used to temporarily confine an electron that is traveling
+into a GQD. The electronic states investigated here are resonances with a
+finite trapping time, also referred to as quasi-bound states. By subjecting the
+GDQ to a magnetic flux, we study the scattering phenomenon and the
+Aharonov-Bohm effect on the lifetime of quasi-bound states existing in a GQD.
+We demonstrate that the trapping time increases with the magnetic flux
+sustaining the trapped states for a long time even after the flux is turned
+off. Furthermore, we discover that the probability density within the GQD is
+also clearly improved. We demonstrate that the trapping time of an electron
+inside a GQD can be successfully extended by adjusting the magnetic flux
+parameters."
+1,Spectral determination of the colour and vertical structure of dark spots in Neptune's atmosphere,Earth and Planetary Astrophysics,Patrick G. J. Irwin; Jack Dobinson; Arjuna James. Michael H. Wong; Leigh N. Fletcher; Michael T. Roman; Nicholas A. Teanby; Daniel Toledo; Glenn S. Orton; Santiago Perez-Hoyos; Agustin Sanchez-Lavega; Lawrence Sromovsky; Amy A. Simon; Raul Morales-Juberias; Imke de Pater; Statia L. Cook,24-August-2023,"Previous observations of dark vortices in Neptune's atmosphere, such as
+Voyager-2's Great Dark Spot, have been made in only a few, broad-wavelength
+channels, which has hampered efforts to pinpoint their pressure level and what
+makes them dark. Here, we present Very Large Telescope (Chile) MUSE
+spectrometer observations of Hubble Space Telescope's NDS-2018 dark spot, made
+in 2019. These medium-resolution 475 - 933 nm reflection spectra allow us to
+show that dark spots are caused by a darkening at short wavelengths (< 700 nm)
+of a deep ~5-bar aerosol layer, which we suggest is the H$_2$S condensation
+layer. A deep bright spot, named DBS-2019, is also visible on the edge of
+NDS-2018, whose spectral signature is consistent with a brightening of the same
+5-bar layer at longer wavelengths (> 700 nm). This bright feature is much
+deeper than previously studied dark spot companion clouds and may be connected
+with the circulation that generates and sustains such spots."
+2,Software Startups -- A Research Agenda,Software Engineering,Michael Unterkalmsteiner; Pekka Abrahamsson; Xiaofeng Wang; Anh Nguyen-Duc; Syed M. Ali Shah; Sohaib Shahid Bajwa; Guido H. Baltes; Kieran Conboy; Eoin Cullina; Denis Dennehy; Henry Edison; Carlos Fernández-Sánchez; Juan Garbajosa; Tony Gorschek; Eriks Klotins; Laura Hokkanen; Fabio Kon; Ilaria Lunesu; Michele Marchesi; Lorraine Morgan; Markku Oivo; Christoph Selig; Pertti Seppänen; Roger Sweetman; Pasi Tyrväinen; Christina Ungerer; Agustín Yagüe,24-August-2023,"Software startup companies develop innovative, software-intensive products
+within limited time frames and with few resources, searching for sustainable
+and scalable business models. Software startups are quite distinct from
+traditional mature software companies, but also from micro-, small-, and
+medium-sized enterprises, introducing new challenges relevant for software
+engineering research. This paper's research agenda focuses on software
+engineering in startups, identifying, in particular, 70+ research questions in
+the areas of supporting startup engineering activities, startup evolution
+models and patterns, ecosystems and innovation hubs, human aspects in software
+startups, applying startup concepts in non-startup environments, and
+methodologies and theories for startup research. We connect and motivate this
+research agenda with past studies in software startup research, while pointing
+out possible future directions. While all authors of this research agenda have
+their main background in Software Engineering or Computer Science, their
+interest in software startups broadens the perspective to the challenges, but
+also to the opportunities that emerge from multi-disciplinary research. Our
+audience is therefore primarily software engineering researchers, even though
+we aim at stimulating collaborations and research that crosses disciplinary
+boundaries. We believe that with this research agenda we cover a wide spectrum
+of the software startup industry current needs."
+3,Self-induced Bose glass phase in quantum cluster quasicrystals,Quantum Gases,Matheus Grossklags; Matteo Ciardi; Vinicius Zampronio; Fabio Cinti; Alejandro Mendoza-Coto,23-August-2023,"We study the emergence of Bose glass phases in self sustained bosonic
+quasicrystals induced by a pair interaction between particles of
+Lifshitz-Petrich type. By using a mean field variational method designed in
+momentum space as well as Gross-Pitaevskii simulations we determine the phase
+diagram of the model. The study of the local and global superfluid fraction
+allows the identification of supersolid, super quasicrystal, Bose glass and
+insulating phases. The Bose glass phase emerges as a quasicrystal phase in
+which the global superfluidity is essentially zero, while the local
+superfluidity remains finite in certain ring structures of the quasicrystalline
+pattern. Furthermore, we perform continuous space Path Integral Monte Carlo
+simulations for a case in which the interaction between particles stabilizes a
+quasicrystal phase. Our results show that as the strength of the interaction
+between particles is increased the system undergoes a sequence of states
+consistent with the super quasicrystal, Bose glass, and quasicrystal insulator
+thermodynamic phases."
+4,Evolution of ESG-focused DLT Research: An NLP Analysis of the Literature,Information Retrieval,Walter Hernandez; Kamil Tylinski; Alastair Moore; Niall Roche; Nikhil Vadgama; Horst Treiblmaier; Jiangbo Shangguan; Paolo Tasca; Jiahua Xu,23-August-2023,"Distributed Ledger Technologies (DLTs) have rapidly evolved, necessitating
+comprehensive insights into their diverse components. However, a systematic
+literature review that emphasizes the Environmental, Sustainability, and
+Governance (ESG) components of DLT remains lacking. To bridge this gap, we
+selected 107 seed papers to build a citation network of 63,083 references and
+refined it to a corpus of 24,539 publications for analysis. Then, we labeled
+the named entities in 46 papers according to twelve top-level categories
+derived from an established technology taxonomy and enhanced the taxonomy by
+pinpointing DLT's ESG elements. Leveraging transformer-based language models,
+we fine-tuned a pre-trained language model for a Named Entity Recognition (NER)
+task using our labeled dataset. We used our fine-tuned language model to
+distill the corpus to 505 key papers, facilitating a literature review via
+named entities and temporal graph analysis on DLT evolution in the context of
+ESG. Our contributions are a methodology to conduct a machine learning-driven
+systematic literature review in the DLT field, placing a special emphasis on
+ESG aspects. Furthermore, we present a first-of-its-kind NER dataset, composed
+of 54,808 named entities, designed for DLT and ESG-related explorations."
+5,Multi-Objective Optimization for Sparse Deep Neural Network Training,Machine Learning,S. S. Hotegni; S. Peitz; M. Berkemeier,23-August-2023,"Different conflicting optimization criteria arise naturally in various Deep
+Learning scenarios. These can address different main tasks (i.e., in the
+setting of Multi-Task Learning), but also main and secondary tasks such as loss
+minimization versus sparsity. The usual approach is a simple weighting of the
+criteria, which formally only works in the convex setting. In this paper, we
+present a Multi-Objective Optimization algorithm using a modified Weighted
+Chebyshev scalarization for training Deep Neural Networks (DNNs) with respect
+to several tasks. By employing this scalarization technique, the algorithm can
+identify all optimal solutions of the original problem while reducing its
+complexity to a sequence of single-objective problems. The simplified problems
+are then solved using an Augmented Lagrangian method, enabling the use of
+popular optimization techniques such as Adam and Stochastic Gradient Descent,
+while efficaciously handling constraints. Our work aims to address the
+(economical and also ecological) sustainability issue of DNN models, with a
+particular focus on Deep Multi-Task models, which are typically designed with a
+very large number of weights to perform equally well on multiple tasks. Through
+experiments conducted on two Machine Learning datasets, we demonstrate the
+possibility of adaptively sparsifying the model during training without
+significantly impacting its performance, if we are willing to apply
+task-specific adaptations to the network weights. Code is available at
+https://github.com/salomonhotegni/MDMTN."
+6,HarvestNet: A Dataset for Detecting Smallholder Farming Activity Using Harvest Piles and Remote Sensing,Computer Vision and Pattern Recognition,Jonathan Xu; Amna Elmustafa; Liya Weldegebriel; Emnet Negash; Richard Lee; Chenlin Meng; Stefano Ermon; David Lobell,23-August-2023,"Small farms contribute to a large share of the productive land in developing
+countries. In regions such as sub-Saharan Africa, where 80% of farms are small
+(under 2 ha in size), the task of mapping smallholder cropland is an important
+part of tracking sustainability measures such as crop productivity. However,
+the visually diverse and nuanced appearance of small farms has limited the
+effectiveness of traditional approaches to cropland mapping. Here we introduce
+a new approach based on the detection of harvest piles characteristic of many
+smallholder systems throughout the world. We present HarvestNet, a dataset for
+mapping the presence of farms in the Ethiopian regions of Tigray and Amhara
+during 2020-2023, collected using expert knowledge and satellite images,
+totaling 7k hand-labeled images and 2k ground collected labels. We also
+benchmark a set of baselines including SOTA models in remote sensing with our
+best models having around 80% classification performance on hand labelled data
+and 90%, 98% accuracy on ground truth data for Tigray, Amhara respectively. We
+also perform a visual comparison with a widely used pre-existing coverage map
+and show that our model detects an extra 56,621 hectares of cropland in Tigray.
+We conclude that remote sensing of harvest piles can contribute to more timely
+and accurate cropland assessments in food insecure region."
+7,Type III Radio Bursts from Solar Eruptions and their Connection to GLE and SGRE Events,Solar and Stellar Astrophysics,Nat Gopalswamy; Anshu Kumari; Pertti A. Mäkelä,22-August-2023,"We report on the close similarity of coronal mass ejection (CME) properties
+in ground level enhancement (GLE) in solar energetic particle (SEP) events and
+sustained gamma ray emission (SGRE) from the Sun as indicated by low frequency
+type III radio bursts observed in the interplanetary medium. The complex type
+III bursts have an average 1 MHz duration of 36 and 34 min in the SGRE and GLE
+events, respectively. Similarly, the CMEs underlying SGRE and GLE have average
+space speeds of 1866 and 2084 km/s, respectively. These are larger than the
+corresponding values (32 min, 1407 km/s) for a control sample of type III
+bursts associated with frontside halo CMEs with sky plane speed exceeding 800
+km/s. These results are consistent with the idea that energetic CME driven
+shocks accelerate particles to very high energies that are responsible for GLE
+and SGRE events."
+8,Multistability of elasto-inertial two-dimensional channel flow,Fluid Dynamics,Miguel Beneitez; Jacob Page; Yves Dubief; Rich R. Kerswell,22-August-2023,"Elasto-inertial turbulence (EIT) is a recently discovered two-dimensional
+chaotic flow state observed in dilute polymer solutions. It has been
+hypothesised that the dynamical origins of EIT are linked to a center-mode
+instability, whose nonlinear evolution leads to a travelling wave with an
+'arrowhead' structure in the polymer conformation, a structure also observed
+instantaneously in simulations of EIT. In this work we conduct a suite of
+two-dimensional direct numerical simulations spanning a wide range of polymeric
+flow parameters to examine the possible dynamical connection between the
+arrowhead and EIT. Our calculations reveal (up to) four co-existent attractors:
+the laminar state and a steady arrowhead, along with EIT and a 'chaotic
+arrowhead'. The steady arrowhead is stable for all parameters considered here,
+while the final pair of (chaotic) flow states are visually very similar and can
+be distinguished only by the presence of a weak polymer arrowhead structure in
+the 'chaotic arrowhead' regime. Analysis of energy transfers between the flow
+and the polymer indicates that both chaotic regimes are maintained by an
+identical near-wall mechanism and that the weak arrowhead does not play a role.
+Our results suggest that the arrowhead is a benign flow structure that is
+disconnected from the self-sustaining mechanics of EIT."
+9,Radiative Magnetohydrodynamic Simulation of the Confined Eruption of a Magnetic Flux Rope: Unveiling the Driving and Constraining Forces,Solar and Stellar Astrophysics,Can Wang; Feng Chen; Mingde Ding; Zekun Lu,22-August-2023,"We analyse the forces that control the dynamic evolution of a flux rope
+eruption in a three-dimensional (3D) radiative magnetohydrodynamic (RMHD)
+simulation. The confined eruption of the flux rope gives rise to a C8.5 flare.
+The flux rope rises slowly with an almost constant velocity of a few km/s in
+the early stage, when the gravity and Lorentz force are nearly counterbalanced.
+After the flux rope rises to the height at which the decay index of the
+external poloidal field satisfies the torus instability criterion, the
+significantly enhanced Lorentz force breaks the force balance and drives rapid
+acceleration of the flux rope. Fast magnetic reconnection is immediately
+induced within the current sheet under the erupting flux rope, which provides a
+strong positive feedback to the eruption. The eruption is eventually confined
+due to the tension force from the strong external toroidal field. Our results
+suggest that the gravity of plasma plays an important role in sustaining the
+quasi-static evolution of the pre-eruptive flux rope. The Lorentz force, which
+is contributed from both the ideal magnetohydrodynamic (MHD) instability and
+magnetic reconnection, dominates the dynamic evolution during the eruption
+process."
+10,Enhancements of Electron-Atom Collisions due to Pauli Repulsion in Neutron-Star Magnetic Fields,High Energy Astrophysical Phenomena,Thomas Gomez; Mark Zammit; Igor Bray; Christopher Fontes; Jackson White,22-August-2023,"Neutron star surfaces and atmospheres are unique environments that sustain
+the largest-known magnetic fields in the universe. Our knowledge of neutron
+star material properties, including the composition and equation of state,
+remains highly unconstrained. Electron-atom collisions are integral to
+theoretical thermal conduction and spectral emission models that describe
+neutron star surfaces. The theory of scattering in magnetic fields was
+developed in the 1970s, but focused only on bare nuclei scattering. In this
+work, we present a quantum treatment of atom-electron collisions in magnetic
+fields; of significant importance is the inclusion of Pauli repulsion arising
+from two interacting electrons. We find strange behaviors not seen in
+collisions without a magnetic field. In high magnetic fields, Pauli repulsion
+can lead to orders of magnitude enhancements of collision cross sections.
+Additionally, the elastic collision cross sections that involve the ground
+state become comparable to those involving excited states, and states with
+large orbits have the largest contribution to the collisions. We anticipate
+significant changes to transport properties and spectral line broadening in
+neutron star surfaces and atmospheres, which will aid in spectral diagnostics
+of these extreme environments."
+11,Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing,Systems and Control,Flor Ortiz; Nicolas Skatchkovsky; Eva Lagunas; Wallace A. Martins; Geoffrey Eappen; Saed Daoud; Osvaldo Simeone; Bipin Rajendran; Symeon Chatzinotas,22-August-2023,"The latest satellite communication (SatCom) missions are characterized by a
+fully reconfigurable on-board software-defined payload, capable of adapting
+radio resources to the temporal and spatial variations of the system traffic.
+As pure optimization-based solutions have shown to be computationally tedious
+and to lack flexibility, machine learning (ML)-based methods have emerged as
+promising alternatives. We investigate the application of energy-efficient
+brain-inspired ML models for on-board radio resource management. Apart from
+software simulation, we report extensive experimental results leveraging the
+recently released Intel Loihi 2 chip. To benchmark the performance of the
+proposed model, we implement conventional convolutional neural networks (CNN)
+on a Xilinx Versal VCK5000, and provide a detailed comparison of accuracy,
+precision, recall, and energy efficiency for different traffic demands. Most
+notably, for relevant workloads, spiking neural networks (SNNs) implemented on
+Loihi 2 yield higher accuracy, while reducing power consumption by more than
+100$\times$ as compared to the CNN-based reference platform. Our findings point
+to the significant potential of neuromorphic computing and SNNs in supporting
+on-board SatCom operations, paving the way for enhanced efficiency and
+sustainability in future SatCom systems."
+12,Constraints on Interstellar Sovereignty,Popular Physics,Jacob Haqq-Misra,21-August-2023,"Human space exploration and settlement of other planets is becoming
+increasingly technologically feasible, while mission concepts for remote and
+crewed missions to nearby star systems continue to be developed. But the
+long-term success of space settlement also requires extensions and advances in
+models of governance. This paper provides a synthesis of the physical factors
+that will constrain the application of sovereignty in space as well as legal
+precedent on Earth that likely applies to any crewed or uncrewed missions to
+other stellar systems. The Outer Space Treaty limits the territorial expansion
+of states into space, but the requirements for oversight of nongovernmental
+agencies and retention of property ownership enable the extension of state
+jurisdiction into space. Pragmatic constraints from historical precedent on
+Earth suggest that new space treaties will be unlikely to succeed and new
+global space agencies may have limited jurisdiction over states, while hard
+constraints of the space environment require adherence to technical
+capabilities, political feasibility, and long-term sustainability. These
+factors form a three-prong test for assessing the viability of interstellar
+governance models. This discussion of interstellar governance is intended to
+further the conversation about sovereignty in space prior to the first
+intentional launch of any interstellar spacecraft."
+13,Electron heat flux and propagating fronts in plasma thermal quench via ambipolar transport,Plasma Physics,Yanzeng Zhang; Jun Li; Xianzhu Tang,21-August-2023,"The thermal collapse of a nearly collisionless plasma interacting with a
+cooling spot, in which the electron parallel heat flux plays an essential role,
+is investigated both theoretically and numerically. We show that such thermal
+collapse, which is known as thermal quench in tokamaks, comes about in the form
+of propagating fronts, originating from the cooling spot, along the magnetic
+field lines. The slow fronts, propagating with local ion sound speed, limit the
+aggressive cooling of plasma, which is accompanied by a plasma cooling flow
+toward the cooling spot. The extraordinary physics underlying such a cooling
+flow is that the fundamental constraint of ambipolar transport along the field
+line limits the spatial gradient of electron thermal conduction flux to the
+much weaker convective scaling, as opposed to the free-streaming scaling, so
+that a large electron temperature and hence pressure gradient can be sustained.
+The last ion front for a radiative cooling spot is a shock front where cold but
+flowing ions meet the hot ions."
+14,Polarisation of decayless kink oscillations of solar coronal loops,Solar and Stellar Astrophysics,Sihui Zhong; Valery M. Nakariakov; Dmitrii Y. Kolotkov; Lakshmi Pradeep Chitta; Patrick Antolin; Cis Verbeeck; David Berghmans,21-August-2023,"Decayless kink oscillations of plasma loops in the solar corona may contain
+an answer to the enigmatic problem of solar and stellar coronal heating. The
+polarisation of the oscillations gives us a unique information about their
+excitation mechanisms and energy supply. However, unambiguous determination of
+the polarisation has remained elusive. Here, we show simultaneous detection of
+a 4-min decayless kink oscillation from two non-parallel lines-of-sights,
+separated by about 104\textdegree, provided by unique combination of the High
+Resolution Imager on Solar Orbiter and the Atmospheric Imaging Assembly on
+Solar Dynamics Observatory. The observations reveal a horizontal or weakly
+oblique linear polarisation of the oscillation. This conclusion is based on the
+comparison of observational results with forward modelling of the observational
+manifestation of various kinds of polarisation of kink oscillations. The
+revealed polarisation favours the sustainability of these oscillations by
+quasi-steady flows which may hence supply the energy for coronal heating."
+15,A Human-on-the-Loop Optimization Autoformalism Approach for Sustainability,Artificial Intelligence,Ming Jin; Bilgehan Sel; Fnu Hardeep; Wotao Yin,20-August-2023,"This paper outlines a natural conversational approach to solving personalized
+energy-related problems using large language models (LLMs). We focus on
+customizable optimization problems that necessitate repeated solving with
+slight variations in modeling and are user-specific, hence posing a challenge
+to devising a one-size-fits-all model. We put forward a strategy that augments
+an LLM with an optimization solver, enhancing its proficiency in understanding
+and responding to user specifications and preferences while providing nonlinear
+reasoning capabilities. Our approach pioneers the novel concept of human-guided
+optimization autoformalism, translating a natural language task specification
+automatically into an optimization instance. This enables LLMs to analyze,
+explain, and tackle a variety of instance-specific energy-related problems,
+pushing beyond the limits of current prompt-based techniques.
+  Our research encompasses various commonplace tasks in the energy sector, from
+electric vehicle charging and Heating, Ventilation, and Air Conditioning (HVAC)
+control to long-term planning problems such as cost-benefit evaluations for
+installing rooftop solar photovoltaics (PVs) or heat pumps. This pilot study
+marks an essential stride towards the context-based formulation of optimization
+using LLMs, with the potential to democratize optimization processes. As a
+result, stakeholders are empowered to optimize their energy consumption,
+promoting sustainable energy practices customized to personal needs and
+preferences."
+16,Towards Sustainable Development: A Novel Integrated Machine Learning Model for Holistic Environmental Health Monitoring,Machine Learning,Anirudh Mazumder; Sarthak Engala; Aditya Nallaparaju,20-August-2023,"Urbanization enables economic growth but also harms the environment through
+degradation. Traditional methods of detecting environmental issues have proven
+inefficient. Machine learning has emerged as a promising tool for tracking
+environmental deterioration by identifying key predictive features. Recent
+research focused on developing a predictive model using pollutant levels and
+particulate matter as indicators of environmental state in order to outline
+challenges. Machine learning was employed to identify patterns linking areas
+with worse conditions. This research aims to assist governments in identifying
+intervention points, improving planning and conservation efforts, and
+ultimately contributing to sustainable development."
+17,Exploring the Role of Perceived Range Anxiety in Adoption Behavior of Plug-in Electric Vehicles,General Economics,Fatemeh Nazari; Abolfazl Mohammadian; Thomas Stephens,20-August-2023,"A sustainable solution to negative externalities imposed by road
+transportation is replacing internal combustion vehicles with electric vehicles
+(EVs), especially plug-in EV (PEV) encompassing plug-in hybrid EV (PHEV) and
+battery EV (BEV). However, EV market share is still low and is forecast to
+remain low and uncertain. This shows a research need for an in-depth
+understanding of EV adoption behavior with a focus on one of the main barriers
+to the mass EV adoption, which is the limited electric driving range. The
+present study extends the existing literature in two directions; First, the
+influence of the psychological aspect of driving range, which is referred to as
+range anxiety, is explored on EV adoption behavior by presenting a nested logit
+(NL) model with a latent construct. Second, the two-level NL model captures
+individuals' decision on EV adoption behavior distinguished by vehicle
+transaction type and EV type, where the upper level yields the vehicle
+transaction type selected from the set of alternatives including
+no-transaction, sell, trade, and add. The fuel type of the vehicles decided to
+be acquired, either as traded-for or added vehicles, is simultaneously
+determined at the lower level from a set including conventional vehicle, hybrid
+EV, PHEV, and BEV. The model is empirically estimated using a stated
+preferences dataset collected in the State of California. A notable finding is
+that anxiety about driving range influences the preference for BEV, especially
+as an added than traded-for vehicle, but not the decision on PHEV adoption."
+18,Nonlinear model reference adaptive control approach for governance of the commons in a feedback-evolving game,Dynamical Systems,Fang Yan; Xiaorong Hou; Tingting Tian; Xiaojie Chen,20-August-2023,"The governance of common-pool resources has vital importance for
+sustainability. However, in the realistic management systems of common-pool
+resources, the institutions do not necessarily execute the management policies
+completely, which will induce that the real implementation intensity is
+uncertain. In this paper, we consider a feedback-evolving game model with the
+inspection for investigating the management of renewable resource and assume
+that there exists the implementation uncertainty of inspection. Furthermore, we
+use the nonlinear model reference adaptive control approach to handle this
+uncertainty. We accordingly design a protocol, which is an update law of
+adjusting the institutional inspection intensity. We obtain a sufficient
+condition under which the update law can drive the actual system to reach the
+expected outcome. In addition, we provide several numerical examples, which can
+confirm our theoretical results. Our work presents a novel approach to address
+the implementation uncertainty in the feedback-evolving games and thus our
+results can be helpful for effectively managing the common-pool resources in
+the human social systems."
+19,Deep Reinforcement Learning for Artificial Upwelling Energy Management,Machine Learning,Yiyuan Zhang; Wei Fan,20-August-2023,"The potential of artificial upwelling (AU) as a means of lifting
+nutrient-rich bottom water to the surface, stimulating seaweed growth, and
+consequently enhancing ocean carbon sequestration, has been gaining increasing
+attention in recent years. This has led to the development of the first
+solar-powered and air-lifted AU system (AUS) in China. However, efficient
+scheduling of air injection systems remains a crucial challenge in operating
+AUS, as it holds the potential to significantly improve system efficiency.
+Conventional approaches based on rules or models are often impractical due to
+the complex and heterogeneous nature of the marine environment and its
+associated disturbances. To address this challenge, we propose a novel energy
+management approach that utilizes deep reinforcement learning (DRL) algorithm
+to develop efficient strategies for operating AUS. Through extensive
+simulations, we evaluate the performance of our algorithm and demonstrate its
+superior effectiveness over traditional rule-based approaches and other DRL
+algorithms in reducing energy wastage while ensuring the stable and efficient
+operation of AUS. Our findings suggest that a DRL-based approach offers a
+promising way for improving the efficiency of AUS and enhancing the
+sustainability of seaweed cultivation and carbon sequestration in the ocean."

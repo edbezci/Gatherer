@@ -1,0 +1,153 @@
+,title,category,authors,date,summary
+0,Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos,Computer Vision and Pattern Recognition,Sagnik Majumder; Ziad Al-Halah; Kristen Grauman,10-July-2023,"We propose a self-supervised method for learning representations based on
+spatial audio-visual correspondences in egocentric videos. In particular, our
+method leverages a masked auto-encoding framework to synthesize masked binaural
+audio through the synergy of audio and vision, thereby learning useful spatial
+relationships between the two modalities. We use our pretrained features to
+tackle two downstream video tasks requiring spatial understanding in social
+scenarios: active speaker detection and spatial audio denoising. We show
+through extensive experiments that our features are generic enough to improve
+over multiple state-of-the-art baselines on two public challenging egocentric
+video datasets, EgoCom and EasyCom. Project:
+http://vision.cs.utexas.edu/projects/ego_av_corr."
+1,Constraining Electromagnetic Signals from Black Holes with Hair,High Energy Astrophysical Phenomena,Nicole R. Crumpler,10-July-2023,"We constrain a broad class of ""hairy"" black hole models capable of directly
+sourcing electromagnetic radiation during a binary black hole merger. This
+signal is generic and model-independent since it is characterized by the black
+hole mass ($M$) and the fraction of that mass released as radiation
+($\epsilon$). For field energy densities surpassing the Schwinger limit, this
+mechanism triggers pair-production to produce a gamma-ray burst. By
+cross-referencing gravitational wave events with gamma-ray observations, we
+place upper bounds of $\epsilon<10^{-5}-10^{-4}$ for $10-50$ $M_\odot$ black
+holes depending on the black hole mass. We discuss the weak detection of a
+gamma-ray burst following GW150914 and show that this event is consistent with
+rapid electromagnetic emission directly from a ""hairy"" black hole with
+$\epsilon\sim10^{-7}-10^{-6}$. Below the Schwinger limit, ambient charged
+particles are rapidly accelerated to nearly the speed of light by the strong
+electromagnetic field. For 1-50 $M_\odot$ black holes and $\epsilon$ ranging
+from $10^{-20}$ to $10^{-7}$, the typical proton energies are $\sim20$ GeV-20
+TeV and electron energies are $\sim0.01-10$ GeV. At these energies, cosmic ray
+protons and electrons quickly diffuse into the Milky Way's background magnetic
+field, making it difficult to identify a point source producing them. Overall,
+constraining $\epsilon$ in this less energetic regime becomes difficult and
+future constraints may need to consider specific models of ""hairy"" black holes."
+2,Atmospheric muons at PeV energies in radio neutrino detectors,High Energy Astrophysical Phenomena,Lilly Pyras; Christian Glaser; Steffen Hallmann; Anna Nelles,10-July-2023,"Experiments seeking to detect radio emission stemming from neutrino
+interactions will soon reach sensitivities that bring a detection within reach.
+Since experiments like RNO-G or the future IceCube-Gen2 target more than an
+order of magnitude more effective volume than existing experiments, the renewed
+and detailed study of rare backgrounds is needed. In this paper, we study the
+potential background from energy losses of highly energetic atmospheric muons.
+Due to both limited experimental measurements and limited modeling in hadronic
+interaction models, the expected event rate is subject to large uncertainties.
+Here, we estimate rate predictions and their uncertainties for different models
+and instrumental parameters. We also study possible routes towards mitigation,
+such as parent air shower detection, and illustrate what is needed to make the
+first measurement of the prompt muon flux at energies above 10 PeV."
+3,"Supercooling in Radiative Symmetry Breaking: Theory Extensions, Gravitational Wave Detection and Primordial Black Holes",High Energy Physics - Phenomenology,Alberto Salvio,10-July-2023,"First-order phase transitions, which take place when the symmetries are
+predominantly broken (and masses are then generated) through radiative
+corrections, produce observable gravitational waves and primordial black holes.
+We provide a model-independent approach that is valid for large-enough
+supercooling to quantitatively describe these phenomena in terms of few
+parameters, which are computable once the model is specified. The validity of a
+previously-proposed approach of this sort is extended here to a larger class of
+theories. Among other things, we identify regions of the parameter space that
+correspond to the background of gravitational waves recently detected by pulsar
+timing arrays (NANOGrav, CPTA, EPTA, PPTA) and others that are either excluded
+by the observing runs of LIGO and Virgo or within the reach of future
+gravitational wave detectors. Furthermore, we find regions of the parameter
+space where primordial black holes produced by large over-densities due to such
+phase transitions can account for dark matter. Finally, it is shown how this
+model-independent approach can be applied to specific cases, including a
+phenomenological completion of the Standard Model with right-handed neutrinos
+and gauged $B-L$ undergoing radiative symmetry breaking."
+4,Spoofing-Resilient LiDAR-GPS Factor Graph Localization with Chimera Authentication,Signal Processing,Adam Dai; Tara Minda; Ashwin Kanhere; Grace Gao,10-July-2023,"Many vehicle platforms typically use sensors such as LiDAR or camera for
+locally-referenced navigation with GPS for globally-referenced navigation.
+However, due to the unencrypted nature of GPS signals, all civilian users are
+vulner-able to spoofing attacks, where a malicious spoofer broadcasts
+fabricated signals and causes the user to track a false position fix. To
+protect against such GPS spoofing attacks, Chips-Message Robust Authentication
+(Chimera) has been developed and will be tested on the Navigation Technology
+Satellite 3 (NTS-3) satellite being launched later this year. However, Chimera
+authentication is not continuously available and may not provide sufficient
+protection for vehicles which rely on more frequent GPS measurements. In this
+paper, we propose a factor graph-based state estimation framework which
+integrates LiDAR and GPS while simultaneously detecting and mitigating spoofing
+attacks experienced between consecutive Chimera authentications. Our proposed
+framework combines GPS pseudorange measurements with LiDAR odometry to provide
+a robust navigation solution. A chi-squared detector, based on pseudorange
+residuals, is used to detect and mitigate any potential GPS spoofing attacks.
+We evaluate our method using real-world LiDAR data from the KITTI dataset and
+simulated GPS measurements, both nominal and with spoofing. Across multiple
+trajectories and Monte Carlo runs, our method consistently achieves position
+errors under 5 m during nominal conditions, and successfully bounds positioning
+error to within odometry drift levels during spoofed conditions."
+5,Baryogenesis and Dark Matter in the Mirror Twin Higgs,High Energy Physics - Phenomenology,Pedro Bittar; Gustavo Burdman; Larissa Kiriliuk,10-July-2023,"We consider a natural asymmetric dark matter (ADM) model in the mirror twin
+Higgs (MTH). We show that it is possible to obtain the correct dark matter (DM)
+abundance when a twin baryon is the DM without the need of explicit breaking of
+the MTH $\mathbb{Z}_2$ symmetry in the dimensionless couplings (i.e. without
+hard $\mathbb{Z}_2$ breaking). We illustrate how this is possible in a specific
+baryogenesis setup, which also leads to ADM. In the simplest scenario we obtain
+$m_{\rm DM}\sim O(1)$~GeV, just above the proton mass. We show estimates for
+direct detection rates at present and future experiments."
+6,Joint Salient Object Detection and Camouflaged Object Detection via Uncertainty-aware Learning,Computer Vision and Pattern Recognition,Aixuan Li; Jing Zhang; Yunqiu Lv; Tong Zhang; Yiran Zhong; Mingyi He; Yuchao Dai,10-July-2023,"Salient objects attract human attention and usually stand out clearly from
+their surroundings. In contrast, camouflaged objects share similar colors or
+textures with the environment. In this case, salient objects are typically
+non-camouflaged, and camouflaged objects are usually not salient. Due to this
+inherent contradictory attribute, we introduce an uncertainty-aware learning
+pipeline to extensively explore the contradictory information of salient object
+detection (SOD) and camouflaged object detection (COD) via data-level and
+task-wise contradiction modeling. We first exploit the dataset correlation of
+these two tasks and claim that the easy samples in the COD dataset can serve as
+hard samples for SOD to improve the robustness of the SOD model. Based on the
+assumption that these two models should lead to activation maps highlighting
+different regions of the same input image, we further introduce a contrastive
+module with a joint-task contrastive learning framework to explicitly model the
+contradictory attributes of these two tasks. Different from conventional
+intra-task contrastive learning for unsupervised representation learning, our
+contrastive module is designed to model the task-wise correlation, leading to
+cross-task representation learning. To better understand the two tasks from the
+perspective of uncertainty, we extensively investigate the uncertainty
+estimation techniques for modeling the main uncertainties of the two tasks,
+namely task uncertainty (for SOD) and data uncertainty (for COD), and aiming to
+effectively estimate the challenging regions for each task to achieve
+difficulty-aware learning. Experimental results on benchmark datasets
+demonstrate that our solution leads to both state-of-the-art performance and
+informative uncertainty estimation."
+7,A note on the induction of comonotonic additive risk measures from acceptance sets,Mathematical Finance,Samuel Solgon Santos; Marlon Ruoso Moresco; Marcelo Brutti Righi; Eduardo de Oliveira Horta,10-July-2023,"We present simple general conditions on the acceptance sets under which their
+induced monetary risk and deviation measures are comonotonic additive. We show
+that acceptance sets induce comonotonic additive risk measures if and only if
+the acceptance sets and their complements are stable under convex combinations
+of comonotonic random variables. A generalization of this result applies to
+risk measures that are additive for random variables with \textit{a priori}
+specified dependence structures, e.g., perfectly correlated, uncorrelated, or
+independent random variables."
+8,Toward optimal placement of spatial sensors,Robotics,Mingyu Kim; Harun Yetkin; Daniel J. Stilwell; Jorge Jimenez; Saurav Shrestha; Nina Stark,10-July-2023,"This paper addresses the challenges of optimally placing a finite number of
+sensors to detect Poisson-distributed targets in a bounded domain. We seek to
+rigorously account for uncertainty in the target arrival model throughout the
+problem. Sensor locations are selected to maximize the probability that no
+targets are missed. While this objective function is well-suited to
+applications where failure to detect targets is highly undesirable, it does not
+lead to a computationally efficient optimization problem. We propose an
+approximation of the objective function that is non-negative, submodular, and
+monotone and for which greedy selection of sensor locations works well. We also
+characterize the gap between the desired objective function and our
+approximation. For numerical illustrations, we consider the case of the
+detection of ship traffic using sensors mounted on the seafloor."
+9,Vibroacoustic simulations of acoustic damping materials using a fictitious domain approach,Numerical Analysis,Lars Radtke; Paul Marter; Fabian Duvigneau; Sascha Eisenträger; Daniel Juhre; Alexander Düster,10-July-2023,"The numerical investigation of acoustic damping materials, such as foams,
+constitutes a valuable enhancement to experimental testing. Typically, such
+materials are modeled in a homogenized way in order to reduce the computational
+effort and to circumvent the need for a computational mesh that resolves the
+complex micro-structure. However, to gain detailed insight into the acoustic
+behavior, e.g., the transmittance of noise, such fully resolved models are
+mandatory. The meshing process can still be avoided by using a ficticious
+domain approach. We propose the finite cell method, which combines the
+ficticious domain approach with high-order finite elements and resolves the
+complex geometry using special quadrature rules. In order to take into account
+the fluid-filled pores of a typical damping material, a coupled vibroacoustic
+problem needs to be solved. To this end, we construct two separate finite cell
+discretizations and prescribe coupling conditions at the interface in the usual
+manner. The only difference to a classical boundary fitted approach to
+vibroacoustics is that the fluid-solid interface is immersed into the
+respective discretization and does not correspond to the element boundaries.
+The proposed enhancement of the finite cell method for vibroacoustics is
+verified based on a comparison with commercial software and used within an
+exemplary application."
