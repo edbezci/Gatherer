@@ -17,6 +17,9 @@ This project is licensed under the terms of the MIT License.
 
 ## Dependencies
 This project is built using Python and relies on several packages for functionality. These dependencies are managed using `poetry`.
+
+This project depends on GPT-4. To replicate the results, it is required to have openai_api_key in .env file in the root directory.
+
 ## Installation
 To install Gatherer, make sure you have `poetry` installed on your machine. If not, install it first:
 
@@ -26,6 +29,10 @@ To install Gatherer, make sure you have `poetry` installed on your machine. If n
 	Navigate into the repository: cd gatherer
 	Install dependencies: poetry install
     Activate poetry: poetry shell
+	Navigate into src: cd src
+	Execute the command: cd python gatherer.py
+
+
 
 
 ## Usage
