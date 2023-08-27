@@ -1,0 +1,521 @@
+,title,category,authors,date,summary
+0,An Efficient Distributed Multi-Agent Reinforcement Learning for EV Charging Network Control,Multiagent Systems,Amin Shojaeighadikolaei; Morteza Hashemi,24-August-2023,"The increasing trend in adopting electric vehicles (EVs) will significantly
+impact the residential electricity demand, which results in an increased risk
+of transformer overload in the distribution grid. To mitigate such risks, there
+are urgent needs to develop effective EV charging controllers. Currently, the
+majority of the EV charge controllers are based on a centralized approach for
+managing individual EVs or a group of EVs. In this paper, we introduce a
+decentralized Multi-agent Reinforcement Learning (MARL) charging framework that
+prioritizes the preservation of privacy for EV owners. We employ the
+Centralized Training Decentralized Execution-Deep Deterministic Policy Gradient
+(CTDE-DDPG) scheme, which provides valuable information to users during
+training while maintaining privacy during execution. Our results demonstrate
+that the CTDE framework improves the performance of the charging network by
+reducing the network costs. Moreover, we show that the Peak-to-Average Ratio
+(PAR) of the total demand is reduced, which, in turn, reduces the risk of
+transformer overload during the peak hours."
+1,A Human-on-the-Loop Optimization Autoformalism Approach for Sustainability,Artificial Intelligence,Ming Jin; Bilgehan Sel; Fnu Hardeep; Wotao Yin,20-August-2023,"This paper outlines a natural conversational approach to solving personalized
+energy-related problems using large language models (LLMs). We focus on
+customizable optimization problems that necessitate repeated solving with
+slight variations in modeling and are user-specific, hence posing a challenge
+to devising a one-size-fits-all model. We put forward a strategy that augments
+an LLM with an optimization solver, enhancing its proficiency in understanding
+and responding to user specifications and preferences while providing nonlinear
+reasoning capabilities. Our approach pioneers the novel concept of human-guided
+optimization autoformalism, translating a natural language task specification
+automatically into an optimization instance. This enables LLMs to analyze,
+explain, and tackle a variety of instance-specific energy-related problems,
+pushing beyond the limits of current prompt-based techniques.
+  Our research encompasses various commonplace tasks in the energy sector, from
+electric vehicle charging and Heating, Ventilation, and Air Conditioning (HVAC)
+control to long-term planning problems such as cost-benefit evaluations for
+installing rooftop solar photovoltaics (PVs) or heat pumps. This pilot study
+marks an essential stride towards the context-based formulation of optimization
+using LLMs, with the potential to democratize optimization processes. As a
+result, stakeholders are empowered to optimize their energy consumption,
+promoting sustainable energy practices customized to personal needs and
+preferences."
+2,Exploring the Role of Perceived Range Anxiety in Adoption Behavior of Plug-in Electric Vehicles,General Economics,Fatemeh Nazari; Abolfazl Mohammadian; Thomas Stephens,20-August-2023,"A sustainable solution to negative externalities imposed by road
+transportation is replacing internal combustion vehicles with electric vehicles
+(EVs), especially plug-in EV (PEV) encompassing plug-in hybrid EV (PHEV) and
+battery EV (BEV). However, EV market share is still low and is forecast to
+remain low and uncertain. This shows a research need for an in-depth
+understanding of EV adoption behavior with a focus on one of the main barriers
+to the mass EV adoption, which is the limited electric driving range. The
+present study extends the existing literature in two directions; First, the
+influence of the psychological aspect of driving range, which is referred to as
+range anxiety, is explored on EV adoption behavior by presenting a nested logit
+(NL) model with a latent construct. Second, the two-level NL model captures
+individuals' decision on EV adoption behavior distinguished by vehicle
+transaction type and EV type, where the upper level yields the vehicle
+transaction type selected from the set of alternatives including
+no-transaction, sell, trade, and add. The fuel type of the vehicles decided to
+be acquired, either as traded-for or added vehicles, is simultaneously
+determined at the lower level from a set including conventional vehicle, hybrid
+EV, PHEV, and BEV. The model is empirically estimated using a stated
+preferences dataset collected in the State of California. A notable finding is
+that anxiety about driving range influences the preference for BEV, especially
+as an added than traded-for vehicle, but not the decision on PHEV adoption."
+3,Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations with Autonomous Mobility on Demand Systems,Systems and Control,Han Wang; Xiaoyuan Xu; Yue Chen; Zheng Yan; Mohammad Shahidehpour; Jiaqi Li; Shaolun Xu,20-August-2023,"Autonomous mobility on demand systems (AMoDS) will significantly affect the
+operation of coupled power distribution-urban transportation networks (PTNs) by
+the optimal dispatch of electric vehicles (EVs). This paper proposes an
+uncertainty method to analyze the operational states of PTNs with AMoDS. First,
+a PTN operation framework is designed considering the controllable EVs
+dispatched by AMoDS as well as the uncontrollable driving behaviors of other
+vehicle users. Then, a bi-level power-traffic flow (PTF) model is proposed to
+characterize the interaction of power distribution networks (PDNs) and urban
+transportation networks (UTNs). In the upper level, a social optimum model is
+established to minimize the operating cost of PDNs and UTNs embedded with
+controllable EVs. In the lower level, a stochastic user equilibrium (SUE) model
+is established to minimize the operating cost of uncontrollable EVs and
+gasoline vehicles (GVs) in UTNs. Finally, a probabilistic PTF analysis method
+is developed to evaluate PTN operations under environmental and human
+uncertainties. A regional sensitivity analysis method is proposed to identify
+the critical uncertainties and quantify the impacts of their distribution
+ranges on PTN operations. The effectiveness of the proposed method is verified
+by the PTN consisting of a 21-bus PDN and a 20-node UTN."
+4,DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model,Systems and Control,Siyang Li; Hui Xiong; Yize Chen,18-August-2023,"Recent proliferation of electric vehicle (EV) charging events has brought
+prominent stress over power grid operation. Due to the stochastic and volatile
+EV charging behaviors, the induced charging loads are extremely uncertain,
+posing modeling and control challenges for grid operators and charging
+management. Generating EV charging scenarios would aid via synthesizing a
+myriad of realistic charging scenarios. To this end, we propose a novel
+denoising Diffusion-based Charging scenario generation model DiffCharge, which
+is capable of generating a broad variety of realistic EV charging profiles with
+distinctive temporal properties. It is able to progressively convert the simply
+known Gaussian noise to genuine charging time-series data, by learning a
+parameterized reversal of a forward diffusion process. Besides, we leverage the
+multi-head self-attention and prior conditions to capture the temporal
+correlations and unique information associated with EV or charging station
+types in real charging profiles. Moreover, We demonstrate the superiority of
+DiffCharge on extensive real-world charging datasets, as well as the efficacy
+on EV integration in power distribution grids."
+5,Towards Trustworthy NFC-based Sensor Readout for Battery Packs in Battery Management Systems,Systems and Control,Fikret Basic; Martin Gaertner; Christian Steger,18-August-2023,"In the last several years, wireless Battery Management Systems (BMS) have
+slowly become a topic of interest from both academia and industry. It came from
+a necessity derived from the increased production and use in different systems,
+including the electrical vehicles. Wireless communication allows for a more
+flexible and cost-efficient sensor installation in battery packs. However, many
+wireless technologies, such as those that use the 2.4 GHz frequency band,
+suffer from the interference limitations that need to be addressed. In this
+paper we present an alternative approach to communication in BMS that relies on
+the use of Near Field Communication (NFC) technology for battery sensor
+readouts. Due to a vital concern over the counterfeited battery pack products,
+security measures are also considered. To this end, we propose the use of an
+effective, and easy to integrate, authentication schema that is supported by
+the dedicated NFC devices. To test the usability of our design, a demonstrator
+using the targeted devices was implemented and evaluated."
+6,Federated Reinforcement Learning for Electric Vehicles Charging Control on Distribution Networks,Systems and Control,Junkai Qian; Yuning Jiang; Xin Liu; Qing Wang; Ting Wang; Yuanming Shi; Wei Chen,17-August-2023,"With the growing popularity of electric vehicles (EVs), maintaining power
+grid stability has become a significant challenge. To address this issue, EV
+charging control strategies have been developed to manage the switch between
+vehicle-to-grid (V2G) and grid-to-vehicle (G2V) modes for EVs. In this context,
+multi-agent deep reinforcement learning (MADRL) has proven its effectiveness in
+EV charging control. However, existing MADRL-based approaches fail to consider
+the natural power flow of EV charging/discharging in the distribution network
+and ignore driver privacy. To deal with these problems, this paper proposes a
+novel approach that combines multi-EV charging/discharging with a radial
+distribution network (RDN) operating under optimal power flow (OPF) to
+distribute power flow in real time. A mathematical model is developed to
+describe the RDN load. The EV charging control problem is formulated as a
+Markov Decision Process (MDP) to find an optimal charging control strategy that
+balances V2G profits, RDN load, and driver anxiety. To effectively learn the
+optimal EV charging control strategy, a federated deep reinforcement learning
+algorithm named FedSAC is further proposed. Comprehensive simulation results
+demonstrate the effectiveness and superiority of our proposed algorithm in
+terms of the diversity of the charging control strategy, the power fluctuations
+on RDN, the convergence efficiency, and the generalization ability."
+7,Protecting the Future Grid: An Electric Vehicle Robust Mitigation Scheme Against Load Altering Attacks on Power Grids,Systems and Control,Mohammad Ali Sayed; Mohsen Ghafouri; Ribal Atallah; Mourad Debbabi; Chadi Assi,15-August-2023,"Due to the growing threat of climate change, the worlds governments have been
+encouraging the adoption of Electric Vehicles (EVs). As a result, EV numbers
+have been growing exponentially which will introduce a large EV charging load
+into the power grid. On this basis, we present a scheme to utilize EVs as a
+defense mechanism to mitigate Load-Altering (LA) attacks against the grid. The
+developed scheme relies on robust control theory and Linear Matrix Inequalities
+(LMIs). Our EV-based defense mechanism is formulated as a feedback controller
+synthesized using H-2 and H-infinity control techniques to eliminate the impact
+of unknown LA attacks. The controller synthesis considers the grid topology and
+the uncertainties of the EV connection to the grid. To demonstrate the
+effectiveness of the proposed mitigation scheme, it is tested against three
+types of LA attacks on the New England 39-bus grid. We test our mitigation
+scheme against 800 MW static, switching, and dynamic attacks in the presence of
+multiple sources of uncertainty that can affect the EV load during deployment.
+The results demonstrate how the grid remains stable under the LA attacks that
+would otherwise lead to serious instabilities."
+8,Challenges and Opportunities for Second-life Batteries: A Review of Key Technologies and Economy,Systems and Control,Xubo Gu; Hanyu Bai; Xiaofan Cui; Juner Zhu; Weichao Zhuang; Zhaojian Li; Xiaosong Hu; Ziyou Song,13-August-2023,"Due to the increasing volume of Electric Vehicles in automotive markets and
+the limited lifetime of onboard lithium-ion batteries (LIBs), the large-scale
+retirement of LIBs is imminent. The battery packs retired from Electric
+Vehicles still own 70%-80% of the initial capacity, thus having the potential
+to be utilized in scenarios with lower energy and power requirements to
+maximize the value of LIBs. However, spent batteries are commonly less reliable
+than fresh batteries due to their degraded performance, thereby necessitating a
+comprehensive assessment from safety and economic perspectives before further
+utilization. To this end, this paper reviews the key technological and economic
+aspects of second-life batteries (SLBs). Firstly, we introduce various
+degradation models for first-life batteries and identify an opportunity to
+combine physics-based theories with data-driven methods to establish
+explainable models with physical laws that can be generalized. However,
+degradation models specifically tailored to SLBs are currently absent.
+Therefore, we analyze the applicability of existing battery degradation models
+developed for first-life batteries in SLB applications. Secondly, we
+investigate fast screening and regrouping techniques and discuss the regrouping
+standards for the first time to guide the classification procedure and enhance
+the performance and safety of SLBs. Thirdly, we scrutinize the economic
+analysis of SLBs and summarize the potentially profitable applications.
+Finally, we comprehensively examine and compare power electronics technologies
+that can substantially improve the performance of SLBs, including
+high-efficiency energy transformation technologies, active equalization
+technologies, and technologies to improve reliability and safety."
+9,Optimal EV Charging Decisions Considering Charging Rate Characteristics and Congestion Effects,Computer Science and Game Theory,Lihui Yi; Ermin Wei,11-August-2023,"With the rapid growth in the demand for plug-in electric vehicles (EVs), the
+corresponding charging infrastructures are expanding. These charging stations
+are located at various places and with different congestion levels. EV drivers
+face an important decision in choosing which charging station to go to in order
+to reduce their overall time costs. However, existing literature either assumes
+a flat charging rate and hence overlooks the physical characteristics of an EV
+battery where charging rate is typically reduced as the battery charges, or
+ignores the effect of other drivers on an EV's decision making process. In this
+paper, we consider both the predetermined exogenous wait cost and the
+endogenous congestion induced by other drivers' strategic decisions, and
+propose a differential equation based approach to find the optimal strategies.
+We analytically characterize the equilibrium strategies and find that
+co-located EVs may make different decisions depending on the charging rate
+and/or remaining battery levels. Through numerical experiments, we investigate
+the impact of charging rate characteristics, modeling parameters and the
+consideration of endogenous congestion levels on the optimal charging
+decisions. Finally, we conduct numerical studies on real-world data and find
+that some EV users with slower charging rates may benefit from the
+participation of fast-charging EVs."
+10,A High-efficient Battery Charging System for Electric Vehicle,Systems and Control,Zexuan Li,09-August-2023,"Nowadays, automobile is facing the trend of electrification. Lithium-ion
+batteries is widely used as their power supplies. Lithium-ion battery has
+complex characteristics, as a result, Lithium-ion battery needs optimal
+charging strategies to make sure it is charged safely and efficiently. This
+paper focuses on development of a high-efficient charging method for
+lithium-ion battery. To test different charging strategies, the electric
+vehicle charging system consisting of a dual active bridge DC-DC converter and
+a Thevenin battery model is implemented. Multistage constant current charging
+(MSCC) and multistage constant current reflex charging (MSCC with reflex
+charging) were proposed. Compared with the traditional constant voltage
+constant current (CC-CV) charging method, MSCC can reduce 12% of the charging
+time and 1.1% of the battery loss; MSCC with reflex charging has a 10.45% and a
+1.54% reduction of charging time and battery loss separately."
+11,On Data-Driven Modeling and Control in Modern Power Grids Stability: Survey and Perspective,Systems and Control,Xun Gong; Xiaozhe Wang; Bo Cao,07-August-2023,"Modern power grids are fast evolving with the increasing volatile renewable
+generation, distributed energy resources (DERs) and time-varying operating
+conditions. The DERs include rooftop photovoltaic (PV), small wind turbines,
+energy storages, flexible loads, electric vehicles (EVs), etc. The grid control
+is confronted with low inertia, uncertainty and nonlinearity that challenge the
+operation security, efficacy and efficiency. The ongoing digitization of power
+grids provides opportunities to address the challenges with data-driven and
+control. This paper provides a comprehensive review of emerging data-driven
+dynamical modeling and control methods and their various applications in power
+grid. Future trends are also discussed based on advances in data-driven
+control."
+12,Exploring Different Time-series-Transformer (TST) Architectures: A Case Study in Battery Life Prediction for Electric Vehicles (EVs),Machine Learning,Niranjan Sitapure; Atharva Kulkarni,07-August-2023,"In recent years, battery technology for electric vehicles (EVs) has been a
+major focus, with a significant emphasis on developing new battery materials
+and chemistries. However, accurately predicting key battery parameters, such as
+state-of-charge (SOC) and temperature, remains a challenge for constructing
+advanced battery management systems (BMS). Existing battery models do not
+comprehensively cover all parameters affecting battery performance, including
+non-battery-related factors like ambient temperature, cabin temperature,
+elevation, and regenerative braking during EV operation. Due to the difficulty
+of incorporating these auxiliary parameters into traditional models, a
+data-driven approach is suggested. Time-series-transformers (TSTs), leveraging
+multiheaded attention and parallelization-friendly architecture, are explored
+alongside LSTM models. Novel TST architectures, including encoder TST + decoder
+LSTM and a hybrid TST-LSTM, are also developed and compared against existing
+models. A dataset comprising 72 driving trips in a BMW i3 (60 Ah) is used to
+address battery life prediction in EVs, aiming to create accurate TST models
+that incorporate environmental, battery, vehicle driving, and heating circuit
+data to predict SOC and battery temperature for future time steps."
+13,Optimal battery thermal management for electric vehicles with battery degradation minimization,Systems and Control,Yue Wu; Zhiwu Huang; Dongjun Li; Heng Li; Jun Peng; Daniel Stroe; Ziyou Song,06-August-2023,"The control of a battery thermal management system (BTMS) is essential for
+the thermal safety, energy efficiency, and durability of electric vehicles
+(EVs) in hot weather. To address the battery cooling optimization problem, this
+paper utilizes dynamic programming (DP) to develop an online rule-based control
+strategy. Firstly, an electrical-thermal-aging model of the $\rm LiFePO_4$
+battery pack is established. A control-oriented onboard BTMS model is proposed
+and verified under different speed profiles and temperatures. Then in the DP
+framework, a cost function consisting of battery aging cost and cooling-induced
+electricity cost is minimized to obtain the optimal compressor power. By
+exacting three rules ""fast cooling, slow cooling, and temperature-maintaining""
+from the DP result, a near-optimal rule-based cooling strategy, which uses as
+much regenerative energy as possible to cool the battery pack, is proposed for
+online execution. Simulation results show that the proposed online strategy can
+dramatically improve the driving economy and reduce battery degradation under
+diverse operation conditions, achieving less than a 3% difference in battery
+loss compared to the offline DP. Recommendations regarding battery cooling
+under different real-world cases are finally provided."
+14,"Prospects For A New Light-Nuclei, Fission-Fusion Energy Cycle",Physics and Society,R. V. Duncan; Cuikun Lin; Andrew K. Gillespie; John Gahl,02-August-2023,"Future advanced nuclear rocket propulsion, and the availability of new
+nuclear power cycle designs, will benefit substantially from the large current
+investment in alternative nuclear energy that is underway today. We propose a
+new nuclear cycle which includes the primary fission of lithium-6, followed by
+secondary fusion of deuterium and tritium, and a secondary fission of lithium-7
+by tritium. This cycle does not produce nuclear waste from its nuclear fuel,
+since all byproducts of these cascade reactions are stable, provided that the
+triton production during the primary reaction is fully consumed in the
+secondary reactions. This cycle may, however, activate surrounding technical
+materials from its neutron flux. This light-element nuclear fuel is readily
+obtained through the ongoing expansion of the lithium mining industry and
+electric vehicle (EV) battery recycling industries."
+15,A Real-Time Robust Ecological-Adaptive Cruise Control Strategy for Battery Electric Vehicles,Systems and Control,Sheng Yu; Xiao Pan; Anastasis Georgiou; Boli Chen; Imad M. Jaimoukha; Simos A. Evangelou,02-August-2023,"This work addresses the ecological-adaptive cruise control problem for
+connected electric vehicles by a computationally efficient robust control
+strategy. The problem is formulated in the space-domain with a realistic
+description of the nonlinear electric powertrain model and motion dynamics to
+yield a convex optimal control problem (OCP). The OCP is approached by a novel
+robust model predictive control (RMPC) method handling various disturbances due
+to modelling mismatch and inaccurate leading vehicle information. The RMPC
+problem is solved by semi-definite programming relaxation and single linear
+matrix inequality (sLMI) techniques for further enhanced computational
+efficiency. The performance of the proposed real-time robust
+ecological-adaptive cruise control (REACC) method is evaluated using an
+experimentally collected driving cycle. Its robustness is verified by
+comparison with a nominal MPC which is shown to result in speed-limit
+constraint violations. The energy economy of the proposed method outperforms a
+state-of-the-art time-domain RMPC scheme, as a more precisely fitted convex
+powertrain model can be integrated into the space-domain scheme. The additional
+comparison with a traditional constant distance following strategy (CDFS)
+further verifies the effectiveness of the proposed REACC. Finally, it is
+verified that the REACC can be potentially implemented in real-time owing to
+the sLMI and resulting convex algorithm."
+16,Integrating Optimal EV Charging in the Energy Management of Electric Railway Stations,Systems and Control,Georgia Pierrou; Gabriela Hug,02-August-2023,"In this paper, an electric railway Energy Management System (EMS) with
+integration of an Energy Storage System (ESS), Regenerative Braking Energy
+(RBE), and renewable generation is proposed to minimize the daily operating
+costs of the railway station while meeting railway and Electric Vehicle (EV)
+charging demand. Compared to other railway EMS methods, the proposed approach
+integrates an optimal EV charging policy at the railway station to avoid high
+power demand due to charging requirements. Specifically, receding horizon
+control is leveraged to minimize the daily peak power spent on EV charging. The
+numerical study on an actual railway station in Chur, Switzerland shows that
+the proposed method that integrates railway demand and optimal EV charging
+along with ESS, RBE, and renewable generation can significantly reduce the
+average daily operating cost of the railway station over a large number of
+different scenarios while ensuring that peak load capacity limits are
+respected."
+17,Artificial-Intelligence-Based Hybrid Extended Phase Shift Modulation for the Dual Active Bridge Converter with Full ZVS Range and Optimal Efficiency,Systems and Control,Xinze Li; Xin Zhang; Fanfan Lin; Changjiang Sun; Kezhi Mao,01-August-2023,"Dual active bridge (DAB) converter is the key enabler in many popular
+applications such as wireless charging, electric vehicle and renewable energy.
+ZVS range and efficiency are two significant performance indicators for DAB
+converter. To obtain the desired ZVS and efficiency performance, modulation
+should be carefully designed. Hybrid modulation considers several single
+modulation strategies to achieve good comprehensive performance.
+Conventionally, to design a hybrid modulation, harmonic approach or piecewise
+approach is used, but they suffer from time-consuming model building process
+and inaccuracy. Therefore, an artificial-intelligence-based hybrid extended
+phase shift (HEPS) modulation is proposed. Generally, the HEPS modulation is
+developed in an automated fashion, which alleviates cumbersome model building
+process while keeping high model accuracy. In HEPS modulation, two EPS
+strategies are considered to realize optimal efficiency with full ZVS operation
+over entire operating ranges. Specifically, to build data-driven models of ZVS
+and efficiency performance, extreme gradient boosting (XGBoost), which is a
+state-of-the-art ensemble learning algorithm, is adopted. Afterwards, particle
+swarm optimization with state-based adaptive velocity limit (PSO-SAVL) is
+utilized to select the best EPS strategy and optimize modulation parameters.
+With 1 kW hardware experiments, the feasibility of HEPS has been verified,
+achieving optimal efficiency with maximum of 97.1% and full-range ZVS
+operation."
+18,Deep Reinforcement Learning-Based Battery Conditioning Hierarchical V2G Coordination for Multi-Stakeholder Benefits,Systems and Control,Yubao Zhang; Xin Chen; Yi Gu; Zhicheng Li; Wu Kai,01-August-2023,"With the growing prevalence of electric vehicles (EVs) and advancements in EV
+electronics, vehicle-to-grid (V2G) techniques and large-scale scheduling
+strategies have emerged to promote renewable energy utilization and power grid
+stability. This study proposes a multi-stakeholder hierarchical V2G
+coordination based on deep reinforcement learning (DRL) and the Proof of Stake
+algorithm. Furthermore, the multi-stakeholders include the power grid, EV
+aggregators (EVAs), and users, and the proposed strategy can achieve
+multi-stakeholder benefits. On the grid side, load fluctuations and renewable
+energy consumption are considered, while on the EVA side, energy constraints
+and charging costs are considered. The three critical battery conditioning
+parameters of battery SOX are considered on the user side, including state of
+charge, state of power, and state of health. Compared with four typical
+baselines, the multi-stakeholder hierarchical coordination strategy can enhance
+renewable energy consumption, mitigate load fluctuations, meet the energy
+demands of EVA, and reduce charging costs and battery degradation under
+realistic operating conditions."
+19,Robust Electric Vehicle Balancing of Autonomous Mobility-On-Demand System: A Multi-Agent Reinforcement Learning Approach,Multiagent Systems,Sihong He; Shuo Han; Fei Miao,30-July-2023,"Electric autonomous vehicles (EAVs) are getting attention in future
+autonomous mobility-on-demand (AMoD) systems due to their economic and societal
+benefits. However, EAVs' unique charging patterns (long charging time, high
+charging frequency, unpredictable charging behaviors, etc.) make it challenging
+to accurately predict the EAVs supply in E-AMoD systems. Furthermore, the
+mobility demand's prediction uncertainty makes it an urgent and challenging
+task to design an integrated vehicle balancing solution under supply and demand
+uncertainties. Despite the success of reinforcement learning-based E-AMoD
+balancing algorithms, state uncertainties under the EV supply or mobility
+demand remain unexplored. In this work, we design a multi-agent reinforcement
+learning (MARL)-based framework for EAVs balancing in E-AMoD systems, with
+adversarial agents to model both the EAVs supply and mobility demand
+uncertainties that may undermine the vehicle balancing solutions. We then
+propose a robust E-AMoD Balancing MARL (REBAMA) algorithm to train a robust
+EAVs balancing policy to balance both the supply-demand ratio and charging
+utilization rate across the whole city. Experiments show that our proposed
+robust method performs better compared with a non-robust MARL method that does
+not consider state uncertainties; it improves the reward, charging utilization
+fairness, and supply-demand fairness by 19.28%, 28.18%, and 3.97%,
+respectively. Compared with a robust optimization-based method, the proposed
+MARL algorithm can improve the reward, charging utilization fairness, and
+supply-demand fairness by 8.21%, 8.29%, and 9.42%, respectively."
+20,Artificial-Intelligence-Based Design for Circuit Parameters of Power Converters,Signal Processing,X. Li; X. Zhang; F. Lin; F. Blaabjerg,30-July-2023,"Parameter design is significant in ensuring a satisfactory holistic
+performance of power converters. Generally, circuit parameter design for power
+converters consists of two processes: analysis and deduction process and
+optimization process. The existing approaches for parameter design consist of
+two types: traditional approach and computer-aided optimization (CAO) approach.
+In the traditional approaches, heavy human-dependence is required. Even though
+the emerging CAO approaches automate the optimization process, they still
+require manual analysis and deduction process. To mitigate human-dependence for
+the sake of high accuracy and easy implementation, an
+artificial-intelligence-based design (AI-D) approach is proposed in this
+article for the parameter design of power converters. In the proposed AI-D
+approach, to achieve automation in the analysis and deduction process,
+simulation tools and batch-normalization neural network (BN-NN) are adopted to
+build data-driven models for the optimization objectives and design
+constraints. Besides, to achieve automation in the optimization process,
+genetic algorithm is used to search for optimal design results. The proposed
+AI-D approach is validated in the circuit parameter design of the synchronous
+buck converter in the 48 to 12 V accessory-load power supply system in electric
+vehicle. The design case of an efficiency-optimal synchronous buck converter
+with constraints in volume, voltage ripple, and current ripple is provided. In
+the end of this article, feasibility and accuracy of the proposed AI-D approach
+have been validated by hardware experiments."
+21,Symmetric separable convex resource allocation problems with structured disjoint interval bound constraints,Optimization and Control,Martijn H. H. Schoot Uiterkamp,28-July-2023,"Motivated by the problem of scheduling electric vehicle (EV) charging with a
+minimum charging threshold in smart distribution grids, we introduce the
+resource allocation problem (RAP) with a symmetric separable convex objective
+function and disjoint interval bound constraints. In this RAP, the aim is to
+allocate an amount of resource over a set of $n$ activities, where each
+individual allocation is restricted to a disjoint collection of $m$ intervals.
+This is a generalization of classical RAPs studied in the literature where in
+contrast each allocation is only restricted by simple lower and upper bounds,
+i.e., $m=1$. We propose an exact algorithm that, for four special cases of the
+problem, returns an optimal solution in $O \left(\binom{n+m-2}{m-2} (n \log n +
+nF) \right)$ time, where the term $nF$ represents the number of flops required
+for one evaluation of the separable objective function. In particular, the
+algorithm runs in polynomial time when the number of intervals $m$ is fixed.
+Moreover, we show how this algorithm can be adapted to also output an optimal
+solution to the problem with integer variables without increasing its time
+complexity. Computational experiments demonstrate the practical efficiency of
+the algorithm for small values of $m$ and in particular for solving EV charging
+problems."
+22,Bi-level Network Design for UAM Vertiport Allocation Using Activity-Based Transport Simulations,Multiagent Systems,Sebastian Brulin; Markus Olhofer,27-July-2023,"The design or the optimization of transport systems is a difficult task. This
+is especially true in the case of the introduction of new transport modes in an
+existing system. The main reason is, that even small additions and changes
+result in the emergence of new travel patterns, likely resulting in an
+adaptation of the travel behavior of multiple other agents in the system. Here
+we consider the optimization of future Urban Air Mobility services under
+consideration of effects induced by the new mode to an existing system. We
+tackle this problem through a bi-level network design approach, in which the
+discrete decisions of the network design planner are optimized based on the
+evaluated dynamic demand of the user's mode choices. We solve the
+activity-based network design problem (AB-NDP) using a Genetic Algorithm on a
+multi-objective optimization problem while evaluating the dynamic demand with
+the large-scale Multi-Agent Transport Simulation (MATSim) framework. The
+proposed bi-level approach is compared against the results of a coverage
+approach using a static demand method. The bi-level study shows better results
+for expected UAM demand and total travel time savings across the transportation
+system. Due to its generic character, the demonstrated utilization of a
+bi-level method is applicable to other mobility service design questions and to
+other regions."
+23,Overcoming voltage fluctuation in electric vehicles by considering Al electrolytic capacitor-based voltage stabilizer,Systems and Control,Ida Hamidah; Doni Fajar Ramadhan; Ramdhani Ramdhani; Budi Mulyanti; Roer Eka Pawinanto; Lilik Hasanah; Asep Bayu Dani Nandiyanto; Jumril Yunas; Andrivo Rusydi,21-July-2023,"Battery pack used in electrical vehicles (EVs) have developed fastly nowadays
+and are important due to its capability to stores electric charge. However, it
+is still found that there is an electrical voltage fluctuations due to sudden
+load changes or faults in the power system. To overcome this problem, the
+conventional strategy focuses on using voltage stabilizer with
+inductor-capacitor resonant circuits, leaving the problem of using capacitors
+at cryogenic temperatures. Herewith, we design a vehicle automatic voltage
+stabilizer (VAVS) operating at room temperature. The VAVS consists of nine main
+components, including resistors, capacitors, transistors, and diodes arranged
+with a specific composition to stabilize the voltage. By considering Al
+electrolytic capacitor, type of diode, resistor, and transistor, the VAVS
+device stabilizes the input voltage from 10-15V to obtain an output voltage of
+12V. Then, by varying the engine rotation speed of vehicle, VAVS applied in
+vehicle battery supplies a constant voltage of about 12.1 V. The lowest line
+regulation analysis reveals a regulated voltage fluctuation of 0.17%/V. Our
+result shows that VAVS design works at room temperature, overcomes the voltage
+fluctuation and complies with the standard regulation of voltage stabilizers."
+24,SMOTEC: An Edge Computing Testbed for Adaptive Smart Mobility Experimentation,"Distributed, Parallel, and Cluster Computing",Zeinab Nezami; Evangelos Pournaras; Amir Borzouie; Jie Xu,20-July-2023,"Smart mobility becomes paramount for meeting net-zero targets. However,
+autonomous, self-driving and electric vehicles require more than ever before an
+efficient, resilient and trustworthy computational offloading backbone that
+expands throughout the edge-to-cloud continuum. Utilizing on-demand
+heterogeneous computational resources for smart mobility is challenging and
+often cost-ineffective. This paper introduces SMOTEC, a novel open-source
+testbed for adaptive smart mobility experimentation with edge computing. SMOTEC
+provides for the first time a modular end-to-end instrumentation for
+prototyping and optimizing placement of intelligence services on edge devices
+such as augmented reality and real-time traffic monitoring. SMOTEC supports a
+plug-and-play Docker container integration of the SUMO simulator for urban
+mobility, Raspberry Pi edge devices communicating via ZeroMQ and EPOS for an
+AI-based decentralized load balancing across edge-to-cloud. All components are
+orchestrated by the K3s lightweight Kubernetes. A proof-of-concept of
+self-optimized service placements for traffic monitoring from Munich
+demonstrates in practice the applicability and cost-effectiveness of SMOTEC."
+25,Decentralized Smart Charging of Large-Scale EVs using Adaptive Multi-Agent Multi-Armed Bandits,Machine Learning,Sharyal Zafar; Raphaël Feraud; Anne Blavette; Guy Camilleri; Hamid Ben,20-July-2023,"The drastic growth of electric vehicles and photovoltaics can introduce new
+challenges, such as electrical current congestion and voltage limit violations
+due to peak load demands. These issues can be mitigated by controlling the
+operation of electric vehicles i.e., smart charging. Centralized smart charging
+solutions have already been proposed in the literature. But such solutions may
+lack scalability and suffer from inherent drawbacks of centralization, such as
+a single point of failure, and data privacy concerns. Decentralization can help
+tackle these challenges. In this paper, a fully decentralized smart charging
+system is proposed using the philosophy of adaptive multi-agent systems. The
+proposed system utilizes multi-armed bandit learning to handle uncertainties in
+the system. The presented system is decentralized, scalable, real-time,
+model-free, and takes fairness among different players into account. A detailed
+case study is also presented for performance evaluation."
+26,Forecasting Battery Electric Vehicle Charging Behavior: A Deep Learning Approach Equipped with Micro-Clustering and SMOTE Techniques,Machine Learning,Hanif Tayarani; Trisha V. Ramadoss; Vaishnavi Karanam; Gil Tal; Christopher Nitta,20-July-2023,"Energy systems, climate change, and public health are among the primary
+reasons for moving toward electrification in transportation. Transportation
+electrification is being promoted worldwide to reduce emissions. As a result,
+many automakers will soon start making only battery electric vehicles (BEVs).
+BEV adoption rates are rising in California, mainly due to climate change and
+air pollution concerns. While great for climate and pollution goals, improperly
+managed BEV charging can lead to insufficient charging infrastructure and power
+outages. This study develops a novel Micro Clustering Deep Neural Network
+(MCDNN), an artificial neural network algorithm that is highly effective at
+learning BEVs trip and charging data to forecast BEV charging events,
+information that is essential for electricity load aggregators and utility
+managers to provide charging stations and electricity capacity effectively. The
+MCDNN is configured using a robust dataset of trips and charges that occurred
+in California between 2015 and 2020 from 132 BEVs, spanning 5 BEV models for a
+total of 1570167 vehicle miles traveled. The numerical findings revealed that
+the proposed MCDNN is more effective than benchmark approaches in this field,
+such as support vector machine, k nearest neighbors, decision tree, and other
+neural network-based models in predicting the charging events."
+27,Distributed photovoltaics provides key benefits for a highly renewable European energy system,Physics and Society,Parisa Rahdan; Elisabeth Zeyen; Cristobal Gallego-Castillo; Marta Victoria,19-July-2023,"Distributed solar photovoltaic (PV) systems are projected to be a key
+contributor to future energy landscape, but are often poorly represented in
+energy models due to their distributed nature. They have higher costs compared
+to utility PV, but offer additional advantages, e.g., in terms of social
+acceptance. Here, we model the European power network with a high spatial
+resolution of 181 nodes and a 2-hourly temporal resolution. We use a simplified
+model of distribution and transmission networks that allows the representation
+of power distribution losses and differentiates between utility and distributed
+generation and storage. Three scenarios, including a sector-coupled scenario
+with heating, transport, and industry are investigated. The results show that
+incorporating distributed solar PV leads to total system cost reduction in all
+scenarios (1.4% for power sector, 1.9-3.7% for sector-coupled). The achieved
+cost reductions primarily stem from demand peak reduction and lower
+distribution capacity requirements because of self-consumption from distributed
+solar. This also enhances self-sufficiency for countries. The role of
+distributed PV is noteworthy in the sector-coupled scenario and is helped by
+other distributed technologies including heat pumps and electric vehicle
+batteries."
+28,Uncovering Load-Altering Attacks Against N-1 Secure Power Grids: A Rare-Event Sampling Approach,Systems and Control,Maldon Patrice Goodridge; Subhash Lakshminarayana; Alessandro Zocca,17-July-2023,"Load-altering attacks targetting a large number of IoT-based high-wattage
+devices (e.g., smart electric vehicle charging stations) can lead to serious
+disruptions of power grid operations. In this work, we aim to uncover
+spatiotemporal characteristics of LAAs that can lead to serious impact. The
+problem is challenging since existing protection measures such as $N-1$
+security ensures that the power grid is naturally resilient to load changes.
+Thus, strategically injected load perturbations that lead to network failure
+can be regarded as \emph{rare events}. To this end, we adopt a rare-event
+sampling approach to uncover LAAs distributed temporally and spatially across
+the power network. The key advantage of this sampling method is the ability of
+sampling efficiently from multi-modal conditional distributions with
+disconnected support. Furthermore, we systematically compare the impacts of
+static (one-time manipulation of demand) and dynamic (attack over multiple time
+periods) LAAs. We perform extensive simulations using benchmark IEEE test
+simulations. The results show (i) the superiority and the need for rare-event
+sampling in the context of uncovering LAAs as compared to other sampling
+methodologies, (ii) statistical analysis of attack characteristics and impacts
+of static and dynamic LAAs, and (iii) cascade sizes (due to LAA) for different
+network sizes and load conditions."
+29,A Two-Layers Predictive Algorithm for Workplace EV Charging,Systems and Control,Saif Ahmad; Jochem Baltussen; Pauline Kergus; Zohra Kader; Stéphane Caux,17-July-2023,"In this paper, the problem of electric vehicle (EV) charging at the workplace
+is addressed via a two-layer predictive algorithm. We consider a time of use
+(TOU) pricing model for energy drawn from the grid and try to minimize the
+charging cost incurred by the EV charging station (EVCS) operator via an
+economic layer based on dynamic programming (DP) approach. An adaptive
+prediction algorithm based on a non-parametric stochastic model computes the
+projected EV load demand over the day which helps in the selection of optimal
+loading policy for the EVs in the economic layer. The second layer is a
+scheduling algorithm designed to share the allocated power limit (obtained from
+economic layer) among the charging EVs during each charge cycle. The modeling
+and validation is performed using ACN data-set from Caltech. Comparison of the
+proposed scheme with a conventional DP algorithm illustrates its effectiveness
+in terms of supplying the requested energy despite lacking user input for
+departure time."
