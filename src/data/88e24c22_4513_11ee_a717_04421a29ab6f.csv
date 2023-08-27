@@ -1,0 +1,514 @@
+,title,category,authors,date,summary
+0,Towards Sustainable Development: A Novel Integrated Machine Learning Model for Holistic Environmental Health Monitoring,Machine Learning,Anirudh Mazumder; Sarthak Engala; Aditya Nallaparaju,20-August-2023,"Urbanization enables economic growth but also harms the environment through
+degradation. Traditional methods of detecting environmental issues have proven
+inefficient. Machine learning has emerged as a promising tool for tracking
+environmental deterioration by identifying key predictive features. Recent
+research focused on developing a predictive model using pollutant levels and
+particulate matter as indicators of environmental state in order to outline
+challenges. Machine learning was employed to identify patterns linking areas
+with worse conditions. This research aims to assist governments in identifying
+intervention points, improving planning and conservation efforts, and
+ultimately contributing to sustainable development."
+1,Understanding the Vegetable Oil Debate and Its Implications for Sustainability through Social Media,Physics and Society,Elena Candellone; Alberto Aleta; Henrique Ferraz de Arruda; Erik Meijaard; Yamir Moreno,14-August-2023,"The global production and consumption of vegetable oils have sparked several
+discussions on sustainable development. This study analyzes over 20 million
+tweets related to vegetable oils to explore the key factors shaping public
+opinion. We found that coconut, olive, and palm oils dominate social media
+discourse despite their lower contribution to overall global vegetable
+production. The discussion about olive and palm oils remarkably correlates with
+Twitter's growth, while coconut increases more significantly with bursts of
+activity. Discussions around coconut and olive oils primarily focus on health,
+beauty, and food, while palm draws attention to pressing environmental
+concerns. Overall, virality is related to environmental issues and negative
+connotations. In the context of Sustainable Development Goals, this study
+highlights the multifaceted nature of the vegetable oil debate and its
+disconnection from scientific discussions. Our research sheds light on the
+power of social media in shaping public perception, providing insights into
+sustainable development strategies."
+2,Alternative Agriculture Land-Use Transformation Pathways by Partial-Equilibrium Agricultural Sector Model: A Mathematical Approach,Physics and Society,Malvika Kanojia; Prerna Kamani; Gautam Siddharth Kashyap; Shafaq Naz; Samar Wazir; Abhishek Chauhan,12-August-2023,"Humanity's progress in combating hunger, poverty, and child mortality is
+marred by escalating environmental degradation due to rising greenhouse gas
+emissions and climate change impacts. Despite positive developments, ecosystems
+are suffering globally. Regional strategies for mitigating and adapting to
+climate change must be viewed from a global perspective. The 2015 UN
+Sustainable Development Goals reflect the challenge of balancing social and
+environmental aspects for sustainable development. Agriculture, vital for food
+production, also threatens Earth systems. A study examines the interplay of
+land-use impacts, modeling crop and livestock trade, and their effects on
+climate, biodiversity, water, and land using a Partial-Equilibrium Agricultural
+Sector Model. Different scenarios involving taxing externalities related to
+Earth processes were tested. Results show synergies in reducing emissions,
+biodiversity loss, water use, and phosphorus pollution, driven by shifts in
+crop management. Nitrogen application and deforestation scenarios exhibit
+weaker synergies and more conflicts. The study offers insights into SDG
+interactions and the potential for sustainable farming."
+3,"""This (Smart) Town Ain't Big Enough"": Smart Small Towns and Digital Twins for Sustainable Urban and Regional Development",Computers and Society,Gabriela Viale Pereira; Lukas Daniel Klausner; Lucy Temple; Thomas Delissen; Thomas Lampoltshammer; Torsten Priebe,09-August-2023,"One of the major challenges today lies in the creation of governance concepts
+for regional development that not only promote growth but, at the same time,
+ensure promotion of inclusiveness, fairness, and resilience. Digital twins can
+support policymakers in developing smart, sustainable solutions for cities and
+regions and, therefore, urban and non-urban environments. The project SCiNDTiLA
+(Smart Cities aNd Digital Twins in Lower Austria) aims to define the
+state-of-the-art in the field of smart cities, identify interdependencies,
+critical components and stakeholders, and provide a roadmap for smart cities
+with application to both smaller-scale urban and non-urban environments.
+SCiNDTiLA uses the foundations of complexity theory and computational social
+science methods to model Austrian towns and regions as smart cities/regions and
+thus as systems of socio-technical interaction to guide policy decision-making
+toward sustainable development."
+4,Vascular Ageing and Smoking Habit Prediction via a Low-Cost Single-Lead ECG Module,Signal Processing,S. Anas Ali; M. Saqib Niaz; Mubashir Rehman; Ahsan Mehmood; M. Mahboob Ur Rahman; Kashif Riaz,08-August-2023,"This paper presents a novel low-cost method to predict: i) the vascular age
+of a healthy young person, ii) whether or not a person is a smoker, using only
+the lead-I of the electrocardiogram (ECG). We begin by collecting (lead-I) ECG
+data from 42 healthy subjects (male, female, smoker, non-smoker) aged 18 to 30
+years, using our custom-built low-cost single-lead ECG module, and
+anthropometric data, e.g., body mass index, smoking status, blood pressure etc.
+Under our proposed method, we first pre-process our dataset by denoising the
+ECG traces, followed by baseline drift removal, followed by z-score
+normalization. Next, we divide ECG traces into overlapping segments of
+five-second duration, which leads to a 145-fold increase in the size of the
+dataset. We then feed our dataset to a number of machine learning models, a 1D
+convolutional neural network, a multi-layer perceptron (MLP), and ResNet18
+transfer learning model. For vascular ageing prediction problem, Random Forest
+method outperforms all other methods with an R2 score of 0.99, and mean squared
+error of 0.07. For the binary classification problem that aims to differentiate
+between a smoker and a non-smoker, XGBoost method stands out with an accuracy
+of 96.5%. Finally, for the 4-class classification problem that aims to
+differentiate between male smoker, female smoker, male non-smoker, and female
+non-smoker, MLP method achieves the best accuracy of 97.5%. This work is
+aligned with the sustainable development goals of the United Nations which aim
+to provide low-cost but quality healthcare solutions to the unprivileged
+population."
+5,"Resource Management for GPT-based Model Deployed on Clouds: Challenges, Solutions, and Future Directions","Distributed, Parallel, and Cluster Computing",Yongkang Dang; Minxian Xu; Kejiang Ye,05-August-2023,"The widespread adoption of the large language model (LLM), e.g. Generative
+Pre-trained Transformer (GPT), deployed on cloud computing environment (e.g.
+Azure) has led to a huge increased demand for resources. This surge in demand
+poses significant challenges to resource management in clouds. This paper aims
+to highlight these challenges by first identifying the unique characteristics
+of resource management for the GPT-based model. Building upon this
+understanding, we analyze the specific challenges faced by resource management
+in the context of GPT-based model deployed on clouds, and propose corresponding
+potential solutions. To facilitate effective resource management, we introduce
+a comprehensive resource management framework and present resource scheduling
+algorithms specifically designed for the GPT-based model. Furthermore, we delve
+into the future directions for resource management in the GPT-based model,
+highlighting potential areas for further exploration and improvement. Through
+this study, we aim to provide valuable insights into resource management for
+GPT-based models deployed in clouds and promote their sustainable development
+for GPT-based models and applications."
+6,Sustainable development-oriented campus bike-sharing site evaluation model: A case study of Henan Polytechnic University,Computers and Society,Huimin Qi; Xianghong Li; Kai Yin; Xiangnan Song; Xufei Fang,05-August-2023,"Promoting sustainable transportation options is increasingly crucial in the
+pursuit of environmentally friendly and efficient campus mobility systems.
+Among these options, bike-sharing programs have garnered substantial attention
+for their capacity to mitigate traffic congestion, decrease carbon emissions,
+and enhance overall campus sustainability. However, improper selection of
+bike-sharing sites has led to the growing problems of unsustainable practices
+in campus, including the disorderly parking and indiscriminate placement of
+bike-sharing. To this end, this paper proposes a novel sustainable
+development-oriented campus bike-sharing site evaluation model integrating the
+improved Delphi and fuzzy comprehensive evaluation approaches. Fourteen
+evaluation metrics are firstly selected from four dimensions: the user
+features, implementation and usage characteristics of parking spots,
+environmental sustainability, and social sustainability, through the
+combination of expert experience and the improved Delphi method. Then, the
+analytic hierarchy process and the entropy weight method are employed to
+determine the weights of the evaluation indices, ensuring a robust and
+objective assessment framework. The fuzzy comprehensive evaluation method is
+finally implemented to evaluate the quality of location selection. South Campus
+of Henan Polytechnic University is selected as a case study using the proposed
+evaluation system. This work contributes to the existing body of knowledge by
+presenting a comprehensive location selection evaluation system for campus
+bike-sharing, informed by the principles of sustainable development."
+7,Harnessing the Web and Knowledge Graphs for Automated Impact Investing Scoring,Machine Learning,Qingzhi Hu; Daniel Daza; Laurens Swinkels; Kristina Ūsaitė; Robbert-Jan 't Hoen; Paul Groth,04-August-2023,"The Sustainable Development Goals (SDGs) were introduced by the United
+Nations in order to encourage policies and activities that help guarantee human
+prosperity and sustainability. SDG frameworks produced in the finance industry
+are designed to provide scores that indicate how well a company aligns with
+each of the 17 SDGs. This scoring enables a consistent assessment of
+investments that have the potential of building an inclusive and sustainable
+economy. As a result of the high quality and reliability required by such
+frameworks, the process of creating and maintaining them is time-consuming and
+requires extensive domain expertise. In this work, we describe a data-driven
+system that seeks to automate the process of creating an SDG framework. First,
+we propose a novel method for collecting and filtering a dataset of texts from
+different web sources and a knowledge graph relevant to a set of companies. We
+then implement and deploy classifiers trained with this data for predicting
+scores of alignment with SDGs for a given company. Our results indicate that
+our best performing model can accurately predict SDG scores with a micro
+average F1 score of 0.89, demonstrating the effectiveness of the proposed
+solution. We further describe how the integration of the models for its use by
+humans can be facilitated by providing explanations in the form of data
+relevant to a predicted score. We find that our proposed solution enables
+access to a large amount of information that analysts would normally not be
+able to process, resulting in an accurate prediction of SDG scores at a
+fraction of the cost."
+8,Supply chain emission estimation using large language models,Computation and Language,Ayush Jain; Manikandan Padmanaban; Jagabondhu Hazra; Shantanu Godbole; Kommy Weldemariam,03-August-2023,"Large enterprises face a crucial imperative to achieve the Sustainable
+Development Goals (SDGs), especially goal 13, which focuses on combating
+climate change and its impacts. To mitigate the effects of climate change,
+reducing enterprise Scope 3 (supply chain emissions) is vital, as it accounts
+for more than 90\% of total emission inventories. However, tracking Scope 3
+emissions proves challenging, as data must be collected from thousands of
+upstream and downstream suppliers.To address the above mentioned challenges, we
+propose a first-of-a-kind framework that uses domain-adapted NLP foundation
+models to estimate Scope 3 emissions, by utilizing financial transactions as a
+proxy for purchased goods and services. We compared the performance of the
+proposed framework with the state-of-art text classification models such as
+TF-IDF, word2Vec, and Zero shot learning. Our results show that the
+domain-adapted foundation model outperforms state-of-the-art text mining
+techniques and performs as well as a subject matter expert (SME). The proposed
+framework could accelerate the Scope 3 estimation at Enterprise scale and will
+help to take appropriate climate actions to achieve SDG 13."
+9,Quantifying the overall characteristics of urban mobility considering spatial information,Physics and Society,Hao Wang; Pengjun Zhao; Xiao-Yong Yan,02-August-2023,"Quantification of the overall characteristics of urban mobility using
+coarse-grained methods is crucial for urban management, planning and
+sustainable development. Although some recent studies have provided
+quantification methods for coarse-grained numerical information regarding urban
+mobility, a method that can simultaneously capture numerical and spatial
+information remains an outstanding problem. Here, we use mathematical vectors
+to depict human mobility, with mobility magnitude representing numerical
+information and mobility direction representing spatial information. We then
+define anisotropy and centripetality metrics by vector computation to measure
+imbalance in direction distribution and orientation toward the city center of
+mobility flows, respectively. As a case study, we apply our method to 60
+Chinese cities and identify three mobility patterns: strong monocentric, weak
+monocentric and polycentric. To better understand mobility pattern, we further
+study the allometric scaling of the average commuting distance and the
+spatiotemporal variations of the two metrics in different patterns. Finally, we
+build a microscopic model to explain the key mechanisms driving the diversity
+in anisotropy and centripetality. Our work offers a comprehensive method that
+considers both numerical and spatial information to quantify and classify the
+overall characteristics of urban mobility, enhancing our understanding of the
+structure and evolution of urban mobility systems."
+10,A Satellite Imagery Dataset for Long-Term Sustainable Development in United States Cities,Computer Vision and Pattern Recognition,Yanxin Xi; Yu Liu; Tong Li; Jintao Ding; Yunke Zhang; Sasu Tarkoma; Yong Li; Pan Hui,01-August-2023,"Cities play an important role in achieving sustainable development goals
+(SDGs) to promote economic growth and meet social needs. Especially satellite
+imagery is a potential data source for studying sustainable urban development.
+However, a comprehensive dataset in the United States (U.S.) covering multiple
+cities, multiple years, multiple scales, and multiple indicators for SDG
+monitoring is lacking. To support the research on SDGs in U.S. cities, we
+develop a satellite imagery dataset using deep learning models for five SDGs
+containing 25 sustainable development indicators. The proposed dataset covers
+the 100 most populated U.S. cities and corresponding Census Block Groups from
+2014 to 2023. Specifically, we collect satellite imagery and identify objects
+with state-of-the-art object detection and semantic segmentation models to
+observe cities' bird's-eye view. We further gather population, nighttime light,
+survey, and built environment data to depict SDGs regarding poverty, health,
+education, inequality, and living environment. We anticipate the dataset to
+help urban policymakers and researchers to advance SDGs-related studies,
+especially applying satellite imagery to monitor long-term and multi-scale SDGs
+in cities."
+11,"Street access, Informality and Development: A block level analysis across all of sub-Saharan Africa",Physics and Society,Luis M. A Bettencourt; Nicholas Marchio,30-July-2023,"Sustainable development is an imperative worldwide but metrics and data on
+poverty and quality of life have remained too coarse and abstract to
+characterize challenges adequately and guide practical progress. Nowhere is
+this challenge greater than in Africa where we still know relatively little
+about the systematic spatial details and scope of development. Here, we
+leverage a complete, high-precision dataset of building footprints to identify
+infrastructure deficits and infer informal settlements down to the street level
+everywhere in sub-Saharan Africa. We identify a general pattern of informality
+with urbanized areas showing, on average, greater access to infrastructure and
+services than rural and periurban areas, each characterized by a statistically
+consistent spectrum of uneven local development. We show that our physical
+measures of informality are systematically associated with many indicators of
+low human development, and that these form a single principal component
+predicted by specific functional changes of the built environment. These
+results demonstrate that the localization of sustainable development is
+possible down to the street level at a continental scale and provide a general
+distributed strategy for accelerating progress in infrastructure and service
+expansion that taps local innovations in a way that is equitable and context
+appropriate."
+12,Indicatori comuni del PNRR e framework SDGs: una proposta di indicatore composito,General Economics,Fabio Bacchini; Lorenzo Di Biagio; Giampiero M. Gallo; Vincenzo Spinelli,20-July-2023,"The main component of the NextGeneration EU (NGEU) program is the Recovery
+and Resilience Facility (RRF), spanning an implementation period between 2021
+and 2026. The RRF also includes a monitoring system: every six months, each
+country is required to send an update on the progress of the plan against 14
+common indicators, measured on specific quantitative scales. The aim of this
+paper is to present the first empirical evidence on this system, while, at the
+same time, emphasizing the potential of its integration with the sustainable
+development framework (SDGs). We propose to develop a first linkage between the
+14 common indicators and the SDGs which allows us to produce a composite index
+(SDGs-RRF) for France, Germany, Italy, and Spain for the period 2014-2021. Over
+this time, widespread improvements in the composite index across the four
+countries led to a partial reduction of the divergence. The proposed approach
+represents a first step towards a wider use of the SDGs for the assessment of
+the RRF, in line with their use in the European Semester documents prepared by
+the European Commission."
+13,Mathematical modeling for sustainability: How can it promote sustainable learning in mathematics education?,History and Overview,N. Karjanto,20-July-2023,"This article reviews the current state of teaching and learning mathematical
+modeling in the context of sustainable development goals for education at the
+tertiary level. While ample research on mathematical modeling education and
+published textbooks on the topic are available, there is a lack of focus on
+mathematical modeling for sustainability. This review aims to address this gap
+by exploring the powerful intersection of mathematical modeling and
+sustainability. Mathematical modeling for sustainability connects two distinct
+realms: learning about the mathematics of sustainability and promoting
+sustainable learning in mathematics education. The former involves teaching and
+learning sustainability quantitatively, while the latter encompasses pedagogy
+that enables learners to apply quantitative knowledge and skills to everyday
+life and continue learning and improving mathematically beyond formal
+education. To demonstrate the practical application of mathematical modeling
+for sustainability, we discuss a specific textbook suitable for a pilot liberal
+arts course. We illustrate how learners can grasp mathematical concepts related
+to sustainability through simple yet mathematically diverse examples, which can
+be further developed for teaching such a course. Indeed, by filling the gap in
+the literature and providing practical resources, this review contributes to
+the advancement of mathematical modeling education in the context of
+sustainability."
+14,Resilience of the reported global human-nature interaction network to pandemic conditions,Social and Information Networks,Anne Cathrine Linder; David Lusseau,18-July-2023,"Understanding human-nature interactions and the architecture of coupled
+human-nature systems is crucial for sustainable development. Cultural ecosystem
+services (CES), defined as intangible benefits derived from nature exposure,
+contribute to maintaining and improving human well-being. However, we have
+limited understanding of how well-being benefits emerge from CES co-production.
+In this study, for the first time, we estimated the global CES network from
+self-reported interactions between nature features and human activities
+underpinning CES co-production using social media. First, we used a bottom-up,
+approach to define the global repertoire of nature features and human
+activities used during CES co-production using 682,000 posts on Reddit. We then
+sampled Twitter to estimate the co-occurrence of these features and activities
+over the past five years, retrieving 41.7 millions tweets. These tweets were
+used to estimate the CES bipartite network, where each link was weighted by the
+number of times nature features and human activities co-occurred in tweets. We
+expected to observe large changes in the CES network topology in relation to
+the global mobility restrictions during the COVID-19 pandemic. This was not the
+case and the global CES network was generally resilient. However, a higher
+order singular value decomposition of the CES tensor revealed an impulse on the
+link between self care activities and urban greenspace. This could be due to an
+increased need for self care during the pandemic and urban greenspace enabling
+CES to be produced locally. Thus, providing resilience for maintaining
+well-being during the pandemic. Our user based analysis also indicated a shift
+towards local CES production during the beginning of the pandemic. Thus,
+supporting that CES was produced locally. These findings suggest an overall
+need for CES and access to features providing CES in local communities."
+15,Application of BERT in Wind Power Forecasting-Teletraan's Solution in Baidu KDD Cup 2022,Machine Learning,Longxing Tan; Hongying Yue,18-July-2023,"Nowadays, wind energy has drawn increasing attention as its important role in
+carbon neutrality and sustainable development. When wind power is integrated
+into the power grid, precise forecasting is necessary for the sustainability
+and security of the system. However, the unpredictable nature and long sequence
+prediction make it especially challenging. In this technical report, we
+introduce the BERT model applied for Baidu KDD Cup 2022, and the daily
+fluctuation is added by post-processing to make the predicted results in line
+with daily periodicity. Our solution achieves 3rd place of 2490 teams. The code
+is released athttps://github.com/LongxingTan/KDD2022-Baidu"
+16,The Climatological Renewable Energy Deviation Index,Atmospheric and Oceanic Physics,Laurens P. Stoop; Karin van der Wiel; William Zappa; Arno Haverkamp; Ad J. Feelders; Machteld van den Broek,18-July-2023,"Here we propose an index to quantify and analyse the impact of climatological
+variability on the energy system at different timescales. We define the
+Climatological Renewable Energy Deviation Index (CREDI) as the cumulative
+anomaly of a renewable resource with respect to its climate over a specific
+time period of interest. We analyse the index at decadal, annual and
+(sub-)seasonal timescales using the forthcoming Pan-European Climate Database
+and consider the starting point and window of analysis for its use at those
+timescales. The CREDI is meant as an analytical tool for researchers and
+stakeholders to help them quantify, understand, and explain, the impact of the
+variability of weather on the energy system across timescales. Improved
+understanding translates to better assessments of how renewable resources, and
+the associated risks for energy security, may fare in current and future
+climatological settings. The practical use of the index is in resource
+planning. For example transmission system operators may be able to adjust
+short-term planning to reduce adequacy issues before they occur or combine the
+index with storyline event selection for improved assessments of climate change
+related risks."
+17,Data Discovery for the SDGs: A Systematic Rule-based Approach,Information Retrieval,Yuwei Jiang; David Johnson,16-July-2023,"In 2015, the United Nations put forward 17 Sustainable Development Goals
+(SDGs) to be achieved by 2030, where data has been promoted as a focus to
+innovating sustainable development and as a means to measuring progress towards
+achieving the SDGs. In this study, we propose a systematic approach towards
+discovering data types and sources that can be used for SDG research. The
+proposed method integrates a systematic mapping approach using manual
+qualitative coding over a corpus of SDG-related research literature followed by
+an automated process that applies rules to perform data entity extraction
+computationally. This approach is exemplified by an analysis of literature
+relating to SDG 7, the results of which are also presented in this paper. The
+paper concludes with a discussion of the approach and suggests future work to
+extend the method with more advance NLP and machine learning techniques."
+18,Towards a 6G embedding sustainability,Networking and Internet Architecture,Esteban Selva; Azeddine Gati; Marie- Hélène Hamon; Giorgio Calochira; Giuseppe Avino; Bahare Masood Khorsandi; Stefan Wunderer; Stefan Wänstedt; Pernilla Bergmark; Serge Bories; Tommy Svensson; Marja Matinmikko-Blue,13-July-2023,"From its conception, 6G is being designed with a particular focus on
+sustainability. The general philosophy of the H2020 Hexa-X project work on
+sustainability in 6G is based on two principles: to reduce direct negative life
+cycle impacts of 6G systems as much as possible (Sustainable 6G) and to analyze
+use cases that maximize positive environmental, social, and economic effects in
+other sectors of society (6G for Sustainability or its enablement effect). To
+apply this philosophy, Hexa-X is designing 6G with three sustainability
+objectives in mind: to enable the reduction of emissions in 6G-powered sectors
+of society, to reduce the total cost of ownership and to improve energy
+efficiency. This paper describes these objectives, their associated KPIs and
+quantitative targets, and the levers to reach them. Furthermore, to maximize
+the positive effects of 6G through the enablement effect, a link between 6G and
+the United Nations' Sustainable Development Goals (UN SDGs) framework is
+proposed and illustrated by Hexa-X use case families."
+19,Peru Mining: Analysis and Forecast of Mining Production in Peru Using Time Series and Data Science Techniques,Other Statistics,Yhack Bryan Aycaya-Paco; Lindell Dennis Vilca-Mamani; Fred Torres-Cruz,12-July-2023,"Peruvian mining plays a crucial role in the country's economy, being one of
+the main producers and exporters of minerals worldwide. In this project, an
+application was developed in RStudio that utilizes statistical analysis and
+time series modeling techniques to understand and forecast mineral extraction
+in different departments of Peru. The application includes an interactive map
+that allows users to explore Peruvian geography and obtain detailed statistics
+by clicking on each department. Additionally, bar charts, pie charts, and
+frequency polygons were implemented to visualize and analyze the data. Using
+the ARIMA model, predictions were made on the future extraction of minerals,
+enabling informed decision-making in planning and resource management within
+the mining sector. The application provides an interactive and accessible tool
+to explore the Peruvian mining industry, comprehend trends, and make accurate
+forecasts. These predictions for 2027 in total annual production are as
+follows: Copper = 2,694,957 MT, Gold = 72,817.47 kg Fine, Zinc = 1,369,649 MT,
+Silver = 3,083,036 MT, Lead = 255,443 MT, Iron = 15,776,609 MT, Tin = 29,542
+MT, Molybdenum = 35,044.66 MT, and Cadmium = 724 MT. These predictions, based
+on historical data, provide valuable information for strategic decision-making
+and contribute to the sustainable development of the mining industry in Peru."
+20,International Institutions for Advanced AI,Computers and Society,Lewis Ho; Joslyn Barnhart; Robert Trager; Yoshua Bengio; Miles Brundage; Allison Carnegie; Rumman Chowdhury; Allan Dafoe; Gillian Hadfield; Margaret Levi; Duncan Snidal,10-July-2023,"International institutions may have an important role to play in ensuring
+advanced AI systems benefit humanity. International collaborations can unlock
+AI's ability to further sustainable development, and coordination of regulatory
+efforts can reduce obstacles to innovation and the spread of benefits.
+Conversely, the potential dangerous capabilities of powerful and
+general-purpose AI systems create global externalities in their development and
+deployment, and international efforts to further responsible AI practices could
+help manage the risks they pose. This paper identifies a set of governance
+functions that could be performed at an international level to address these
+challenges, ranging from supporting access to frontier AI systems to setting
+international safety standards. It groups these functions into four
+institutional models that exhibit internal synergies and have precedents in
+existing organizations: 1) a Commission on Frontier AI that facilitates expert
+consensus on opportunities and risks from advanced AI, 2) an Advanced AI
+Governance Organization that sets international standards to manage global
+threats from advanced models, supports their implementation, and possibly
+monitors compliance with a future governance regime, 3) a Frontier AI
+Collaborative that promotes access to cutting-edge AI, and 4) an AI Safety
+Project that brings together leading researchers and engineers to further AI
+safety research. We explore the utility of these models and identify open
+questions about their viability."
+21,Hydrogen from Cellulose and Low-density Polyethylene via Atmospheric Pressure Nonthermal Plasma,Plasma Physics,Benard Tabu; Visal Veng; Heba Morgan; Shubhra Kanti Das; Eric Brack; Todd Alexander; J. Hunter Mack; Hsi-Wu Wong; Juan Pablo Trelles,09-July-2023,"The valorization of waste, by creating economic value while limiting
+environmental impact, can have an essential role in sustainable development.
+Particularly, polymeric waste such as biomass and plastics can be used for the
+production of green hydrogen as a carbon-free energy carrier through the use of
+nonthermal plasma powered by renewable, potentially surplus, electricity. In
+this study, a Streamer Dielectric-Barrier Discharge (SDBD) reactor is designed
+and built to extract hydrogen and carbon co-products from cellulose and
+low-density polyethylene (LDPE) as model feedstocks of biomass and plastic
+waste, respectively. Spectroscopic and electrical diagnostics, together with
+modeling, are used to estimate representative plasma properties, namely
+electron and excitation temperatures, number density, and power consumption.
+Cellulose and LDPE are plasma-treated for different treatment times to
+characterize the evolution of the hydrogen production process. Gas products are
+analyzed using gas chromatography to determine the mean hydrogen production
+rate, production efficiency, hydrogen yield, selectivity, and energy cost. The
+results show that the maximum hydrogen production efficiency for cellulose is
+0.8 mol/kWh, which is approximately double that for LDPE. Furthermore, the
+energy cost of hydrogen production from cellulose is 600 kWh/kg of H2, half
+that of LDPE. Solid products are examined via scanning electron microscopy,
+revealing the distinct morphological structure of the two feedstocks treated,
+as well as by elemental composition analysis. The results demonstrate that SDBD
+plasma is effective at producing hydrogen from cellulose and LDPE at near
+atmospheric pressure and relatively low-temperature conditions in
+rapid-response and compact processes."
+22,High Altitude Platform Stations: the New Network Energy Efficiency Enabler in the 6G Era,Networking and Internet Architecture,Tailai Song; David Lopez; Michela Meo; Nicola Piovesan; Daniela Renga,03-July-2023,"The rapidly evolving communication landscape, with the advent of 6G
+technology, brings new challenges to the design and operation of wireless
+networks. One of the key concerns is the energy efficiency of the Radio Access
+Network (RAN), as the exponential growth in wireless traffic demands
+increasingly higher energy consumption. In this paper, we assess the potential
+of integrating a High Altitude Platform Station (HAPS) to improve the energy
+efficiency of a RAN, and quantify the potential energy conservation through
+meticulously designed simulations. We propose a quantitative framework based on
+real traffic patterns to estimate the energy consumption of the HAPS integrated
+RAN and compare it with the conventional terrestrial RAN. Our simulation
+results elucidate that HAPS can significantly reduce energy consumption by up
+to almost 30\% by exploiting the unique advantages of HAPS, such as its
+self-sustainability, high altitude, and wide coverage. We further analyze the
+impact of different system parameters on performance, and provide insights for
+the design and optimization of future 6G networks. Our work sheds light on the
+potential of HAPS integrated RAN to mitigate the energy challenges in the 6G
+era, and contributes to the sustainable development of wireless communications."
+23,S2SNet: A Pretrained Neural Network for Superconductivity Discovery,Superconductivity,Ke Liu; Kaifan Yang; Jiahong Zhang; Renjun Xu,28-June-2023,"Superconductivity allows electrical current to flow without any energy loss,
+and thus making solids superconducting is a grand goal of physics, material
+science, and electrical engineering. More than 16 Nobel Laureates have been
+awarded for their contribution to superconductivity research. Superconductors
+are valuable for sustainable development goals (SDGs), such as climate change
+mitigation, affordable and clean energy, industry, innovation and
+infrastructure, and so on. However, a unified physics theory explaining all
+superconductivity mechanism is still unknown. It is believed that
+superconductivity is microscopically due to not only molecular compositions but
+also the geometric crystal structure. Hence a new dataset, S2S, containing both
+crystal structures and superconducting critical temperature, is built upon
+SuperCon and Material Project. Based on this new dataset, we propose a novel
+model, S2SNet, which utilizes the attention mechanism for superconductivity
+prediction. To overcome the shortage of data, S2SNet is pre-trained on the
+whole Material Project dataset with Masked-Language Modeling (MLM). S2SNet
+makes a new state-of-the-art, with out-of-sample accuracy of 92% and Area Under
+Curve (AUC) of 0.92. To the best of our knowledge, S2SNet is the first work to
+predict superconductivity with only information of crystal structures. This
+work is beneficial to superconductivity discovery and further SDGs. Code and
+datasets are available in https://github.com/zjuKeLiu/S2SNet"
+24,Towards Sustainable Ultrawide Bandgap Van der Waals Materials: An ab initio Screening Effort,Materials Science,Chuin Wei Tan; Linqiang Xu; Hui Ying Yang; Shengyuan A. Yang; Jing Lu; Yee Sin Ang,26-June-2023,"The sustainable development of next-generation device technology is paramount
+in the face of climate change and the looming energy crisis. Tremendous efforts
+have been made in the discovery and design of nanomaterials that achieve
+device-level sustainability, where high performance and low operational energy
+cost are prioritized. However, many of such materials are composed of elements
+that are under threat of depletion and pose elevated risks to the environment.
+The role of material-level sustainability in computational screening efforts
+remains an open question thus far. Here we develop a general van der Waals
+materials screening framework imbued with sustainability-motivated search
+criteria. Using ultrawide bandgap (UWBG) materials as a backdrop -- an emerging
+materials class with great prospects in dielectric, power electronics, and
+ultraviolet device applications, we demonstrate how this screening framework
+results in 25 sustainable UWBG layered materials comprising only of low-risks
+elements. Our findings constitute a critical first-step towards reinventing a
+more sustainable electronics landscape beyond silicon, with the framework
+established in this work serving as a harbinger of sustainable 2D materials
+discovery."
+25,Exploring the Nexus between Exhaustible Human Resources and Economic Development in China: An Application of the Hotelling Model,General Economics,Zhiwei Yang,21-June-2023,"This paper applies the Hotelling model to the context of exhaustible human
+resources in China. We find that over-exploitation of human resources occurs
+under conditions of restricted population mobility, rigid wage levels, and
+increased foreign trade demand elasticity. Conversely, the existence of
+technological replacements for human resources or improvements in the
+utilization rate of human resources leads to conservation. Our analysis
+provides practical insights for policy-making towards sustainable development."
+26,AI Clinics on Mobile (AICOM): Universal AI Doctors for the Underserved and Hard-to-Reach,Artificial Intelligence,Tim Tianyi Yang; Tom Tianze Yang; Na An; Ao Kong; Shaoshan Liu; Steve Xue Liu,17-June-2023,"This paper introduces Artificial Intelligence Clinics on Mobile (AICOM), an
+open-source project devoted to answering the United Nations Sustainable
+Development Goal 3 (SDG3) on health, which represents a universal recognition
+that health is fundamental to human capital and social and economic
+development. The core motivation for the AICOM project is the fact that over
+80% of the people in the least developed countries (LDCs) own a mobile phone,
+even though less than 40% of these people have internet access. Hence, through
+enabling AI-based disease diagnostics and screening capability on affordable
+mobile phones without connectivity will be a critical first step to addressing
+healthcare access problems. The technologies developed in the AICOM project
+achieve exactly this goal, and we have demonstrated the effectiveness of AICOM
+on monkeypox screening tasks. We plan to continue expanding and open-sourcing
+the AICOM platform, aiming for it to evolve into an universal AI doctor for the
+Underserved and Hard-to-Reach."
+27,Understanding the Application of Utility Theory in Robotics and Artificial Intelligence: A Survey,Robotics,Qin Yang; Rui Liu,15-June-2023,"As a unifying concept in economics, game theory, and operations research,
+even in the Robotics and AI field, the utility is used to evaluate the level of
+individual needs, preferences, and interests. Especially for decision-making
+and learning in multi-agent/robot systems (MAS/MRS), a suitable utility model
+can guide agents in choosing reasonable strategies to achieve their current
+needs and learning to cooperate and organize their behaviors, optimizing the
+system's utility, building stable and reliable relationships, and guaranteeing
+each group member's sustainable development, similar to the human society.
+Although these systems' complex, large-scale, and long-term behaviors are
+strongly determined by the fundamental characteristics of the underlying
+relationships, there has been less discussion on the theoretical aspects of
+mechanisms and the fields of applications in Robotics and AI. This paper
+introduces a utility-orient needs paradigm to describe and evaluate inter and
+outer relationships among agents' interactions. Then, we survey existing
+literature in relevant fields to support it and propose several promising
+research directions along with some open problems deemed necessary for further
+investigations."
+28,Carbon emissions and sustainability of launching 5G mobile networks in China,Systems and Control,Tong Li; Li Yu; Yibo Ma; Tong Duan; Wenzhen Huang; Yan Zhou; Depeng Jin; Yong Li; Tao Jiang,14-June-2023,"Since 2021, China has deployed more than 2.1 million 5G base stations to
+increase the network capacity and provide ubiquitous digital connectivity for
+mobile terminals. However, the launch of 5G networks also exacerbates the
+misalignment between cellular traffic and energy consumption, which reduces
+carbon efficiency - the amount of network traffic that can be delivered for
+each unit of carbon emission. In this study, we develop a large-scale
+data-driven framework to estimate the carbon emissions induced by mobile
+networks. We show that the decline in carbon efficiency leads to a carbon
+efficiency trap, estimated to cause additional carbon emissions of 23.82 +-
+1.07 megatons in China. To mitigate the misalignment and improve energy
+efficiency, we propose DeepEnergy, an energy-saving method leveraging
+collaborative deep reinforcement learning and graph neural networks. DeepEnergy
+models complex collaboration among cells, making it possible to effectively
+coordinate the working state of tens of thousands of cells, which could help
+over 71% of Chinese provinces avoid carbon efficiency traps. In addition,
+applying DeepEnergy is estimated to reduce 20.90 +- 0.98 megatons of carbon
+emissions at the national level in 2023. We further assess the effects of
+adopting renewable energy and discover that the mobile network could accomplish
+more than 50% of its net-zero goal by integrating DeepEnergy and solar energy
+systems. Our study provides insight into carbon emission mitigation in 5G
+network infrastructure launching in China and overworld, paving the way towards
+achieving sustainable development goals and future net-zero mobile networks."
+29,Mapping Global Value Chains at the Product Level,General Economics,Lea Karbevska; César A. Hidalgo,12-June-2023,"Value chain data is crucial to navigate economic disruptions, such as those
+caused by the COVID-19 pandemic and the war in Ukraine. Yet, despite its
+importance, publicly available value chain datasets, such as the ``World
+Input-Output Database'', ``Inter-Country Input-Output Tables'', ``EXIOBASE'' or
+the ``EORA'', lack detailed information about products (e.g. Radio Receivers,
+Telephones, Electrical Capacitors, LCDs, etc.) and rely instead on more
+aggregate industrial sectors (e.g. Electrical Equipment, Telecommunications).
+Here, we introduce a method based on machine learning and trade theory to infer
+product-level value chain relationships from fine-grained international trade
+data. We apply our method to data summarizing the exports and imports of 300+
+world regions (e.g. states in the U.S., prefectures in Japan, etc.) and 1200+
+products to infer value chain information implicit in their trade patterns.
+Furthermore, we use proportional allocation to assign the trade flow between
+regions and countries. This work provides an approximate method to map value
+chain data at the product level with a relevant trade flow, that should be of
+interest to people working in logistics, trade, and sustainable development."
