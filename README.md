@@ -27,7 +27,4 @@ To install Gatherer, make sure you have `poetry` installed on your machine. If n
 	Install dependencies: poetry install
     Activate poetry: poetry shell
 
-## Usage
-The current version uses GPT-4. Please create a .env file in the root directory with your API-creds.
-Navigate into 'src': cd src
-Run the code: python gatherer.py
+
