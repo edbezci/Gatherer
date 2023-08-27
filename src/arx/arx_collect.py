@@ -59,11 +59,12 @@ class arxiv_gather:
             )
         else:
             print("There are not any articles in the dataset")
+            
         cln_data = self.clean_dataset()
         df = pd.DataFrame(cln_data)
 
         df.to_csv(self.OUTPUT_FILE)
-        return pd.DataFrame(cln_data)
+        return pd.DataFrame(cln_data), self.OUTPUT_FILE
 
 
 if __name__ == "__main__":

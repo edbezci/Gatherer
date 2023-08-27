@@ -1,0 +1,496 @@
+,title,category,authors,date,summary
+0,The geometry of financial institutions -- Wasserstein clustering of financial data,Machine Learning,Lorenz Riess; Mathias Beiglböck; Johannes Temme; Andreas Wolf; Julio Backhoff,05-May-2023,"The increasing availability of granular and big data on various objects of
+interest has made it necessary to develop methods for condensing this
+information into a representative and intelligible map. Financial regulation is
+a field that exemplifies this need, as regulators require diverse and often
+highly granular data from financial institutions to monitor and assess their
+activities. However, processing and analyzing such data can be a daunting task,
+especially given the challenges of dealing with missing values and identifying
+clusters based on specific features.
+  To address these challenges, we propose a variant of Lloyd's algorithm that
+applies to probability distributions and uses generalized Wasserstein
+barycenters to construct a metric space which represents given data on various
+objects in condensed form. By applying our method to the financial regulation
+context, we demonstrate its usefulness in dealing with the specific challenges
+faced by regulators in this domain. We believe that our approach can also be
+applied more generally to other fields where large and complex data sets need
+to be represented in concise form."
+1,Decentralized Finance (DeFi),General Finance,Mansur Bestas,15-February-2023,"Decentralized finance, powered by blockchain technology, is growing day by
+day. This field, which emerged a few years ago, today manages $70 billion in
+assets. In this study, the concept of decentralized finance is discussed and
+explained the differences from traditional finance. Then, compliance with the
+legal regulations and the requirements to ensure compliance are mentioned. An
+evaluation has been made about the financial services offered by the
+decentralized finance field and the stock market and stablecoins that it uses
+as a tool while providing these services. Its economic effects, security and,
+privacy dimensions are examined. In the study, the differences between
+centralized and decentralized finance, which generally covers legal, economic,
+security, privacy, and market manipulation, are systematically analyzed. A
+structured methodology is presented to distinguish between centralized and
+decentralized financial services. Keywords: decentralized finance, FinTech,
+financial regulation, blockchain, distributed ledger technology."
+2,An Axiomatic Viewpoint on the Rogers--Veraart and Suzuki--Elsinger Models of Systemic Risk,Optimization and Control,Yuri Kabanov; Arthur Sidorenko,26-December-2022,"We study a model of clearing in an interbank network with crossholdings and
+default charges. Following the Eisenberg--Noe approach, we define the model via
+a set of natural financial regulations including those related with eventual
+default charges and derive a finite family of fixpoint problems. These problems
+are parameterized by vectors of binary variables. Our model combines features
+of the Ararat--Meimanjanov, Rogers--Veraart, and Suzuki--Elsinger networks. We
+develop methods of computing the maximal and minimal clearing pairs using the
+mixed integer-linear programming and a Gaussian elimination algorithm."
+3,Interpretable Selective Learning in Credit Risk,Computational Finance,Dangxing Chen; Weicheng Ye; Jiahui Ye,21-September-2022,"The forecasting of the credit default risk has been an important research
+field for several decades. Traditionally, logistic regression has been widely
+recognized as a solution due to its accuracy and interpretability. As a recent
+trend, researchers tend to use more complex and advanced machine learning
+methods to improve the accuracy of the prediction. Although certain non-linear
+machine learning methods have better predictive power, they are often
+considered to lack interpretability by financial regulators. Thus, they have
+not been widely applied in credit risk assessment. We introduce a neural
+network with the selective option to increase interpretability by
+distinguishing whether the datasets can be explained by the linear models or
+not. We find that, for most of the datasets, logistic regression will be
+sufficient, with reasonable accuracy; meanwhile, for some specific data
+portions, a shallow neural network model leads to much better accuracy without
+significantly sacrificing the interpretability."
+4,Measuring Tail Risks,Risk Management,Kan Chen; Tuoyuan Cheng,15-September-2022,"Value at risk (VaR) and expected shortfall (ES) are common high
+quantile-based risk measures adopted in financial regulations and risk
+management. In this paper, we propose a tail risk measure based on the most
+probable maximum size of risk events (MPMR) that can occur over a length of
+time. MPMR underscores the dependence of the tail risk on the risk management
+time frame. Unlike VaR and ES, MPMR does not require specifying a confidence
+level. We derive the risk measure analytically for several well-known
+distributions. In particular, for the case where the size of the risk event
+follows a power law or Pareto distribution, we show that MPMR also scales with
+the number of observations $n$ (or equivalently the length of the time
+interval) by a power law, $\text{MPMR}(n) \propto n^{\eta}$, where $\eta$ is
+the scaling exponent. The scale invariance allows for reasonable estimations of
+long-term risks based on the extrapolation of more reliable estimations of
+short-term risks. The scaling relationship also gives rise to a robust and
+low-bias estimator of the tail index (TI) $\xi$ of the size distribution, $\xi
+= 1/\eta$. We demonstrate the use of this risk measure for describing the tail
+risks in financial markets as well as the risks associated with natural hazards
+(earthquakes, tsunamis, and excessive rainfall)."
+5,E-backtesting,Risk Management,Qiuqi Wang; Ruodu Wang; Johanna Ziegel,27-August-2022,"In the recent Basel Accords, the Expected Shortfall (ES) replaces the
+Value-at-Risk (VaR) as the standard risk measure for market risk in the banking
+sector, making it the most important risk measure in financial regulation. One
+of the most challenging tasks in risk modeling practice is to backtest ES
+forecasts provided by financial institutions. To design a model-free
+backtesting procedure for ES, we make use of the recently developed techniques
+of e-values and e-processes. Model-free e-statistics are introduced to
+formulate e-processes for risk measure forecasts, and unique forms of
+model-free e-statistics for VaR and ES are characterized using recent results
+on identification functions. For a given model-free e-statistic, optimal ways
+of constructing the e-processes are studied. The proposed method can be
+naturally applied to many other risk measures and statistical quantities. We
+conduct extensive simulation studies and data analysis to illustrate the
+advantages of the model-free backtesting method, and compare it with the ones
+in the literature."
+6,Understanding Volatility Spillover Relationship Among G7 Nations And India During Covid-19,Econometrics,Avik Das; Dr. Devanjali Nandi Das,19-August-2022,"Purpose: In the context of a COVID pandemic in 2020-21, this paper attempts
+to capture the interconnectedness and volatility transmission dynamics. The
+nature of change in volatility spillover effects and time-varying conditional
+correlation among the G7 countries and India is investigated. Methodology: To
+assess the volatility spillover effects, the bivariate BEKK and t- DCC (1,1)
+GARCH (1,1) models have been used. Our research shows how the dynamics of
+volatility spillover between India and the G7 countries shift before and during
+COVID-19. Findings: The findings reveal that the extent of volatility spillover
+has altered during COVID compared to the pre-COVID environment. During this
+pandemic, a sharp increase in conditional correlation indicates an increase in
+systematic risk between countries. Originality: The study contributes to a
+better understanding of the dynamics of volatility spillover between G7
+countries and India. Asset managers and foreign corporations can use the
+changing spillover dynamics to improve investment decisions and implement
+effective hedging measures to protect their interests. Furthermore, this
+research will assist financial regulators in assessing market risk in the
+future owing to crises like as COVID-19."
+7,Do financial regulators act in the public's interest? A Bayesian latent class estimation framework for assessing regulatory responses to banking crises,Statistics Applications,Padma Sharma; Trambak Banerjee,08-August-2022,"When banks fail amidst financial crises, the public criticizes regulators for
+bailing out or liquidating specific banks, especially the ones that gain
+attention due to their size or dominance. A comprehensive assessment of
+regulators, however, requires examining all their decisions, and not just
+specific ones, against the regulator's dual objective of preserving financial
+stability while discouraging moral hazard. In this article, we develop a
+Bayesian latent class estimation framework to assess regulators on these
+competing objectives and evaluate their decisions against resolution rules
+recommended by theoretical studies of bank behavior designed to contain moral
+hazard incentives. The proposed estimation framework addresses the unobserved
+heterogeneity underlying regulator's decisions in resolving failed banks and
+provides a disciplined statistical approach for inferring if they acted in the
+public interest. Our results reveal that during the crises of 1980's, the U.S.
+banking regulator's resolution decisions were consistent with recommended
+decision rules, while the U.S. savings and loans (S&L) regulator, which
+ultimately faced insolvency in 1989 at a cost of $132 billion to the taxpayer,
+had deviated from such recommendations. Timely interventions based on this
+evaluation could have redressed the S&L regulator's decision structure and
+prevented losses to taxpayers."
+8,Exploring Financial Networks Using Quantile Regression and Granger Causality,Statistical Finance,Kara Karpman; Samriddha Lahiry; Diganta Mukherjee; Sumanta Basu,21-July-2022,"In the post-crisis era, financial regulators and policymakers are
+increasingly interested in data-driven tools to measure systemic risk and to
+identify systemically important firms. Granger Causality (GC) based techniques
+to build networks among financial firms using time series of their stock
+returns have received significant attention in recent years. Existing GC
+network methods model conditional means, and do not distinguish between
+connectivity in lower and upper tails of the return distribution - an aspect
+crucial for systemic risk analysis. We propose statistical methods that measure
+connectivity in the financial sector using system-wide tail-based analysis and
+is able to distinguish between connectivity in lower and upper tails of the
+return distribution. This is achieved using bivariate and multivariate GC
+analysis based on regular and Lasso penalized quantile regressions, an approach
+we call quantile Granger causality (QGC). By considering centrality measures of
+these financial networks, we can assess the build-up of systemic risk and
+identify risk propagation channels. We provide an asymptotic theory of QGC
+estimators under a quantile vector autoregressive model, and show its benefit
+over regular GC analysis on simulated data. We apply our method to the monthly
+stock returns of large U.S. firms and demonstrate that lower tail based
+networks can detect systemically risky periods in historical data with higher
+accuracy than mean-based networks. In a similar analysis of large Indian banks,
+we find that upper and lower tail networks convey different information and
+have the potential to distinguish between periods of high connectivity that are
+governed by positive vs negative news in the market."
+9,Discovering material information using hierarchical Reformer model on financial regulatory filings,Statistical Finance,Francois Mercier; Makesh Narsimhan,28-March-2022,"Most applications of machine learning for finance are related to forecasting
+tasks for investment decisions. Instead, we aim to promote a better
+understanding of financial markets with machine learning techniques. Leveraging
+the tremendous progress in deep learning models for natural language
+processing, we construct a hierarchical Reformer ([15]) model capable of
+processing a large document level dataset, SEDAR, from canadian financial
+regulatory filings. Using this model, we show that it is possible to predict
+trade volume changes using regulatory filings. We adapt the pretraining task of
+HiBERT ([36]) to obtain good sentence level representations using a large
+unlabelled document dataset. Finetuning the model to successfully predict trade
+volume changes indicates that the model captures a view from financial markets
+and processing regulatory filings is beneficial. Analyzing the attention
+patterns of our model reveals that it is able to detect some indications of
+material information without explicit training, which is highly relevant for
+investors and also for the market surveillance mandate of financial regulators."
+10,Tail Risk of Electricity Futures,Risk Management,Juan Ignacio Peña; Rosa Rodriguez; Silvia Mayoral,03-February-2022,"This paper compares the in-sample and out-of-sample performance of several
+models for computing the tail risk of one-month and one-year electricity
+futures contracts traded in the NordPool, French, German, and Spanish markets
+in 2008-2017. As measures of tail risk, we use the one-day-ahead Value-at-Risk
+(VaR) and the Expected Shortfall (ES). With VaR, the AR (1)-GARCH (1,1) model
+with Student-t distribution is the best-performing specification with 88% cases
+in which the Fisher test accepts the model, with a success rate of 94% in the
+left tail and of 81% in the right tail. The model passes the test of model
+adequacy in the 100% of the cases in the NordPool and German markets, but only
+in the 88% and 63% of the cases in the Spanish and French markets. With ES,
+this model passes the test of model adequacy in 100% of cases in all markets.
+Historical Simulation and Quantile Regression-based approaches misestimate tail
+risks. The right-hand tail of the returns is more difficult to model than the
+left-hand tail and therefore financial regulators and the administrators of
+futures markets should take these results into account when setting additional
+regulatory capital requirements and margin account regulations to short
+positions."
+11,Macroeconomic and financial management in an uncertain world: What can we learn from complexity science?,General Economics,Thitithep Sitthiyot,31-December-2021,"This paper discusses serious drawbacks of existing knowledge in
+macroeconomics and finance in explaining and predicting economic and financial
+phenomena. Complexity science is proposed as an alternative approach to be used
+in order to better understand how economy and financial market work. This paper
+argues that understanding characteristics of complex system could greatly
+benefit financial analysts, financial regulators, as well as macroeconomic
+policy makers."
+12,An AI-based Approach for Tracing Content Requirements in Financial Documents,Information Retrieval,Xiaochen Li; Domenico Bianculli; Lionel C. Briand,28-October-2021,"The completeness (in terms of content) of financial documents is a
+fundamental requirement for investment funds. To ensure completeness, financial
+regulators spend a huge amount of time for carefully checking every financial
+document based on the relevant content requirements, which prescribe the
+information types to be included in financial documents (e.g., the description
+of shares' issue conditions). Although several techniques have been proposed to
+automatically detect certain types of information in documents in various
+application domains, they provide limited support to help regulators
+automatically identify the text chunks related to financial information types,
+due to the complexity of financial documents and the diversity of the sentences
+characterizing an information type. In this paper, we propose FITI, an
+artificial intelligence (AI)-based method for tracing content requirements in
+financial documents. Given a new financial document, FITI selects a set of
+candidate sentences for efficient information type identification. Then, FITI
+uses a combination of rule-based and data-centric approaches, by leveraging
+information retrieval (IR) and machine learning (ML) techniques that analyze
+the words, sentences, and contexts related to an information type, to rank
+candidate sentences. Finally, using a list of indicator phrases related to each
+information type, a heuristic-based selector, which considers both the sentence
+ranking and the domain-specific phrases, determines a list of sentences
+corresponding to each information type. We evaluated FITI by assessing its
+effectiveness in tracing financial content requirements in 100 financial
+documents. Experimental results show that FITI provides accurate identification
+with average precision and recall values of 0.824 and 0.646, respectively.
+Furthermore, FITI can detect about 80% of missing information types in
+financial documents."
+13,Heterogenous criticality in high frequency finance: a phase transition in flash crashes,Trading and Market Microstructure,Jeremy Turiel; Tomaso Aste,26-October-2021,"Flash crashes in financial markets have become increasingly important
+attracting attention from financial regulators, market makers as well as from
+the media and the broader audience. Systemic risk and propagation of shocks in
+financial markets is also a topic of great relevance that attracted increasing
+attention in recent years. In the present work we bridge the gap between these
+two topics with an in-depth investigation of the systemic risk structure of
+co-crashes in high frequency trading. We find that large co-crashes are
+systemic in their nature and differ from small crashes. We demonstrate that
+there is a phase transition between co-crashes of small and large sizes, where
+the former involves mostly illiquid stocks while large and liquid stocks are
+the most represented and central in the latter. This suggests that systemic
+effects and shock propagation might be triggered by simultaneous withdrawals or
+movement of liquidity by HFTs, arbitrageurs and market makers with cross-asset
+exposures."
+14,Unpacking the Black Box: Regulating Algorithmic Decisions,General Economics,Laura Blattner; Scott Nelson; Jann Spiess,05-October-2021,"We show how to optimally regulate prediction algorithms in a world where an
+agent uses complex 'black-box' prediction functions to make decisions such as
+lending, medical testing, or hiring, and where a principal is limited in how
+much she can learn about the agent's black-box model. We show that limiting
+agents to prediction functions that are simple enough to be fully transparent
+is inefficient as long as the misalignment is limited and first-best prediction
+functions are sufficiently complex. Algorithmic audits can improve welfare, but
+the gains depend on the design of the audit tools. Tools that focus on
+minimizing overall information loss, the focus of many explainer tools, will
+generally be inefficient since they focus on explaining the average behavior of
+the prediction function. Targeted tools that focus on the source of incentive
+misalignment, e.g., excess false positives or racial disparities, can provide
+second-best solutions. We provide empirical support for our theoretical
+findings using an application in consumer lending, where we document that
+complex models regulated based on context-specific explanation tools outperform
+simple, fully transparent models. This gain from complex models represents a
+Pareto improvement across our empirical applications that are preferred both by
+the lender and from the perspective of the financial regulator."
+15,Issuing Green Bonds on the Algorand Blockchain,Cryptography and Security,Gidon Katten,23-August-2021,"Green bonds have been shown to be effective tool for sustainability however
+market growth is impeded by high issuance and transaction costs. The lack of
+appropriate standardisation and frameworks raise fear of greenwashing.
+  In this paper, we propose a platform for green bond issuance on the Algorand
+blockchain. It offers ""Green Bonds as a Service"", increasing accessibility
+through automation. The solution has minimal associated costs and supports
+fractional asset ownership, both of which will help adoption especially in
+developing countries. A financial regulator must preapprove an investor and can
+freeze assets in the case of financial irregularities. Green bonds can be
+bought directly from an issuer or in the secondary market. We also introduce a
+novel mechanism whereby an issuer can upload proof of impact reports. A green
+verifier uses these to submit a green rating; poor green ratings result in
+reputational damage and economic penalties."
+16,A Survey of Estimation Methods for Sparse High-dimensional Time Series Models,Statistics Methodology,Sumanta Basu; David S. Matteson,30-July-2021,"High-dimensional time series datasets are becoming increasingly common in
+many areas of biological and social sciences. Some important applications
+include gene regulatory network reconstruction using time course gene
+expression data, brain connectivity analysis from neuroimaging data, structural
+analysis of a large panel of macroeconomic indicators, and studying linkages
+among financial firms for more robust financial regulation. These applications
+have led to renewed interest in developing principled statistical methods and
+theory for estimating large time series models given only a relatively small
+number of temporally dependent samples. Sparse modeling approaches have gained
+popularity over the last two decades in statistics and machine learning for
+their interpretability and predictive accuracy. Although there is a rich
+literature on several sparsity inducing methods when samples are independent,
+research on the statistical properties of these methods for estimating time
+series models is still in progress.
+  We survey some recent advances in this area, focusing on empirically
+successful lasso based estimation methods for two canonical multivariate time
+series models - stochastic regression and vector autoregression. We discuss key
+technical challenges arising in high-dimensional time series analysis and
+outline several interesting research directions."
+17,Capital Requirements and Claims Recovery: A New Perspective on Solvency Regulation,Risk Management,Cosimo Munari; Lutz Wilhelmy; Stefan Weber,22-July-2021,"Protection of creditors is a key objective of financial regulation. Where the
+protection needs are high, i.e., in banking and insurance, regulatory solvency
+requirements are an instrument to prevent that creditors incur losses on their
+claims. The current regulatory requirements based on Value at Risk and Average
+Value at Risk limit the probability of default of financial institutions, but
+they fail to control the size of recovery on creditors' claims in the case of
+default. We resolve this failure by developing a novel risk measure, Recovery
+Value at Risk. Our conceptual approach can flexibly be extended and allows the
+construction of general recovery risk measures for various risk management
+purposes. By design, these risk measures control recovery on creditors' claims
+and integrate the protection needs of creditors into the incentive structure of
+the management. We provide detailed case studies and applications: We analyze
+how recovery risk measures react to the joint distributions of assets and
+liabilities on firms' balance sheets and compare the corresponding capital
+requirements with the current regulatory benchmarks based on Value at Risk and
+Average Value at Risk. We discuss how to calibrate recovery risk measures to
+historic regulatory standards. Finally, we show that recovery risk measures can
+be applied to performance-based management of business divisions of firms and
+that they allow for a tractable characterization of optimal tradeoffs between
+risk and return in the context of investment management."
+18,Regshock: Interactive Visual Analytics of Systemic Risk in Financial Networks,Human-Computer Interaction,Zhibin Niu; Junqi Wu; Dawei Cheng; Jiawan Zhang,24-April-2021,"Financial regulatory agencies are struggling to manage the systemic risks
+attributed to negative economic shocks. Preventive interventions are prominent
+to eliminate the risks and help to build a more resilient financial system.
+Although tremendous efforts have been made to measure multi-risk severity
+levels, understand the contagion behaviors and other risk management problems,
+there still lacks a theoretical framework revealing what and how regulatory
+intervention measurements can mitigate systemic risk. Here we demonstrate
+regshock, a practical visual analytical approach to support the exploration and
+evaluation of financial regulation measurements. We propose risk-island, an
+unprecedented risk-centered visualization algorithm to help uncover the risk
+patterns while preserving the topology of financial networks. We further
+propose regshock, a novel visual exploration and assessment approach based on
+the simulation-intervention-evaluation analysis loop, to provide a heuristic
+surgical intervention capability for systemic risk mitigation. We evaluate our
+approach through extensive case studies and expert reviews. To our knowledge,
+this is the first practical systemic method for the financial network
+intervention and risk mitigation problem; our validated approach potentially
+improves the risk management and control capabilities of financial experts."
+19,Next Generation Models for Portfolio Risk Management: An Approach Using Financial Big Data,Risk Management,Kwangmin Jung; Donggyu Kim; Seunghyeon Yu,25-February-2021,"This paper proposes a dynamic process of portfolio risk measurement to
+address potential information loss. The proposed model takes advantage of
+financial big data to incorporate out-of-target-portfolio information that may
+be missed when one considers the Value at Risk (VaR) measures only from certain
+assets of the portfolio. We investigate how the curse of dimensionality can be
+overcome in the use of financial big data and discuss where and when benefits
+occur from a large number of assets. In this regard, the proposed approach is
+the first to suggest the use of financial big data to improve the accuracy of
+risk analysis. We compare the proposed model with benchmark approaches and
+empirically show that the use of financial big data improves small portfolio
+risk analysis. Our findings are useful for portfolio managers and financial
+regulators, who may seek for an innovation to improve the accuracy of portfolio
+risk estimation."
+20,Lissy: Experimenting with on-chain order books,Cryptography and Security,Mahsa Moosavi; Jeremy Clark,15-January-2021,"Financial regulators have long-standing concerns about fully decentralized
+exchanges that run 'on-chain' without any obvious regulatory hooks. The
+popularity of Uniswap, an automated market makers (AMM), made these concerns a
+reality. AMMs implement a lightweight dealer-based trading system, but they are
+unlike anything on Wall Street, require fees intrinsically, and are susceptible
+to front-running attacks. This leaves the following research questions we
+address in this paper: (1) are conventional (i.e., order books), secure (i.e.,
+resistant to front-running and price manipulation) and fully decentralized
+exchanges feasible on a public blockchain like Ethereum, (2) what is the
+performance profile, and (3) how much do Layer 2 techniques (e.g., Arbitrum)
+increase performance? To answer these questions, we implement, benchmark, and
+experiment with an Ethereum-based call market exchange called Lissy. We confirm
+the functionality is too heavy for Ethereum today (you cannot expect to exceed
+a few hundred trade executions per block) but show it scales dramatically
+(99.88% gas cost reduction) on Arbitrum."
+21,Evaluating structural edge importance in temporal networks,"Computational Engineering, Finance, and Science",Isobel Seabrook; Paolo Barucca; Fabio Caccioli,23-December-2020,"To monitor risk in temporal financial networks, we need to understand how
+individual behaviours affect the global evolution of networks. Here we define a
+structural importance metric - which we denote as $l_e$ - for the edges of a
+network. The metric is based on perturbing the adjacency matrix and observing
+the resultant change in its largest eigenvalues. We then propose a model of
+network evolution where this metric controls the probabilities of subsequent
+edge changes. We show using synthetic data how the parameters of the model are
+related to the capability of predicting whether an edge will change from its
+value of $l_e$. We then estimate the model parameters associated with five real
+financial and social networks, and we study their predictability. These methods
+have application in financial regulation whereby it is important to understand
+how individual changes to financial networks will impact their global
+behaviour. It also provides fundamental insights into spectral predictability
+in networks, and it demonstrates how spectral perturbations can be a useful
+tool in understanding the interplay between micro and macro features of
+networks."
+22,Pattern recognition in micro-trading behaviors before stock price jumps: A framework based on multivariate time series analysis,Statistical Finance,Ao Kong; Robert Azencott; Hongliang Zhu; Xindan Li,10-November-2020,"Studying the micro-trading behaviors before stock price jumps is an important
+problem for financial regulations and investment decisions. In this study, we
+provide a new framework to study pre-jump trading behaviors based on
+multivariate time series analysis. Different from the existing literature, our
+methodology takes into account the temporal information embedded in the
+trading-related attributes and can better evaluate and compare the abnormality
+levels of different attributes. Moreover, it can explore the joint
+informativeness of the attributes as well as select a subset of highly
+informative but minimally redundant attributes to analyze the homogeneous and
+idiosyncratic patterns in the pre-jump trades of individual stocks. In
+addition, our analysis involves a set of technical indicators to describe
+micro-trading behaviors. To illustrate the viability of the proposed
+methodology, an application case is conducted based on the level-2 data of 189
+constituent stocks of the China Security Index 300. The individual and joint
+informativeness levels of the attributes in predicting price jumps are
+evaluated and compared. To this end, our experiment provides a set of jump
+indicators that can represent the pre-jump trading behaviors in the Chinese
+stock market and have detected some stocks with extremely abnormal pre-jump
+trades."
+23,Railgun: streaming windows for mission critical systems,"Distributed, Parallel, and Cluster Computing",João Oliveirinha; Ana Sofia Gomes; Pedro Cardoso; Pedro Bizarro,01-September-2020,"Some mission critical systems, such as fraud detection, require accurate,
+real-time metrics over long time windows on applications that demand high
+throughputs and low latencies. As these applications need to run ""forever"",
+cope with large and spiky data loads, they further require to be run in a
+distributed setting. Unsurprisingly, we are unaware of any distributed
+streaming system that provides all those properties. Instead, existing systems
+take large simplifications, such as implementing sliding windows as a fixed set
+of partially overlapping windows, jeopardizing metric accuracy (violating
+financial regulator rules) or latency (breaching service agreements).
+  In this paper, we propose Railgun, a fault-tolerant, elastic, and distributed
+streaming system supporting real-time sliding windows for scenarios requiring
+high loads and millisecond-level latencies. We benchmarked an initial prototype
+of Railgun using real data, showing significant lower latency than Flink, and
+low memory usage, independent of window size."
+24,regvis.net -- A Visual Bibliography of Regulatory Visualization,Computers and Society,Zhibin Niu; Runlin Li; Junqi Wu; Yaqi Xue; Jiawan Zhang,07-July-2020,"Information visualization and visual analytics technology has attracted
+significant attention from the financial regulation community. In this
+research, we present regvis.net, a visual survey of regulatory visualization
+that allows researchers from both the computing and financial communities to
+review their literature of interest. We have collected and manually tagged more
+than 80 regulation visualization related publications. To the best of our
+knowledge, this is the first publication set tailored for regulatory
+visualization. We have provided a webpage (http://regvis.net) for interactive
+searches and filtering. Each publication is represented by a thumbnail of the
+representative system interface or key visualization chart, and users can
+conduct multi-condition screening explorations and fixed text searches."
+25,Learning a functional control for high-frequency finance,Optimization and Control,Laura Leal; Mathieu Laurière; Charles-Albert Lehalle,17-June-2020,"We use a deep neural network to generate controllers for optimal trading on
+high frequency data. For the first time, a neural network learns the mapping
+between the preferences of the trader, i.e. risk aversion parameters, and the
+optimal controls. An important challenge in learning this mapping is that in
+intraday trading, trader's actions influence price dynamics in closed loop via
+the market impact. The exploration--exploitation tradeoff generated by the
+efficient execution is addressed by tuning the trader's preferences to ensure
+long enough trajectories are produced during the learning phase. The issue of
+scarcity of financial data is solved by transfer learning: the neural network
+is first trained on trajectories generated thanks to a Monte-Carlo scheme,
+leading to a good initialization before training on historical trajectories.
+Moreover, to answer to genuine requests of financial regulators on the
+explainability of machine learning generated controls, we project the obtained
+""blackbox controls"" on the space usually spanned by the closed-form solution of
+the stylized optimal trading problem, leading to a transparent structure. For
+more realistic loss functions that have no closed-form solution, we show that
+the average distance between the generated controls and their explainable
+version remains small. This opens the door to the acceptance of ML-generated
+controls by financial regulators."
+26,Interpretable Multimodal Learning for Intelligent Regulation in Online Payment Systems,Systems and Control,Shuoyao Wang; Diwei Zhu,10-June-2020,"With the explosive growth of transaction activities in online payment
+systems, effective and realtime regulation becomes a critical problem for
+payment service providers. Thanks to the rapid development of artificial
+intelligence (AI), AI-enable regulation emerges as a promising solution. One
+main challenge of the AI-enabled regulation is how to utilize multimedia
+information, i.e., multimodal signals, in Financial Technology (FinTech).
+Inspired by the attention mechanism in nature language processing, we propose a
+novel cross-modal and intra-modal attention network (CIAN) to investigate the
+relation between the text and transaction. More specifically, we integrate the
+text and transaction information to enhance the text-trade jointembedding
+learning, which clusters positive pairs and push negative pairs away from each
+other. Another challenge of intelligent regulation is the interpretability of
+complicated machine learning models. To sustain the requirements of financial
+regulation, we design a CIAN-Explainer to interpret how the attention mechanism
+interacts the original features, which is formulated as a low-rank matrix
+approximation problem. With the real datasets from the largest online payment
+system, WeChat Pay of Tencent, we conduct experiments to validate the practical
+application value of CIAN, where our method outperforms the state-of-the-art
+methods."
+27,Know Your Clients' behaviours: a cluster analysis of financial transactions,Econometrics,John R. J. Thompson; Longlong Feng; R. Mark Reesor; Chuck Grace,07-May-2020,"In Canada, financial advisors and dealers are required by provincial
+securities commissions and self-regulatory organizations--charged with direct
+regulation over investment dealers and mutual fund dealers--to respectively
+collect and maintain Know Your Client (KYC) information, such as their age or
+risk tolerance, for investor accounts. With this information, investors, under
+their advisor's guidance, make decisions on their investments which are
+presumed to be beneficial to their investment goals. Our unique dataset is
+provided by a financial investment dealer with over 50,000 accounts for over
+23,000 clients. We use a modified behavioural finance recency, frequency,
+monetary model for engineering features that quantify investor behaviours, and
+machine learning clustering algorithms to find groups of investors that behave
+similarly. We show that the KYC information collected does not explain client
+behaviours, whereas trade and transaction frequency and volume are most
+informative. We believe the results shown herein encourage financial regulators
+and advisors to use more advanced metrics to better understand and predict
+investor behaviours."
+28,XtracTree: a Simple and Effective Method for Regulator Validation of Bagging Methods Used in Retail Banking,Machine Learning,Jeremy Charlier; Vladimir Makarenkov,05-April-2020,"Bootstrap aggregation, known as bagging, is one of the most popular ensemble
+methods used in machine learning (ML). An ensemble method is a ML method that
+combines multiple hypotheses to form a single hypothesis used for prediction. A
+bagging algorithm combines multiple classifiers modeled on different
+sub-samples of the same data set to build one large classifier. Banks, and
+their retail banking activities, are nowadays using the power of ML algorithms,
+including decision trees and random forests, to optimize their processes.
+However, banks have to comply with regulators and governance and, hence,
+delivering effective ML solutions is a challenging task. It starts with the
+bank's validation and governance department, followed by the deployment of the
+solution in a production environment up to the external validation of the
+national financial regulator. Each proposed ML model has to be validated and
+clear rules for every algorithm-based decision must be justified. In this
+context, we propose XtracTree, an algorithm capable of efficiently converting
+an ML bagging classifier, such as a random forest, into simple ""if-then"" rules
+satisfying the requirements of model validation. We use a public loan data set
+from Kaggle to illustrate the usefulness of our approach. Our experiments
+demonstrate that using XtracTree, one can convert an ML model into a rule-based
+algorithm, leading to easier model validation by national financial regulators
+and the bank's validation department. The proposed approach allowed our banking
+institution to reduce up to 50% the time of delivery of our AI solutions to the
+end-user."
+29,Default Ambiguity: Finding the Best Solution to the Clearing Problem,"Computational Engineering, Finance, and Science",Pál András Papp; Roger Wattenhofer,18-February-2020,"We study financial networks with debt contracts and credit default swaps
+between specific pairs of banks. Given such a financial system, we want to
+decide which of the banks are in default, and how much of their liabilities can
+these defaulting banks pay. There can easily be multiple different solutions to
+this problem, leading to a situation of default ambiguity, and a range of
+possible solutions to implement for a financial authority.
+  In this paper, we study the properties of the solution space of such
+financial systems, and analyze a wide range of reasonable objective functions
+for selecting from the set of solutions. Examples of such objective functions
+include minimizing the number of defaulting banks, minimizing the amount of
+unpaid debt, maximizing the number of satisfied banks, and many others. We show
+that for all of these objectives, it is NP-hard to approximate the optimal
+solution to an $n^{1-\epsilon}$ factor for any $\epsilon>0$, with $n$ denoting
+the number of banks. Furthermore, we show that this situation is rather
+difficult to avoid from a financial regulator's perspective: the same hardness
+results also hold if we apply strong restrictions on the weights of the debts,
+the structure of the network, or the amount of funds that banks must possess.
+However, if we restrict both the network structure and the amount of funds
+simultaneously, then the solution becomes unique, and it can be found
+efficiently."

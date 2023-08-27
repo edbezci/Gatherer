@@ -1,0 +1,747 @@
+,title,category,authors,date,summary
+0,AI For Fraud Awareness,Artificial Intelligence,Prabh Simran Singh Baweja; Orathai Sangpetch; Akkarit Sangpetch,16-August-2023,"In today's world, with the rise of numerous social platforms, it has become
+relatively easy for anyone to spread false information and lure people into
+traps. Fraudulent schemes and traps are growing rapidly in the investment
+world. Due to this, countries and individuals face huge financial risks. We
+present an awareness system with the use of machine learning and gamification
+techniques to educate the people about investment scams and traps. Our system
+applies machine learning techniques to provide a personalized learning
+experience to the user. The system chooses distinct game-design elements and
+scams from the knowledge pool crafted by domain experts for each individual.
+The objective of the research project is to reduce inequalities in all
+countries by educating investors via Active Learning. Our goal is to assist the
+regulators in assuring a conducive environment for a fair, efficient, and
+inclusive capital market. In the paper, we discuss the impact of the problem,
+provide implementation details, and showcase the potentiality of the system
+through preliminary experiments and results."
+1,Nested Multilevel Monte Carlo with Biased and Antithetic Sampling,Computational Finance,Abdul-Lateef Haji-Ali; Jonathan Spence,15-August-2023,"We consider the problem of estimating a nested structure of two expectations
+taking the form $U_0 = E[\max\{U_1(Y), \pi(Y)\}]$, where $U_1(Y) = E[X\ |\ Y]$.
+Terms of this form arise in financial risk estimation and option pricing. When
+$U_1(Y)$ requires approximation, but exact samples of $X$ and $Y$ are
+available, an antithetic multilevel Monte Carlo (MLMC) approach has been
+well-studied in the literature. Under general conditions, the antithetic MLMC
+estimator obtains a root mean squared error $\varepsilon$ with order
+$\varepsilon^{-2}$ cost. If, additionally, $X$ and $Y$ require approximate
+sampling, careful balancing of the various aspects of approximation is required
+to avoid a significant computational burden. Under strong convergence criteria
+on approximations to $X$ and $Y$, randomised multilevel Monte Carlo techniques
+can be used to construct unbiased Monte Carlo estimates of $U_1$, which can be
+paired with an antithetic MLMC estimate of $U_0$ to recover order
+$\varepsilon^{-2}$ computational cost. In this work, we instead consider biased
+multilevel approximations of $U_1(Y)$, which require less strict assumptions on
+the approximate samples of $X$. Extensions to the method consider an
+approximate and antithetic sampling of $Y$. Analysis shows the resulting
+estimator has order $\varepsilon^{-2}$ asymptotic cost under the conditions
+required by randomised MLMC and order $\varepsilon^{-2}|\log\varepsilon|^3$
+cost under more general assumptions."
+2,Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators,Computer Science and Game Theory,Alpesh Bhudia; Anna Cartwright; Edward Cartwright; Darren Hurley-Smith; Julio Hernandez-Castro,01-August-2023,"Consensus algorithms facilitate agreement on and resolution of blockchain
+functions, such as smart contracts and transactions. Ethereum uses a
+Proof-of-Stake (PoS) consensus mechanism, which depends on financial incentives
+to ensure that validators perform certain duties and do not act maliciously.
+Should a validator attempt to defraud the system, legitimate validators will
+identify this and then staked cryptocurrency is `burned' through a process of
+slashing.
+  In this paper, we show that an attacker who has compromised a set of
+validators could threaten to perform malicious actions that would result in
+slashing and thus, hold those validators to ransom. We use game theory to study
+how an attacker can coerce payment from a victim, for example by deploying a
+smart contract to provide a root of trust shared between attacker and victim
+during the extortion process. Our game theoretic model finds that it is in the
+interests of the validators to fully pay the ransom due to a lack of systemic
+protections for validators. Financial risk is solely placed on the victim
+during such an attack, with no mitigations available to them aside from
+capitulation (payment of ransom) in many scenarios. Such attacks could be
+disruptive to Ethereum and, likely, to many other PoS networks, if public trust
+in the validator system is eroded. We also discuss and evaluate potential
+mitigation measures arising from our analysis of the game theoretic model."
+3,Causal Inference for Banking Finance and Insurance A Survey,Artificial Intelligence,Satyam Kumar; Yelleti Vivek; Vadlamani Ravi; Indranil Bose,31-July-2023,"Causal Inference plays an significant role in explaining the decisions taken
+by statistical models and artificial intelligence models. Of late, this field
+started attracting the attention of researchers and practitioners alike. This
+paper presents a comprehensive survey of 37 papers published during 1992-2023
+and concerning the application of causal inference to banking, finance, and
+insurance. The papers are categorized according to the following families of
+domains: (i) Banking, (ii) Finance and its subdomains such as corporate
+finance, governance finance including financial risk and financial policy,
+financial economics, and Behavioral finance, and (iii) Insurance. Further, the
+paper covers the primary ingredients of causal inference namely, statistical
+methods such as Bayesian Causal Network, Granger Causality and jargon used
+thereof such as counterfactuals. The review also recommends some important
+directions for future research. In conclusion, we observed that the application
+of causal inference in the banking and insurance sectors is still in its
+infancy, and thus more research is possible to turn it into a viable method."
+4,BOURNE: Bootstrapped Self-supervised Learning Framework for Unified Graph Anomaly Detection,Social and Information Networks,Jie Liu; Mengting He; Xuequn Shang; Jieming Shi; Bin Cui; Hongzhi Yin,28-July-2023,"Graph anomaly detection (GAD) has gained increasing attention in recent years
+due to its critical application in a wide range of domains, such as social
+networks, financial risk management, and traffic analysis. Existing GAD methods
+can be categorized into node and edge anomaly detection models based on the
+type of graph objects being detected. However, these methods typically treat
+node and edge anomalies as separate tasks, overlooking their associations and
+frequent co-occurrences in real-world graphs. As a result, they fail to
+leverage the complementary information provided by node and edge anomalies for
+mutual detection. Additionally, state-of-the-art GAD methods, such as CoLA and
+SL-GAD, heavily rely on negative pair sampling in contrastive learning, which
+incurs high computational costs, hindering their scalability to large graphs.
+To address these limitations, we propose a novel unified graph anomaly
+detection framework based on bootstrapped self-supervised learning (named
+BOURNE). We extract a subgraph (graph view) centered on each target node as
+node context and transform it into a dual hypergraph (hypergraph view) as edge
+context. These views are encoded using graph and hypergraph neural networks to
+capture the representations of nodes, edges, and their associated contexts. By
+swapping the context embeddings between nodes and edges and measuring the
+agreement in the embedding space, we enable the mutual detection of node and
+edge anomalies. Furthermore, we adopt a bootstrapped training strategy that
+eliminates the need for negative sampling, enabling BOURNE to handle large
+graphs efficiently. Extensive experiments conducted on six benchmark datasets
+demonstrate the superior effectiveness and efficiency of BOURNE in detecting
+both node and edge anomalies."
+5,Economic Analysis of Smart Roadside Infrastructure Sensors for Connected and Automated Mobility,General Economics,Laurent Kloeker; Gregor Joeken; Lutz Eckstein,24-July-2023,"Smart roadside infrastructure sensors in the form of intelligent
+transportation system stations (ITS-Ss) are increasingly deployed worldwide at
+relevant traffic nodes. The resulting digital twins of the real environment are
+suitable for developing and validating connected and automated driving
+functions and for increasing the operational safety of intelligent vehicles by
+providing ITS-S real-time data. However, ITS-Ss are very costly to establish
+and operate. The choice of sensor technology also has an impact on the overall
+costs as well as on the data quality. So far, there is only insufficient
+knowledge about the concrete expenses that arise with the construction of
+different ITS-S setups. Within this work, multiple modular infrastructure
+sensor setups are investigated with the help of a life cycle cost analysis
+(LCCA). Their economic efficiency, different user requirements and sensor data
+qualities are considered. Based on the static cost model, a Monte Carlo
+simulation is performed, to generate a range of possible project costs and to
+quantify the financial risks of implementing ITS-S projects of different
+scales. Due to its modularity, the calculation model is suitable for diverse
+applications and outputs a distinctive evaluation of the underlying
+cost-benefit ratio of investigated setups."
+6,FinPT: Financial Risk Prediction with Profile Tuning on Pretrained Foundation Models,Risk Management,Yuwei Yin; Yazheng Yang; Jian Yang; Qi Liu,22-July-2023,"Financial risk prediction plays a crucial role in the financial sector.
+Machine learning methods have been widely applied for automatically detecting
+potential risks and thus saving the cost of labor. However, the development in
+this field is lagging behind in recent years by the following two facts: 1) the
+algorithms used are somewhat outdated, especially in the context of the fast
+advance of generative AI and large language models (LLMs); 2) the lack of a
+unified and open-sourced financial benchmark has impeded the related research
+for years. To tackle these issues, we propose FinPT and FinBench: the former is
+a novel approach for financial risk prediction that conduct Profile Tuning on
+large pretrained foundation models, and the latter is a set of high-quality
+datasets on financial risks such as default, fraud, and churn. In FinPT, we
+fill the financial tabular data into the pre-defined instruction template,
+obtain natural-language customer profiles by prompting LLMs, and fine-tune
+large foundation models with the profile text to make predictions. We
+demonstrate the effectiveness of the proposed FinPT by experimenting with a
+range of representative strong baselines on FinBench. The analytical studies
+further deepen the understanding of LLMs for financial risk prediction."
+7,OptIForest: Optimal Isolation Forest for Anomaly Detection,Machine Learning,Haolong Xiang; Xuyun Zhang; Hongsheng Hu; Lianyong Qi; Wanchun Dou; Mark Dras; Amin Beheshti; Xiaolong Xu,22-June-2023,"Anomaly detection plays an increasingly important role in various fields for
+critical tasks such as intrusion detection in cybersecurity, financial risk
+detection, and human health monitoring. A variety of anomaly detection methods
+have been proposed, and a category based on the isolation forest mechanism
+stands out due to its simplicity, effectiveness, and efficiency, e.g., iForest
+is often employed as a state-of-the-art detector for real deployment. While the
+majority of isolation forests use the binary structure, a framework LSHiForest
+has demonstrated that the multi-fork isolation tree structure can lead to
+better detection performance. However, there is no theoretical work answering
+the fundamentally and practically important question on the optimal tree
+structure for an isolation forest with respect to the branching factor. In this
+paper, we establish a theory on isolation efficiency to answer the question and
+determine the optimal branching factor for an isolation tree. Based on the
+theoretical underpinning, we design a practical optimal isolation forest
+OptIForest incorporating clustering based learning to hash which enables more
+information to be learned from data for better isolation quality. The rationale
+of our approach relies on a better bias-variance trade-off achieved by bias
+reduction in OptIForest. Extensive experiments on a series of benchmarking
+datasets for comparative and ablation studies demonstrate that our approach can
+efficiently and robustly achieve better detection performance in general than
+the state-of-the-arts including the deep learning based methods."
+8,Factors Affecting the Performance of Automated Speaker Verification in Alzheimer's Disease Clinical Trials,Audio and Speech Processing,Malikeh Ehghaghi; Marija Stanojevic; Ali Akram; Jekaterina Novikova,20-June-2023,"Detecting duplicate patient participation in clinical trials is a major
+challenge because repeated patients can undermine the credibility and accuracy
+of the trial's findings and result in significant health and financial risks.
+Developing accurate automated speaker verification (ASV) models is crucial to
+verify the identity of enrolled individuals and remove duplicates, but the size
+and quality of data influence ASV performance. However, there has been limited
+investigation into the factors that can affect ASV capabilities in clinical
+environments. In this paper, we bridge the gap by conducting analysis of how
+participant demographic characteristics, audio quality criteria, and severity
+level of Alzheimer's disease (AD) impact the performance of ASV utilizing a
+dataset of speech recordings from 659 participants with varying levels of AD,
+obtained through multiple speech tasks. Our results indicate that ASV
+performance: 1) is slightly better on male speakers than on female speakers; 2)
+degrades for individuals who are above 70 years old; 3) is comparatively better
+for non-native English speakers than for native English speakers; 4) is
+negatively affected by clinician interference, noisy background, and unclear
+participant speech; 5) tends to decrease with an increase in the severity level
+of AD. Our study finds that voice biometrics raise fairness concerns as certain
+subgroups exhibit different ASV performances owing to their inherent voice
+characteristics. Moreover, the performance of ASV is influenced by the quality
+of speech recordings, which underscores the importance of improving the data
+collection settings in clinical trials."
+9,CroCoDai: A Stablecoin for Cross-Chain Commerce,Cryptography and Security,Daniël Reijsbergen; Bretislav Hajek; Tien Tuan Anh Dinh; Jussi Keppo; Hank Korth; Anwitaman Datta,16-June-2023,"Decentralized Finance (DeFi), in which digital assets are exchanged without
+trusted intermediaries, has grown rapidly in value in recent years. The global
+DeFi ecosystem is fragmented into multiple blockchains, fueling the demand for
+cross-chain commerce. Existing approaches for cross-chain transactions, e.g.,
+bridges and cross-chain deals, achieve atomicity by locking assets in escrow.
+However, locking up assets increases the financial risks for the participants,
+especially due to price fluctuations and the long latency of cross-chain
+transactions. Stablecoins, which are pegged to a non-volatile asset such as the
+US dollar, help mitigate the risk associated with price fluctuations. However,
+existing stablecoin designs are tied to individual blockchain platforms, and
+trusted parties or complex protocols are needed to exchange stablecoin tokens
+between blockchains.
+  Our goal is to design a practical stablecoin for cross-chain commerce.
+Realizing this goal requires addressing two challenges. The first challenge is
+to support a large and growing number of blockchains efficiently. The second
+challenge is to be resilient to price fluctuations and blockchain platform
+failures. We present CroCoDai to address these challenges. We also present
+three prototype implementations of our stablecoin system, and show that it
+incurs small execution overhead."
+10,How Should We Support Designing Privacy-Friendly Apps for Children? Using a Research through Design Process to Understand Developers' Needs and Challenges,Human-Computer Interaction,Anirudh Ekambaranathan; Jun Zhao; Max Van Kleek,01-June-2023,"Mobile apps used by children often make use of harmful techniques, such as
+data tracking and targeted advertising. Previous research has suggested that
+developers face several systemic challenges in designing apps that prioritise
+children's best interests. To understand how developers can be better
+supported, we used a Research through Design (RtD) method to explore what the
+future of privacy-friendly app development could look like. We performed an
+elicitation study with 20 children's app developers to understand their needs
+and requirements. We found a number of specific technical requirements from the
+participants about how they would like to be supported, such as having
+actionable transnational design guidelines and easy-to-use development
+libraries. However, participants were reluctant to adopt these design ideas in
+their development practices due to perceived financial risks associated with
+increased privacy in apps. To overcome this critical gap, participants
+formulated socio-technical requirements that extend to other stakeholders in
+the mobile industry, including parents and marketplaces. Our findings provide
+important immediate and long-term design opportunities for the HCI community,
+and indicate that support for changing app developers' practices must be
+designed in the context of their relationship with other stakeholders."
+11,JutePestDetect: An Intelligent Approach for Jute Pest Identification Using Fine-Tuned Transfer Learning,Computer Vision and Pattern Recognition,Md. Simul Hasan Talukder; Mohammad Raziuddin Chowdhury; Md Sakib Ullah Sourav; Abdullah Al Rakin; Shabbir Ahmed Shuvo; Rejwan Bin Sulaiman; Musarrat Saberin Nipun; Muntarin Islam; Mst Rumpa Islam; Md Aminul Islam; Zubaer Haque,28-May-2023,"In certain Asian countries, Jute is one of the primary sources of income and
+Gross Domestic Product (GDP) for the agricultural sector. Like many other
+crops, Jute is prone to pest infestations, and its identification is typically
+made visually in countries like Bangladesh, India, Myanmar, and China. In
+addition, this method is time-consuming, challenging, and somewhat imprecise,
+which poses a substantial financial risk. To address this issue, the study
+proposes a high-performing and resilient transfer learning (TL) based
+JutePestDetect model to identify jute pests at the early stage. Firstly, we
+prepared jute pest dataset containing 17 classes and around 380 photos per pest
+class, which were evaluated after manual and automatic pre-processing and
+cleaning, such as background removal and resizing. Subsequently, five prominent
+pre-trained models -DenseNet201, InceptionV3, MobileNetV2, VGG19, and ResNet50
+were selected from a previous study to design the JutePestDetect model. Each
+model was revised by replacing the classification layer with a global average
+pooling layer and incorporating a dropout layer for regularization. To evaluate
+the models performance, various metrics such as precision, recall, F1 score,
+ROC curve, and confusion matrix were employed. These analyses provided
+additional insights for determining the efficacy of the models. Among them, the
+customized regularized DenseNet201-based proposed JutePestDetect model
+outperformed the others, achieving an impressive accuracy of 99%. As a result,
+our proposed method and strategy offer an enhanced approach to pest
+identification in the case of Jute, which can significantly benefit farmers
+worldwide."
+12,Privacy-preserving Blockchain-enabled Parametric Insurance via Remote Sensing and IoT,Cryptography and Security,Mingyu Hao; Keyang Qian; Sid Chi-Kin Chau,15-May-2023,"Traditional Insurance, a popular approach of financial risk management, has
+suffered from the issues of high operational costs, opaqueness, inefficiency
+and a lack of trust. Recently, blockchain-enabled ""parametric insurance""
+through authorized data sources (e.g., remote sensing and IoT) aims to overcome
+these issues by automating the underwriting and claim processes of insurance
+policies on a blockchain. However, the openness of blockchain platforms raises
+a concern of user privacy, as the private user data in insurance claims on a
+blockchain may be exposed to outsiders. In this paper, we propose a
+privacy-preserving parametric insurance framework based on succinct
+zero-knowledge proofs (zk-SNARKs), whereby an insuree submits a zero-knowledge
+proof (without revealing any private data) for the validity of an insurance
+claim and the authenticity of its data sources to a blockchain for transparent
+verification. Moreover, we extend the recent zk-SNARKs to support robust
+privacy protection for multiple heterogeneous data sources and improve its
+efficiency to cut the incurred gas cost by 80%. As a proof-of-concept, we
+implemented a working prototype of bushfire parametric insurance on real-world
+blockchain platform Ethereum, and present extensive empirical evaluations."
+13,Study on the Identification of Financial Risk Path Under the Digital Transformation of Enterprise Based on DEMATEL-ISM-MICMAC,Statistical Finance,Jie Dong,07-May-2023,"Digital transformation challenges financial management while reducing costs
+and increasing efficiency for enterprises in various countries. Identifying the
+transmission paths of enterprise financial risks in the context of digital
+transformation is an urgent problem to be solved. This paper constructs a
+system of influencing factors of corporate financial risks in the new era
+through literature research. It proposes a path identification method of
+financial risks in the context of the digital transformation of enterprises
+based on DEMATEL-ISM-MICMAC. This paper explores the intrinsic association
+among the influencing factors of corporate financial risks, identifies the key
+influencing factors, sorts out the hierarchical structure of the influencing
+factor system, and analyses the dependency and driving relationships among the
+factors in this system. The results show that: (1) The political and economic
+environment being not optimistic will limit the enterprise's operating ability,
+thus directly leading to the change of the enterprise's asset and liability
+structure and working capital stock. (2) The enterprise's unreasonable talent
+training and incentive mechanism will limit the enterprise's technological
+innovation ability and cause a shortage of digitally literate financial
+talents, which eventually leads to the vulnerability of the enterprise's
+financial management. This study provides a theoretical reference for
+enterprises to develop risk management strategies and ideas for future academic
+research in digital finance."
+14,Study on the risk-informed heuristic of decision-making on the restoration of defaulted corporation networks,Theoretical Economics,Jiajia Xia,28-March-2023,"Government-run (Government-led) restoration has become a common and effective
+approach to the mitigation of financial risks triggered by corporation credit
+defaults. However, in practice, it is often challenging to come up with the
+optimal plan of those restorations, due to the massive search space associated
+with defaulted corporation networks (DCNs), as well as the dynamic and looped
+interdependence among the recovery of those individual corporations. To address
+such a challenge, this paper proposes an array of viable heuristics of the
+decision-making that drives those restoration campaigns. To examine their
+applicability and measure their performance, those heuristics have been applied
+to two real-work DCNs that consists of 100 listed Chinese A-share companies,
+whose restoration has been modelled based on the 2021 financial data, in the
+wake of randomly generated default scenarios. The corresponding simulation
+outcome of the case-study shows that the restoration of the DCNs would be
+significantly influenced by the different heuristics adopted, and in
+particular, the system-oriented heuristic is revealed to be significantly
+outperforming those individual corporation-oriented ones. Therefore, such a
+research has further highlighted that the interdependence-induced risk
+propagation shall be accounted for by the decision-makers, whereby a prompt and
+effective restoration campaign of DCNs could be shaped."
+15,Fine-tuning ClimateBert transformer with ClimaText for the disclosure analysis of climate-related financial risks,Computation and Language,Eduardo C. Garrido-Merchán; Cristina González-Barthe; María Coronado Vaca,21-March-2023,"In recent years there has been a growing demand from financial agents,
+especially from particular and institutional investors, for companies to report
+on climate-related financial risks. A vast amount of information, in text
+format, can be expected to be disclosed in the short term by firms in order to
+identify these types of risks in their financial and non financial reports,
+particularly in response to the growing regulation that is being passed on the
+matter. To this end, this paper applies state-of-the-art NLP techniques to
+achieve the detection of climate change in text corpora. We use transfer
+learning to fine-tune two transformer models, BERT and ClimateBert -a recently
+published DistillRoBERTa-based model that has been specifically tailored for
+climate text classification-. These two algorithms are based on the transformer
+architecture which enables learning the contextual relationships between words
+in a text. We carry out the fine-tuning process of both models on the novel
+Clima-Text database, consisting of data collected from Wikipedia, 10K Files
+Reports and web-based claims. Our text classification model obtained from the
+ClimateBert fine-tuning process on ClimaText, outperforms the models created
+with BERT and the current state-of-the-art transformer in this particular
+problem. Our study is the first one to implement on the ClimaText database the
+recently published ClimateBert algorithm. Based on our results, it can be said
+that ClimateBert fine-tuned on ClimaText is an outstanding tool within the NLP
+pre-trained transformer models that may and should be used by investors,
+institutional agents and companies themselves to monitor the disclosure of
+climate risk in financial reports. In addition, our transfer learning
+methodology is cheap in computational terms, thus allowing any organization to
+perform it."
+16,"Quantum Monte Carlo simulations for financial risk analytics: scenario generation for equity, rate, and credit risk factors",Quantum Physics,Titos Matsakos; Stuart Nield,16-March-2023,"Monte Carlo (MC) simulations are widely used in financial risk management,
+from estimating value-at-risk (VaR) to pricing over-the-counter derivatives.
+However, they come at a significant computational cost due to the number of
+scenarios required for convergence. Quantum MC (QMC) algorithms are a promising
+alternative: they provide a quadratic speed-up as compared to their classical
+counterparts. Recent studies have explored the calculation of common risk
+measures and the optimisation of QMC algorithms by initialising the input
+quantum states with pre-computed probability distributions. In this paper, we
+focus on incorporating scenario generation into the quantum computation by
+simulating the evolution of risk factors over time. Specifically, we assemble
+quantum circuits that implement stochastic models for equity (geometric
+Brownian motion), interest rate (mean-reversion models), and credit (structural
+and reduced-form credit models) risk factors. We then feed these scenarios to
+QMC simulations to provide end-to-end examples for both market and credit risk
+use cases."
+17,DEDGAT: Dual Embedding of Directed Graph Attention Networks for Detecting Financial Risk,Machine Learning,Jiafu Wu; Mufeng Yao; Dong Wu; Mingmin Chi; Baokun Wang; Ruofan Wu; Xin Fu; Changhua Meng; Weiqiang Wang,06-March-2023,"Graph representation plays an important role in the field of financial risk
+control, where the relationship among users can be constructed in a graph
+manner. In practical scenarios, the relationships between nodes in risk control
+tasks are bidirectional, e.g., merchants having both revenue and expense
+behaviors. Graph neural networks designed for undirected graphs usually
+aggregate discriminative node or edge representations with an attention
+strategy, but cannot fully exploit the out-degree information when used for the
+tasks built on directed graph, which leads to the problem of a directional
+bias. To tackle this problem, we propose a Directed Graph ATtention network
+called DGAT, which explicitly takes out-degree into attention calculation. In
+addition to having directional requirements, the same node might have different
+representations of its input and output, and thus we further propose a dual
+embedding of DGAT, referred to as DEDGAT. Specifically, DEDGAT assigns
+in-degree and out-degree representations to each node and uses these two
+embeddings to calculate the attention weights of in-degree and out-degree
+nodes, respectively. Experiments performed on the benchmark datasets show that
+DGAT and DEDGAT obtain better classification performance compared to undirected
+GAT. Also,the visualization results demonstrate that our methods can fully use
+both in-degree and out-degree information."
+18,Optimal probabilistic forecasts for risk management,Statistical Finance,Yuru Sun; Worapree Maneesoonthorn; Ruben Loaiza-Maya; Gael M. Martin,03-March-2023,"This paper explores the implications of producing forecast distributions that
+are optimized according to scoring rules that are relevant to financial risk
+management. We assess the predictive performance of optimal forecasts from
+potentially misspecified models for i) value-at-risk and expected shortfall
+predictions; and ii) prediction of the VIX volatility index for use in hedging
+strategies involving VIX futures. Our empirical results show that calibrating
+the predictive distribution using a score that rewards the accurate prediction
+of extreme returns improves the VaR and ES predictions. Tail-focused predictive
+distributions are also shown to yield better outcomes in hedging strategies
+using VIX futures."
+19,GRANDE: a neural model over directed multigraphs with application to anti-money laundering,Machine Learning,Ruofan Wu; Boqun Ma; Hong Jin; Wenlong Zhao; Weiqiang Wang; Tianyi Zhang,04-February-2023,"The application of graph representation learning techniques to the area of
+financial risk management (FRM) has attracted significant attention recently.
+However, directly modeling transaction networks using graph neural models
+remains challenging: Firstly, transaction networks are directed multigraphs by
+nature, which could not be properly handled with most of the current
+off-the-shelf graph neural networks (GNN). Secondly, a crucial problem in FRM
+scenarios like anti-money laundering (AML) is to identify risky transactions
+and is most naturally cast into an edge classification problem with rich
+edge-level features, which are not fully exploited by the prevailing GNN design
+that follows node-centric message passing protocols. In this paper, we present
+a systematic investigation of design aspects of neural models over directed
+multigraphs and develop a novel GNN protocol that overcomes the above
+challenges via efficiently incorporating directional information, as well as
+proposing an enhancement that targets edge-related tasks using a novel message
+passing scheme over an extension of edge-to-node dual graph. A concrete GNN
+architecture called GRANDE is derived using the proposed protocol, with several
+further improvements and generalizations to temporal dynamic graphs. We apply
+the GRANDE model to both a real-world anti-money laundering task and public
+datasets. Experimental evaluations show the superiority of the proposed GRANDE
+architecture over recent state-of-the-art models on dynamic graph modeling and
+directed graph modeling."
+20,Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network,Machine Learning,Wendong Bi; Bingbing Xu; Xiaoqian Sun; Li Xu; Huawei Shen; Xueqi Cheng,02-February-2023,"Graphs consisting of vocal nodes (""the vocal minority"") and silent nodes
+(""the silent majority""), namely VS-Graph, are ubiquitous in the real world. The
+vocal nodes tend to have abundant features and labels. In contrast, silent
+nodes only have incomplete features and rare labels, e.g., the description and
+political tendency of politicians (vocal) are abundant while not for ordinary
+people (silent) on the twitter's social network. Predicting the silent majority
+remains a crucial yet challenging problem. However, most existing
+message-passing based GNNs assume that all nodes belong to the same domain,
+without considering the missing features and distribution-shift between
+domains, leading to poor ability to deal with VS-Graph. To combat the above
+challenges, we propose Knowledge Transferable Graph Neural Network (KT-GNN),
+which models distribution shifts during message passing and representation
+learning by transferring knowledge from vocal nodes to silent nodes.
+Specifically, we design the domain-adapted ""feature completion and message
+passing mechanism"" for node representation learning while preserving domain
+difference. And a knowledge transferable classifier based on KL-divergence is
+followed. Comprehensive experiments on real-world scenarios (i.e., company
+financial risk assessment and political elections) demonstrate the superior
+performance of our method. Our source code has been open sourced."
+21,Company-as-Tribe: Company Financial Risk Assessment on Tribe-Style Graph with Hierarchical Graph Neural Networks,Machine Learning,Wendong Bi; Bingbing Xu; Xiaoqian Sun; Zidong Wang; Huawei Shen; Xueqi Cheng,31-January-2023,"Company financial risk is ubiquitous and early risk assessment for listed
+companies can avoid considerable losses. Traditional methods mainly focus on
+the financial statements of companies and lack the complex relationships among
+them. However, the financial statements are often biased and lagged, making it
+difficult to identify risks accurately and timely. To address the challenges,
+we redefine the problem as \textbf{company financial risk assessment on
+tribe-style graph} by taking each listed company and its shareholders as a
+tribe and leveraging financial news to build inter-tribe connections. Such
+tribe-style graphs present different patterns to distinguish risky companies
+from normal ones. However, most nodes in the tribe-style graph lack attributes,
+making it difficult to directly adopt existing graph learning methods (e.g.,
+Graph Neural Networks(GNNs)). In this paper, we propose a novel Hierarchical
+Graph Neural Network (TH-GNN) for Tribe-style graphs via two levels, with the
+first level to encode the structure pattern of the tribes with contrastive
+learning, and the second level to diffuse information based on the inter-tribe
+relations, achieving effective and efficient risk assessment. Extensive
+experiments on the real-world company dataset show that our method achieves
+significant improvements on financial risk assessment over previous competing
+methods. Also, the extensive ablation studies and visualization comprehensively
+show the effectiveness of our method."
+22,Leveraging Collaboration for Multifaceted Design and Product Teams: A Financial Perspective,Human-Computer Interaction,Esha Shandilya; Jacalyn DeFeo,26-December-2022,"Collaboration is a key driving force for a team's success. In this case
+study, we discuss the collaboration practices of the Design Team and a subset
+of product teams at Chatham Financial -- a financial risk management advisory
+and technology firm. The Design Team's collaboration workflow has four key
+elements surrounding the structure, cross-team communication, onboarding, and
+feedback that occurs both in team and cross-team collaborative partnerships.
+Each of the key elements leads to a unique set of challenges and opportunities
+for the Design Team. We analyze the current state of each element, their value
+proposition, challenges, and initiatives undertaken to make the collaboration
+practice more robust"
+23,Dynamic spending and portfolio decisions with a soft social norm,Theoretical Economics,Knut Anton Mork; Fabian Andsem Harang; Haakon Andreas Trønnes; Vegard Skonseng Bjerketvedt,20-December-2022,"We explore the implications of a preference ordering for an investor-consumer
+with a strong preference for keeping consumption above an exogenous social
+norm, but who is willing to tolerate occasional dips below it. We do this by
+splicing two CRRA preference orderings, one with high curvature below the norm
+and the other with low curvature at or above it. We find this formulation
+appealing for many endowment funds and sovereign wealth funds, including the
+Norwegian Government Pension Fund Global, which inspired our research. We solve
+this model analytically as well as numerically and find that annual spending
+should not only be significantly lower than the expected financial return, but
+mostly also procyclical. In particular, financial losses should, as a rule, be
+followed by larger than proportional spending cuts, except when some smoothing
+is needed to keep spending from falling too far below the social norm. Yet, at
+very low wealth levels, spending should be kept particularly low in order to
+build sufficient wealth to raise consumption above the social norm. Financial
+risk taking should also be modest and procyclical, so that the investor
+sometimes may want to ""buy at the top"" and ""sell at the bottom"". Many of these
+features are shared by habitformation models and other models with some lower
+bound for consumption. However, our specification is more flexible and thus
+more easily adaptable to actual fund management. The nonlinearity of the policy
+functions may present challenges regarding delegation to professional managers.
+However, simpler rules of thumb with constant or slowly moving equity share and
+consumption-wealth ratio can reach almost the same expected discounted utility.
+However, the constant levels will then look very different from the
+implications of expected CRRA utility or Epstein-Zin preferences in that
+consumption is much lower."
+24,"Risk Theory and Pricing of ""Pay-for-Performance"" Business Models",Mathematical Finance,Roger Knecktys; Henrik Bette; Rüdiger Kiesel; Thomas Guhr,19-December-2022,"Technology trends as digitalization and Industry 4.0 initiate a growing
+demand for new business models. Most of this models requires a fundamental
+shift of operational and financial risks between seller and buyer. A key
+question is therefore how to include additional risk pricing and hedging. In
+this paper we propose a new approach for a risk theory of innovative
+performance based business models as ""Pay-for-Performance"" or ""Product as a
+Service"". A new model and calculation method for determination the risk premium
+is presented. It contains beside financial price fluctuations also operational
+failure behaviour of products. We apply the model for a typical industrial
+application and simulate the pricing dependency for different cost
+distributions."
+25,Financial Risk Management on a Neutral Atom Quantum Processor,Quantum Physics,Lucas Leclerc; Luis Ortiz-Guitierrez; Sebastian Grijalva; Boris Albrecht; Julia R. K. Cline; Vincent E. Elfving; Adrien Signoles; Loïc Henriet; Gianni Del Bimbo; Usman Ayub Sheikh; Maitree Shah; Luc Andrea; Faysal Ishtiaq; Andoni Duarte; Samuel Mugel; Irene Caceres; Michel Kurek; Roman Orus; Achraf Seddik; Oumaima Hammammi; Hacene Isselnane; Didier M'tamon,06-December-2022,"Machine Learning models capable of handling the large datasets collected in
+the financial world can often become black boxes expensive to run. The quantum
+computing paradigm suggests new optimization techniques, that combined with
+classical algorithms, may deliver competitive, faster and more interpretable
+models. In this work we propose a quantum-enhanced machine learning solution
+for the prediction of credit rating downgrades, also known as fallen-angels
+forecasting in the financial risk management field. We implement this solution
+on a neutral atom Quantum Processing Unit with up to 60 qubits on a real-life
+dataset. We report competitive performances against the state-of-the-art Random
+Forest benchmark whilst our model achieves better interpretability and
+comparable training times. We examine how to improve performance in the
+near-term validating our ideas with Tensor Networks-based numerical
+simulations."
+26,A Comprehensive Survey on Enterprise Financial Risk Analysis from Big Data Perspective,Risk Management,Yu Zhao; Huaming Du; Qing Li; Fuzhen Zhuang; Ji Liu; Gang Kou,28-November-2022,"Enterprise financial risk analysis aims at predicting the future financial
+risk of enterprises. Due to its wide and significant application, enterprise
+financial risk analysis has always been the core research topic in the fields
+of Finance and Management. Based on advanced computer science and artificial
+intelligence technologies, enterprise risk analysis research is experiencing
+rapid developments and making significant progress. Therefore, it is both
+necessary and challenging to comprehensively review the relevant studies.
+Although there are already some valuable and impressive surveys on enterprise
+risk analysis from the perspective of Finance and Management, these surveys
+introduce approaches in a relatively isolated way and lack recent advances in
+enterprise financial risk analysis. In contrast, this paper attempts to provide
+a systematic literature survey of enterprise risk analysis approaches from Big
+Data perspective, which reviews more than 250 representative articles in the
+past almost 50 years (from 1968 to 2023). To the best of our knowledge, this is
+the first and only survey work on enterprise financial risk from Big Data
+perspective. Specifically, this survey connects and systematizes the existing
+enterprise financial risk studies, i.e. to summarize and interpret the
+problems, methods, and spotlights in a comprehensive way. In particular, we
+first introduce the issues of enterprise financial risks in terms of their
+types,granularity, intelligence, and evaluation metrics, and summarize the
+corresponding representative works. Then, we compare the analysis methods used
+to learn enterprise financial risk, and finally summarize the spotlights of the
+most representative works. Our goal is to clarify current cutting-edge research
+and its possible future directions to model enterprise risk, aiming to fully
+understand the mechanisms of enterprise risk generation and contagion."
+27,Multilevel Monte Carlo and its Applications in Financial Engineering,Computational Finance,Devang Sinha; Siddhartha P. Chakrabarty,29-September-2022,"In this article, we present a review of the recent developments on the topic
+of Multilevel Monte Carlo (MLMC) algorithm, in the paradigm of applications in
+financial engineering. We specifically focus on the recent studies conducted in
+two subareas, namely, option pricing and financial risk management. For the
+former, the discussion involves incorporation of the importance sampling
+algorithm, in conjunction with the MLMC estimator, thereby constructing a
+hybrid algorithm in order to achieve reduction for the overall variance of the
+estimator. In case of the latter, we discuss the studies carried out in order
+to construct an efficient algorithm in order to estimate the risk measures of
+Value-at-Risk (VaR) and Conditional Var (CVaR), in an efficient manner. In this
+regard, we briefly discuss the motivation and the construction of an adaptive
+sampling algorithm with an aim to efficiently estimate the nested expectation,
+which, in general is computationally expensive."
+28,Newsvendor Conditional Value-at-Risk Minimisation with a Non-Parametric Approach,Optimization and Control,Congzheng Liu; Wenqi Zhu,22-September-2022,"In the classical Newsvendor problem, one must determine the order quantity
+that maximises the expected profit. Some recent works have proposed an
+alternative approach, in which the goal is to minimise the conditional
+value-at-risk (CVaR), a very popular risk measure in financial risk management.
+Unfortunately, CVaR estimation involves considering observations with extreme
+values, which poses problems for both parametric and non-parametric methods.
+Indeed, parametric methods often underestimate the downside risk, which leads
+to significant losses in extreme cases. The existing non-parametric methods, on
+the other hand, are extremely computationally expensive for large instances. In
+this paper, we propose an alternative non-parametric approach to CVaR
+minimisation that uses only a small proportion of the data. Using both
+simulation and real-life case studies, we show that the proposed method can be
+very useful in practice, allowing the decision makers to suffer less downside
+loss in extreme cases while requiring reasonable computing effort."
+29,A dynamic extreme value model with applications to volcanic eruption forecasting,Statistics Applications,Michele Nguyen; Almut E. D. Veraart; Benoit Taisne; Tan Chiou Ting; David Lallemant,23-August-2022,"Extreme events such as natural and economic disasters leave lasting impacts
+on society and motivate the analysis of extremes from data. While classical
+statistical tools based on Gaussian distributions focus on average behaviour
+and can lead to persistent biases when estimating extremes, extreme value
+theory (EVT) provides the mathematical foundations to accurately characterise
+extremes. In this paper, we adapt a dynamic extreme value model recently
+introduced to forecast financial risk from high frequency data to the context
+of natural hazard forecasting. We demonstrate its wide applicability and
+flexibility using a case study of the Piton de la Fournaise volcano. The value
+of using EVT-informed thresholds to identify and model extreme events is shown
+through forecast performance."
+30,Inference for Joint Quantile and Expected Shortfall Regression,Statistics Methodology,Xiang Peng; Huixia Judy Wang,22-August-2022,"Quantiles and expected shortfalls are commonly used risk measures in
+financial risk management. The two measurements are correlated while have
+distinguished features. In this project, our primary goal is to develop stable
+and practical inference method for conditional expected shortfall. To
+facilitate the statistical inference procedure, we consider the joint modeling
+of conditional quantile and expected shortfall. While the regression
+coefficients can be estimated jointly by minimizing a class of strictly
+consistent joint loss functions, the computation is challenging especially when
+the dimension of parameters is large since the loss functions are neither
+differentiable nor convex. To reduce the computational effort, we propose a
+two-step estimation procedure by first estimating the quantile regression
+parameters with standard quantile regression. We show that the two-step
+estimator has the same asymptotic properties as the joint estimator, but the
+former is numerically more efficient. We further develop a score-type inference
+method for hypothesis testing and confidence interval construction. Compared to
+the Wald-type method, the score method is robust against heterogeneity and is
+superior in finite samples, especially for cases with a large number of
+confounding factors. We demonstrate the advantages of the proposed methods over
+existing approaches through numerical studies."
+31,One-off Negative Sequential Pattern Mining,Databases,Youxi Wu; Mingjie Chen; Yan Li; Jing Liu; Zhao Li; Jinyan Li; Xindong Wu,25-July-2022,"Negative sequential pattern mining (SPM) is an important SPM research topic.
+Unlike positive SPM, negative SPM can discover events that should have occurred
+but have not occurred, and it can be used for financial risk management and
+fraud detection. However, existing methods generally ignore the repetitions of
+the pattern and do not consider gap constraints, which can lead to mining
+results containing a large number of patterns that users are not interested in.
+To solve this problem, this paper discovers frequent one-off negative
+sequential patterns (ONPs). This problem has the following two characteristics.
+First, the support is calculated under the one-off condition, which means that
+any character in the sequence can only be used once at most. Second, the gap
+constraint can be given by the user. To efficiently mine patterns, this paper
+proposes the ONP-Miner algorithm, which employs depth-first and backtracking
+strategies to calculate the support. Therefore, ONP-Miner can effectively avoid
+creating redundant nodes and parent-child relationships. Moreover, to
+effectively reduce the number of candidate patterns, ONP-Miner uses pattern
+join and pruning strategies to generate and further prune the candidate
+patterns, respectively. Experimental results show that ONP-Miner not only
+improves the mining efficiency, but also has better mining performance than the
+state-of-the-art algorithms. More importantly, ONP mining can find more
+interesting patterns in traffic volume data to predict future traffic."
+32,Climate-Contingent Finance,General Finance,John Nay,05-July-2022,"Climate adaptation could yield significant benefits. However, the uncertainty
+of which future climate scenarios will occur decreases the feasibility of
+proactively adapting. Climate adaptation projects could be underwritten by
+benefits paid for in the climate scenarios that each adaptation project is
+designed to address because other entities would like to hedge the financial
+risk of those scenarios. Because the return on investment is a function of the
+level of climate change, it is optimal for the adapting entity to finance
+adaptation with repayment as a function of the climate. It is also optimal for
+entities with more financial downside under a more extreme climate to serve as
+an investing counterparty because they can obtain higher than market rates of
+return when they need it most.
+  In this way, parties proactively adapting would reduce the risk they
+over-prepare, while their investors would reduce the risk they under-prepare.
+This is superior to typical insurance because, by investing in
+climate-contingent mechanisms, investors are not merely financially hedging but
+also outright preventing physical damage, and therefore creating economic
+value. This coordinates capital through time and place according to parties'
+risk reduction capabilities and financial profiles, while also providing a
+diversifying investment return.
+  Climate-contingent finance can be generalized to any situation where entities
+share exposure to a risk where they lack direct control over whether it occurs
+(e.g., climate change, or a natural pandemic), and one type of entity can take
+proactive actions to benefit from addressing the effects of the risk if it
+occurs (e.g., through innovating on crops that would do well under extreme
+climate change or vaccination technology that could address particular viruses)
+with funding from another type of entity that seeks a targeted return to
+ameliorate the downside."
+33,Time-consistent pension policy with minimum guarantee and sustainability constraint,Mathematical Finance,Caroline Hillairet; Sarah Kaakai; Mohamed Mrad,04-July-2022,"This paper proposes and investigates an optimal pair investment/pension
+policy for a pay-as-you-go (PAYG) pension scheme. The social planner can invest
+in a buffer fund in order to guarantee a minimal pension amount. The model aims
+at taking into account complex dynamic phenomena such as the demographic risk
+and its evolution over time, the time and age dependence of agents preferences,
+and financial risks. The preference criterion of the social planner is modeled
+by a consistent dynamic utility defined on a stochastic domain, which
+incorporates the heterogeneity of overlapping generations and its evolution
+over time. The preference criterion and the optimization problem also
+incorporate sustainability, adequacy and fairness constraints. The paper
+designs and solves the social planner's dynamic decision criterion, and
+computes the optimal investment/pension policy in a general framework. A
+detailed analysis for the case of dynamic power utilities is provided."
+34,Repenser le financement des entreprises vertueuses et les politiques prudentielles en int{é}grant la solvabilit{é} socio-environnementale,General Finance,Laura Chémali; Camille Souffron,14-June-2022,"Despite the amount of savings available and the money supply managed by
+financial institutions, significant market failures and the failure of carbon
+pricing strategies prevent sufficient financing of the transition, notably
+through bank credit. Aware of the links between natural, monetary and
+productive aggregates, we propose the development of ''eco-systemic''
+prudential policies by exposing the interdependence between macro, micro and
+environmental prudential measures. These would be based on a reorientation of
+corporate accounting standards towards the concept of socio-environmental
+solvency, notably the CARE-TDL model (integration of human and natural capital
+alongside financial capital on the liabilities side of the balance sheet). In
+an ecosystemic framework, this solvency of virtuous companies would compensate
+in accounting terms for the lack of financial solvency. The State would then be
+the guarantor in order to facilitate their access to financing, also reduced by
+Basel III and Solvency II. This policy develops a system of reallocation of
+financing capacities from non-virtuous companies to the most virtuous ones with
+public guarantees, aiming to reduce the debt ratio while increasing green
+investments, with monetary policies of rates but also of volumes and ratios
+differentiated according to the types of assets and the greening of bank
+balance sheets, and finally forms of public-private partnership. Facilitating
+the financing of green companies would green capital but increase it, partly
+neutralising the positive environmental impact. It is therefore necessary to
+limit the credit expansion of ''brown'' companies. This would reduce risky
+operations and favour less leveraged investments more connected to the real
+economy, reducing systemic financial risk. -- The Agenda 2030 Policy Briefs
+series (PoCFiN Kedge Business School - SDSN France - Institut Rousseau)
+mobilises economists and practitioners to identify an agenda of economic and
+financial reforms to achieve the 2030 Agenda, at territorial, national and
+supranational levels. These are published after peer review."
+35,Predicting Corporate Risk by Jointly Modeling Company Networks and Dialogues in Earnings Conference Calls,Computation and Language,Yunxin Sang; Yang Bao,25-May-2022,"Earnings conference calls are significant information events for volatility
+forecasting, which is essential for financial risk management and asset
+pricing. Although some recent volatility forecasting models have utilized the
+textual content of conference calls, the dialogue structures of conference
+calls and company relationships are almost ignored in extant literature. To
+bridge this gap, we propose a new model called Temporal Virtual Graph Neural
+Network (TVGNN) for volatility forecasting by jointly modeling conference call
+dialogues and company networks. Our model differs from existing models in
+several important ways. First, we propose to exploit more dialogue structures
+by encoding position, utterance, speaker role, and Q\&A segments. Second, we
+propose to encode the market states for volatility forecasting by extending the
+Gated Recurrent Units (GRU). Third, we propose a new method for constructing
+temporal company networks in which the messages can only flow from temporally
+preceding to successive nodes, and extend the Graph Attention Networks (GAT)
+for modeling company relationships. We collect conference call transcripts of
+S\&P500 companies from 2008 to 2019, and construct a dataset of conference call
+dialogues with additional information on dialogue structures and company
+networks. Empirical results on our dataset demonstrate the superiority of our
+model over competitive baselines for volatility forecasting. We also conduct
+supplementary analyses to examine the effectiveness of our model's key
+components and interpretability."
+36,Risks and Returns of Uniswap V3 Liquidity Providers,Risk Management,Lioba Heimbach; Eric Schertenleib; Roger Wattenhofer,18-May-2022,"Trade execution on Decentralized Exchanges (DEXes) is automatic and does not
+require individual buy and sell orders to be matched. Instead, liquidity
+aggregated in pools from individual liquidity providers enables trading between
+cryptocurrencies. The largest DEX measured by trading volume, Uniswap V3,
+promises a DEX design optimized for capital efficiency. However, Uniswap V3
+requires far more decisions from liquidity providers than previous DEX designs.
+  In this work, we develop a theoretical model to illustrate the choices faced
+by Uniswap V3 liquidity providers and their implications. Our model suggests
+that providing liquidity on Uniswap V3 is highly complex and requires many
+considerations from a user. Our supporting data analysis of the risks and
+returns of real Uniswap V3 liquidity providers underlines that liquidity
+providing in Uniswap V3 is incredibly complicated, and performances can vary
+wildly. While there are simple and profitable strategies for liquidity
+providers in liquidity pools characterized by negligible price volatilities,
+these strategies only yield modest returns. Instead, significant returns can
+only be obtained by accepting increased financial risks and at the cost of
+active management. Thus, providing liquidity has become a game reserved for
+sophisticated players with the introduction of Uniswap V3, where retail traders
+do not stand a chance."
+37,A Stochastic Climate Model -- An approach to calibrate the Climate-Extended Risk Model (CERM),Risk Management,Jean-Baptiste Gaudemet; Jules Deschamps; Olivier Vinciguerra,05-May-2022,"The initial Climate-Extended Risk Model (CERM) addresses the estimate of
+climate-related financial risk embedded within a bank loan portfolio, through a
+climatic extension of the Basel II IRB model. It uses a Gaussian copula model
+calibrated with non stationary macro-correlations in order to reflect the
+future evolution of climate-related financial risks. In this complementary
+article, we propose a stochastic forward-looking methodology to calibrate
+climate macro-correlation evolution from scientific climate data, for physical
+and transition efforts specifically. We assume a global physical and transition
+risk, likened to persistent greenhouse gas (GHG) concentration in the
+atmosphere. The economic risk is considered stationary and can therefore be
+calibrated with a backward-looking methodology. We present 4 key principles to
+model the GDP and we propose to model the economic, physical and transition
+effort factors with three interdependent stochastic processes allowing for a
+calibration with seven well defined parameters. These parameters can be
+calibrated using public data. This new approach means not only to evaluate
+climate risks without picking any specific scenario but also allows to fill the
+gap between current one year approach of regulatory and economic capital models
+and the necessarily long-term view of climate risks by designing a framework to
+evaluate the resulting credit loss on each step (typically yearly) of the
+transition path. This new approach could prove instrumental in the 2022 context
+of central banks weighing the pros and cons of a climate capital charge."
+38,Heterogeneous Information Network based Default Analysis on Banking Micro and Small Enterprise Users,Risk Management,Zheng Zhang; Yingsheng Ji; Jiachen Shen; Xi Zhang; Guangwen Yang,24-April-2022,"Risk assessment is a substantial problem for financial institutions that has
+been extensively studied both for its methodological richness and its various
+practical applications. With the expansion of inclusive finance, recent
+attentions are paid to micro and small-sized enterprises (MSEs). Compared with
+large companies, MSEs present a higher exposure rate to default owing to their
+insecure financial stability. Conventional efforts learn classifiers from
+historical data with elaborate feature engineering. However, the main obstacle
+for MSEs involves severe deficiency in credit-related information, which may
+degrade the performance of prediction. Besides, financial activities have
+diverse explicit and implicit relations, which have not been fully exploited
+for risk judgement in commercial banks. In particular, the observations on real
+data show that various relationships between company users have additional
+power in financial risk analysis. In this paper, we consider a graph of banking
+data, and propose a novel HIDAM model for the purpose. Specifically, we attempt
+to incorporate heterogeneous information network with rich attributes on
+multi-typed nodes and links for modeling the scenario of business banking
+service. To enhance feature representation of MSEs, we extract interactive
+information through meta-paths and fully exploit path information. Furthermore,
+we devise a hierarchical attention mechanism respectively to learn the
+importance of contents inside each meta-path and the importance of different
+metapahs. Experimental results verify that HIDAM outperforms state-of-the-art
+competitors on real-world banking data."
+39,Sample Recycling for Nested Simulation with Application in Portfolio Risk Measurement,Risk Management,Kun Zhang; Ben Mingbin Feng; Guangwu Liu; Shiyu Wang,29-March-2022,"Nested simulation is a natural approach to tackle nested estimation problems
+in operations research and financial engineering. The outer-level simulation
+generates outer scenarios and the inner-level simulations are run in each outer
+scenario to estimate the corresponding conditional expectation. The resulting
+sample of conditional expectations is then used to estimate different risk
+measures of interest. Despite its flexibility, nested simulation is notorious
+for its heavy computational burden. We introduce a novel simulation procedure
+that reuses inner simulation outputs to improve efficiency and accuracy in
+solving nested estimation problems. We analyze the convergence rates of the
+bias, variance, and MSE of the resulting estimator. In addition, central limit
+theorems and variance estimators are presented, which lead to asymptotically
+valid confidence intervals for the nested risk measure of interest. We conduct
+numerical studies on two financial risk measurement problems. Our numerical
+studies show consistent results with the asymptotic analysis and show that the
+proposed approach outperforms the standard nested simulation and a state-of-art
+regression approach for nested estimation problems."
